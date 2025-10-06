@@ -26,6 +26,7 @@
  * ```
  */
 declare module '$env/static/private' {
+	export const PYTHON_BASIC_REPL: string;
 	export const LESSOPEN: string;
 	export const CONDA_PROMPT_MODIFIER: string;
 	export const USER: string;
@@ -49,6 +50,7 @@ declare module '$env/static/private' {
 	export const npm_config_local_prefix: string;
 	export const PYDEVD_DISABLE_FILE_VALIDATION: string;
 	export const BUNDLED_DEBUGPY_PATH: string;
+	export const VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 	export const DBUS_SESSION_BUS_ADDRESS: string;
 	export const npm_config_engine_strict: string;
 	export const COLORTERM: string;
@@ -75,6 +77,7 @@ declare module '$env/static/private' {
 	export const DISPLAY: string;
 	export const VSCODE_DEBUGPY_ADAPTER_ENDPOINTS: string;
 	export const LANG: string;
+	export const PYTHONSTARTUP: string;
 	export const LS_COLORS: string;
 	export const VSCODE_GIT_IPC_HANDLE: string;
 	export const TERM_PROGRAM: string;
@@ -133,6 +136,7 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
+		PYTHON_BASIC_REPL: string;
 		LESSOPEN: string;
 		CONDA_PROMPT_MODIFIER: string;
 		USER: string;
@@ -156,6 +160,7 @@ declare module '$env/dynamic/private' {
 		npm_config_local_prefix: string;
 		PYDEVD_DISABLE_FILE_VALIDATION: string;
 		BUNDLED_DEBUGPY_PATH: string;
+		VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 		DBUS_SESSION_BUS_ADDRESS: string;
 		npm_config_engine_strict: string;
 		COLORTERM: string;
@@ -182,6 +187,7 @@ declare module '$env/dynamic/private' {
 		DISPLAY: string;
 		VSCODE_DEBUGPY_ADAPTER_ENDPOINTS: string;
 		LANG: string;
+		PYTHONSTARTUP: string;
 		LS_COLORS: string;
 		VSCODE_GIT_IPC_HANDLE: string;
 		TERM_PROGRAM: string;
