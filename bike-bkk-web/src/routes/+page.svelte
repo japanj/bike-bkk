@@ -143,48 +143,6 @@
         } finally {
             isLoading = false;
         }
-
-        // try {
-        //     const overpassQuery = `
-        //         [out:json][timeout:50];
-        //         (
-        //             nwr["amenity"~"restaurant|cafe|convenience"](around:${searchRadius},${lat},${lon});
-        //             nwr["tourism"~"museum|gallery|attraction|zoo"](around:${searchRadius},${lat},${lon});
-        //             nwr["leisure"~"park"](around:${searchRadius},${lat},${lon});
-        //         );
-        //         out center;
-        //     `;
-
-        //     const response = await fetch('https://overpass-api.de/api/interpreter', {
-        //         method: 'POST',
-        //         headers: {
-        //             'Content-Type': 'application/x-www-form-urlencoded'
-        //         },
-        //         body: `data=${encodeURIComponent(overpassQuery)}`
-        //     });
-
-        //     const data = await response.json();
-
-        //     console.log('Overpass API response:', data);
-
-        //     // Process the data
-        //     nearbyPlaces = data.elements.map((element: any) => ({
-        //         id: element.id,
-        //         type: element.type,
-        //         lat: element.lat || element.center?.lat,
-        //         lon: element.lon || element.center?.lon,
-        //         tags: element.tags || {},
-        //         facility: element.tags?.amenity || element.tags?.tourism || element.tags?.leisure || 'unknown',
-        //         name: element.tags?.name || 'Name is not defined',
-        //     })).filter((place: { lat: any; lon: any; }) => place.lat && place.lon);
-
-        //     console.log('Nearby places found:', nearbyPlaces);
-
-        // } catch (error) {
-        //     console.error('Error fetching nearby places:', error);
-        // } finally {
-        //     isLoading = false;
-        // }
     }
 
     // Handle search button click
@@ -277,7 +235,7 @@
                 routePopupLngLat = null;
             }}
         >
-            <div class="p-3 min-w-[200px]">
+            <div class="p-3 max-h-[200px] overflow-y-auto">
                 <h3 class="font-bold text-lg mb-2 text-red-600">
                     🚴 Bike Route
                 </h3>
@@ -341,7 +299,7 @@
                 ⭐
             </div>-->
             <Popup closeButton={true} closeOnClick={false}>
-                <div class="p-4 min-w-[250px]">
+                <div class="p-3 max-h-[200px] overflow-y-auto">
                     <h3 class="font-bold text-lg mb-2 text-yellow-600">
                         ⭐ Selected Place
                     </h3>
