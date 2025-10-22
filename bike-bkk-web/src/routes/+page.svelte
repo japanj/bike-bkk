@@ -9,6 +9,8 @@
         LineLayer,
         GeoJSONSource,
     } from "svelte-maplibre-gl";
+    import RoutePopup from "$lib/components/RoutePopup.svelte";
+    import NearbyPlacePopup from "$lib/components/NearbyPlacePopup.svelte";
 
     let lnglat: [number, number] = [100.503412, 13.7497695];
 
@@ -164,7 +166,7 @@
     }
 </script>
 
-<div class="flex items-center gap-x-4 text-sm" s>
+<div class="flex items-center gap-x-4 text-sm">
     <b>Layer:</b>
     <label>
         <input type="checkbox" bind:checked={markerVisible} /> Bike sharing location
@@ -178,15 +180,13 @@
     class="h-[55vh] min-h-[300px]"
     style="https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json"
     zoom={12}
-    center={{ lng: 100.503412, lat: 13.7497695 }}
+    center={lnglat}
     onclick={handleMapClick}
     onload={handleMapLoad}
 >
     <NavigationControl />
     <ScaleControl />
     <GlobeControl />
-
-    <!-- <Marker bind:lnglat draggable /> -->
 
     <GeoJSONSource data={bike_route} id="bike-route-source">
         <LineLayer
@@ -225,142 +225,26 @@
     {/if}
 
     <!-- Route popup -->
-    {#if routePopupVisible && routePopupLngLat && selectedRoute}
-        <Popup
-            lnglat={routePopupLngLat}
-            closeButton={true}
-            onclose={() => {
-                routePopupVisible = false;
-                selectedRoute = null;
-                routePopupLngLat = null;
-            }}
-        >
-            <div class="p-3 max-h-[200px] overflow-y-auto">
-                <h3 class="font-bold text-lg mb-2 text-red-600">
-                    🚴 Bike Route
-                </h3>
-
-                {#if selectedRoute.properties?.name}
-                    <p class="text-sm mb-1">
-                        <strong>Name:</strong>
-                        {selectedRoute.properties.name}
-                    </p>
-                {/if}
-
-                {#if selectedRoute.properties?.start}
-                    <p class="text-sm mb-1">
-                        <strong>Starting point:</strong>
-                        {selectedRoute.properties.start}
-                    </p>
-                {/if}
-
-                {#if selectedRoute.properties?.end}
-                    <p class="text-sm mb-1">
-                        <strong>Ending point:</strong>
-                        {selectedRoute.properties.end}
-                    </p>
-                {/if}
-
-                {#if selectedRoute.properties?.route}
-                    <p class="text-sm mb-1">
-                        <strong>Route type:</strong>
-                        {selectedRoute.properties.route}
-                    </p>
-                {/if}
-
-                <p class="text-xs text-gray-500 mt-2">
-                    Click location: {routePopupLngLat[1].toFixed(4)}, {routePopupLngLat[0].toFixed(
-                        4,
-                    )}
-                </p>
-            </div>
-
-            <!-- Search button -->
-            <div class="border-t pt-2">
-                <button
-                    class="w-full bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition-colors disabled:bg-gray-400"
-                    onclick={handleSearchNearby}
-                    disabled={isLoading}
-                >
-                    {#if isLoading}
-                        🔄 Searching...
-                    {:else}
-                        🔍 Search things nearby
-                    {/if}
-                </button>
-            </div>
-        </Popup>
-    {/if}
+    <RoutePopup
+        {routePopupVisible}
+        {routePopupLngLat}
+        {selectedRoute}
+        {isLoading}
+        onClose={() => {
+            routePopupVisible = false;
+            selectedRoute = null;
+            routePopupLngLat = null;
+        }}
+        onSearch={handleSearchNearby}
+    />
 
     <!-- Special marker for selected place -->
-    {#if selectedPlace && placeLngLat}
-        <Marker lnglat={placeLngLat} color="red">
-            <!--<div class="bg-yellow-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold border-2 border-yellow-600 shadow-lg animate-pulse">
-                ⭐
-            </div>-->
-            <Popup closeButton={true} closeOnClick={false}>
-                <div class="p-3 max-h-[200px] overflow-y-auto">
-                    <h3 class="font-bold text-lg mb-2 text-yellow-600">
-                        ⭐ Selected Place
-                    </h3>
-                    <h4 class="font-bold text-blue-600 mb-2">
-                        {selectedPlace.name}
-                    </h4>
-                    <p class="text-sm text-gray-600 capitalize mb-2">
-                        {selectedPlace.facility}
-                    </p>
+    <NearbyPlacePopup
+        {selectedPlace}
+        {placeLngLat}
+        {placePopupVisible}
+    />
 
-                    {#if selectedPlace.tags.phone}
-                        <p class="text-sm mb-2">
-                            📞 {selectedPlace.tags.phone}
-                        </p>
-                    {/if}
-
-                    {#if selectedPlace.tags.opening_hours}
-                        <p class="text-sm mb-2">
-                            🕒 {selectedPlace.tags.opening_hours}
-                        </p>
-                    {/if}
-
-                    {#if selectedPlace.tags.website}
-                        <p class="text-sm mb-2">
-                            🌐 <a
-                                href={selectedPlace.tags.website}
-                                target="_blank"
-                                class="text-blue-500 hover:underline"
-                                >Visit Website</a
-                            >
-                        </p>
-                    {/if}
-
-                    {#if selectedPlace.tags.cuisine}
-                        <p class="text-sm mb-2">
-                            🍽️ {selectedPlace.tags.cuisine}
-                        </p>
-                    {/if}
-
-                    <p class="text-xs text-gray-500 mt-3">
-                        📍 {selectedPlace.lat.toFixed(4)}, {selectedPlace.lon.toFixed(
-                            4,
-                        )}
-                    </p>
-
-                    <div class="border-t pt-2 mt-3">
-                        <button
-                            class="w-full bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600 transition-colors"
-                            onclick={() => {
-                                selectedPlace = null;
-                                placeLngLat = null;
-                                placePopupVisible = false;
-                            }}
-                        >
-                            Clear Selection
-                        </button>
-                    </div>
-                </div>
-            </Popup>
-        </Marker>
-    {/if}
 </MapLibre>
 
 <!-- Results panel below the map -->
