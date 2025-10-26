@@ -1,6 +1,6 @@
 <script lang="ts">
   import { Popup, Marker } from "svelte-maplibre-gl";
-  let { selectedPlace, placeLngLat, placePopupVisible } = $props();
+  let { selectedPlace, placeLngLat = $bindable(), placePopupVisible = $bindable() } = $props();
 </script>
 
 <Marker lnglat={placeLngLat} color="red">
@@ -53,9 +53,9 @@
         <button
           class="w-full bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600 transition-colors"
           onclick={() => {
-            selectedPlace = null;
-            placeLngLat = null;
             placePopupVisible = false;
+            // selectedPlace = null;
+            placeLngLat = null;
           }}
         >
           Clear Selection

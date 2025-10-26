@@ -8,6 +8,7 @@
     GlobeControl,
     LineLayer,
     GeoJSONSource,
+    CircleLayer,
   } from "svelte-maplibre-gl";
   import RoutePopup from "$lib/components/RoutePopup.svelte";
   import NearbyPlacePopup from "$lib/components/NearbyPlacePopup.svelte";
@@ -27,12 +28,12 @@
   let routePopupVisible = $state(false);
   let routePopupLngLat = $state<[number, number] | null>(null);
   let selectedRoute = $state<any>(null);
+  let highlightedRoute = $state<any>(null);
   let mapInstance: any = null;
 
   // Overpass API data
   let nearbyPlaces = $state<any[]>([]);
   let isLoading = $state(false);
-  let searchRadius = $state(500); // meters
 
   // For place popup
   let selectedPlace = $state<any>(null);
@@ -42,6 +43,9 @@
   // state for enable or disable layer
   let markerVisible = $state(true);
   let lineVisible = $state(true);
+
+  let isMarkerHighlighted = $state(false);
+  let highlightedStation = $state<any>(null);
 
   function handleMapLoad(event: any) {
     mapInstance = event.target;
@@ -53,6 +57,23 @@
     if (!mapInstance) return;
     console.log("Map click event:", event);
 
+    // Bike station click handling
+    const stationFeatures = mapInstance.queryRenderedFeatures(event.point, {
+      layers: ["bike-stations-layer"],
+    });
+
+    if (stationFeatures && stationFeatures.length > 0) {
+      console.log("Station clicked:", stationFeatures[0]);
+      highlightedStation = stationFeatures[0];
+      isMarkerHighlighted = true;
+    }
+    else {
+        // Clear highlighted station if clicking elsewhere
+        highlightedStation = null;
+        isMarkerHighlighted = false;
+    }
+
+    // Bike route click handling
     const features = mapInstance.queryRenderedFeatures(event.point, {
       layers: ["bike-route-layer"],
     });
@@ -60,8 +81,15 @@
 
     if (features && features.length > 0) {
       selectedRoute = features[0];
+      highlightedRoute = features[0]; // Add this line to highlight the route
       routePopupLngLat = [event.lngLat.lng, event.lngLat.lat];
       routePopupVisible = true;
+    } else {
+      // Clear highlight when clicking elsewhere
+      highlightedRoute = null;
+      routePopupVisible = false;
+      selectedRoute = null;
+      routePopupLngLat = null;
     }
   }
 
@@ -132,7 +160,10 @@
             element.tags?.tourism ||
             element.tags?.leisure ||
             "unknown",
-          name: element.tags?.name || element.tags?.["name:en"] || "Name is not defined",
+          name:
+            element.tags?.name ||
+            element.tags?.["name:en"] ||
+            "Name is not defined",
         }))
         .filter((place: { lat: any; lon: any }) => place.lat && place.lon);
 
@@ -198,14 +229,67 @@
     ></LineLayer>
   </GeoJSONSource>
 
-  {#if markerVisible}
-    {#each bike_sharing_loc.features as feature}
-      <BikeSharingPopup
-        {feature}
-        index={bike_sharing_loc.features.indexOf(feature)}
-        {markerVisible}
+  <!-- Highlighted route layer -->
+  {#if highlightedRoute && lineVisible}
+    <GeoJSONSource
+      data={{
+        type: "FeatureCollection",
+        features: [highlightedRoute],
+      }}
+      id="highlighted-route-source"
+    >
+      <LineLayer
+        id="highlighted-route-layer"
+        paint={{
+          "line-color": "#00ff00", // Bright green for highlight
+          "line-width": 6, // Thicker line
+          "line-opacity": 0.8,
+        }}
       />
-    {/each}
+    </GeoJSONSource>
+  {/if}
+
+  <GeoJSONSource data={bike_sharing_loc} id="bike-stations-source">
+    <!-- Regular bike stations -->
+    <CircleLayer
+      id="bike-stations-layer"
+      paint={{
+        "circle-radius": 8,
+        "circle-color": "#3b82f6", // Blue
+        "circle-stroke-width": 2,
+        "circle-stroke-color": "#ffffff",
+      }}
+      layout={{
+        visibility: markerVisible ? "visible" : "none",
+      }}
+    />
+
+    <!-- Highlighted station (orange) -->
+    {#if highlightedStation}
+      <CircleLayer
+        id="bike-stations-highlighted-layer"
+        paint={{
+          "circle-radius": 12,
+          "circle-color": "#f97316", // Orange
+          "circle-stroke-width": 3,
+          "circle-stroke-color": "#ffffff",
+          "circle-opacity": 0.8,
+        }}
+        filter={[
+          "==",
+          ["get", "sta_name"],
+          highlightedStation.properties?.sta_name || "",
+        ]}
+      />
+    {/if}
+  </GeoJSONSource>
+
+  {#if highlightedStation}
+    <BikeSharingPopup
+      {highlightedStation}
+      index={bike_sharing_loc.features.indexOf(highlightedStation)}
+      {isMarkerHighlighted}
+    />
   {/if}
 
   <!-- Route popup -->
@@ -225,7 +309,7 @@
 
   <!-- Special marker for selected place -->
   {#if selectedPlace && placeLngLat}
-    <NearbyPlacePopup {selectedPlace} {placeLngLat} {placePopupVisible} />
+    <NearbyPlacePopup {selectedPlace} bind:placeLngLat bind:placePopupVisible />
   {/if}
 </MapLibre>
 
@@ -233,16 +317,13 @@
 {#if nearbyPlaces.length > 0}
   <div class="mt-4 p-4 bg-gray-50 rounded-lg">
     <h3 class="font-bold text-lg mb-3">
-      📍 Nearby Places ({nearbyPlaces.length})
+      📍 Nearby Places of {selectedPlace?.name} ({nearbyPlaces.length})
     </h3>
     <div
       class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 max-h-60 overflow-y-auto"
     >
       {#each nearbyPlaces as place}
-        <NearbyPlaceCard
-          {place}
-          {handleNearbyPlaceClick}
-        />
+        <NearbyPlaceCard {place} {handleNearbyPlaceClick} />
       {/each}
     </div>
   </div>

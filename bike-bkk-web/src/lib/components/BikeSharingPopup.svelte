@@ -1,19 +1,29 @@
 <script lang="ts">
-    import { Marker, Popup } from "svelte-maplibre-gl";
-    let { feature, index, markerVisible } = $props();
+  import { Popup } from "svelte-maplibre-gl";
+  let {
+    highlightedStation = $bindable(),
+    index,
+    isMarkerHighlighted = $bindable(),
+  } = $props();
 </script>
 
-<Marker bind:lnglat={feature.geometry.coordinates} bind:open={markerVisible}>
-  <Popup closeButton={true} closeOnClick={false}>
-    <div class="p-2">
-      <h3 class="font-bold text-lg">
-        {feature.properties?.sta_name ?? `Station ${index + 1}`}
-      </h3>
-      <p class="text-sm text-gray-600">
-        Location: {feature.geometry.coordinates[1].toFixed(4)}, {feature.geometry.coordinates[0].toFixed(
-          4
-        )}
-      </p>
-    </div>
-  </Popup>
-</Marker>
+<Popup
+  lnglat={highlightedStation.geometry.coordinates}
+  closeButton={true}
+  bind:open={isMarkerHighlighted}
+  onclose={() => {
+    isMarkerHighlighted = false;
+    // highlightedStation = null;
+  }}
+>
+  <div class="p-2">
+    <h3 class="font-bold text-lg">
+      {highlightedStation.properties?.sta_name ?? `Station ${index + 1}`}
+    </h3>
+    <p class="text-sm text-gray-600">
+      Location: {highlightedStation.geometry.coordinates[1].toFixed(4)}, {highlightedStation.geometry.coordinates[0].toFixed(
+        4
+      )}
+    </p>
+  </div>
+</Popup>
