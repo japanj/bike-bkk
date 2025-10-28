@@ -4,9 +4,6 @@
 </script>
 
 <Marker lnglat={placeLngLat} color="red">
-  <!--<div class="bg-yellow-500 text-white rounded-full w-8 h-8 flex items-center justify-center text-sm font-bold border-2 border-yellow-600 shadow-lg animate-pulse">
-                ⭐
-            </div>-->
   <Popup closeButton={true} closeOnClick={false}>
     <div class="p-3 max-h-[200px] overflow-y-auto">
       <h3 class="font-bold text-lg mb-2 text-yellow-600">⭐ Selected Place</h3>

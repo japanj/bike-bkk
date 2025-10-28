@@ -45,6 +45,7 @@ declare module '$env/static/private' {
 	export const npm_package_json: string;
 	export const NVM_INC: string;
 	export const VSCODE_GIT_ASKPASS_MAIN: string;
+	export const PS1: string;
 	export const VSCODE_GIT_ASKPASS_NODE: string;
 	export const npm_config_userconfig: string;
 	export const npm_config_local_prefix: string;
@@ -78,6 +79,7 @@ declare module '$env/static/private' {
 	export const VSCODE_DEBUGPY_ADAPTER_ENDPOINTS: string;
 	export const LANG: string;
 	export const PYTHONSTARTUP: string;
+	export const VIRTUAL_ENV_PROMPT: string;
 	export const LS_COLORS: string;
 	export const VSCODE_GIT_IPC_HANDLE: string;
 	export const TERM_PROGRAM: string;
@@ -90,6 +92,7 @@ declare module '$env/static/private' {
 	export const npm_lifecycle_event: string;
 	export const LESSCLOSE: string;
 	export const CONDA_DEFAULT_ENV: string;
+	export const VIRTUAL_ENV: string;
 	export const VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 	export const npm_config_globalconfig: string;
 	export const npm_config_init_module: string;
@@ -155,6 +158,7 @@ declare module '$env/dynamic/private' {
 		npm_package_json: string;
 		NVM_INC: string;
 		VSCODE_GIT_ASKPASS_MAIN: string;
+		PS1: string;
 		VSCODE_GIT_ASKPASS_NODE: string;
 		npm_config_userconfig: string;
 		npm_config_local_prefix: string;
@@ -188,6 +192,7 @@ declare module '$env/dynamic/private' {
 		VSCODE_DEBUGPY_ADAPTER_ENDPOINTS: string;
 		LANG: string;
 		PYTHONSTARTUP: string;
+		VIRTUAL_ENV_PROMPT: string;
 		LS_COLORS: string;
 		VSCODE_GIT_IPC_HANDLE: string;
 		TERM_PROGRAM: string;
@@ -200,6 +205,7 @@ declare module '$env/dynamic/private' {
 		npm_lifecycle_event: string;
 		LESSCLOSE: string;
 		CONDA_DEFAULT_ENV: string;
+		VIRTUAL_ENV: string;
 		VSCODE_GIT_ASKPASS_EXTRA_ARGS: string;
 		npm_config_globalconfig: string;
 		npm_config_init_module: string;

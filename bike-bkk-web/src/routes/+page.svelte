@@ -126,8 +126,10 @@
                 [out:json][timeout:120];
                 (
                     nwr["amenity"~"restaurant|cafe|convenience"](poly:"${swappedCoordinates}");
-                    nwr["tourism"~"museum|gallery|attraction|zoo"](poly:"${swappedCoordinates}");
-                    nwr["leisure"~"park"](poly:"${swappedCoordinates}");
+                    nwr["tourism"~"museum|gallery|attraction|zoo|viewpoint"](poly:"${swappedCoordinates}");
+                    nwr["leisure"~"park|nature_reserve"](poly:"${swappedCoordinates}");
+                    nwr["shop"~"bakery|coffee|food|ice_cream|pastry|department_store"](poly:"${swappedCoordinates}");
+                    nwr["building"~"religious"](poly:"${swappedCoordinates}");
                 );
                 out center;
             `;
@@ -156,6 +158,8 @@
             element.tags?.amenity ||
             element.tags?.tourism ||
             element.tags?.leisure ||
+            element.tags?.shop ||
+            element.tags?.building ||
             "unknown",
           name:
             element.tags?.name ||
@@ -191,7 +195,7 @@
   }
 </script>
 
-<div class="flex items-center gap-x-4 text-sm">
+<div class="flex items-center gap-x-4 text-base">
   <b>Layer:</b>
   <label>
     <input type="checkbox" bind:checked={markerVisible} /> Bike Sharing Location (จุดจอดจักรยานสาธารณะ)
@@ -200,6 +204,8 @@
     <input type="checkbox" bind:checked={lineVisible} /> Bike Route (เส้นทางจักรยาน)
   </label>
 </div>
+
+<br />
 
 <MapLibre
   class="h-[55vh] min-h-[300px]"

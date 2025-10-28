@@ -44,7 +44,7 @@
     {#if selectedRoute.properties?.distance}
       <p class="text-sm mb-1">
         <strong>Distance:</strong>
-        {selectedRoute.properties.distance} km
+        {selectedRoute.properties.distance} km 
       </p>
     {/if}
 

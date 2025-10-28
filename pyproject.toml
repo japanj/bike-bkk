@@ -1,0 +1,9 @@
+[project]
+name = "bike-bkk"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "folium>=0.20.0",
+    "matplotlib>=3.10.7",
+    "osmnx>=2.0.6",
+]
