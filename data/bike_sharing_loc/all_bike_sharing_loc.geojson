@@ -1,0 +1,3859 @@
+{
+  "type": "FeatureCollection",
+  "name": "all_bike_sharing_loc",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any001",
+        "location": "จามจุรีสแควร์",
+        "lat": 13.73305,
+        "long": 100.52918,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52918, 13.73305, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any002",
+        "location": "ตรงข้ามสามย่านมิตรทาวน์",
+        "lat": 13.73379,
+        "long": 100.52894,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52894, 13.73379, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any003",
+        "location": "พิพิธภัณฑ์เทคโนโลยีทางกายภาพ",
+        "lat": 13.73662,
+        "long": 100.52938,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52938, 13.73662, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any004",
+        "location": "โรงเรียนเตรียมอุดมศึกษา",
+        "lat": 13.74011,
+        "long": 100.52982,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52982, 13.74011, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any005",
+        "location": "มาบุญครอง MBK center",
+        "lat": 13.7436,
+        "long": 100.53024,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53024, 13.7436, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any006",
+        "location": "สยามเซ็นเตอร์ Siam Center",
+        "lat": 13.74578,
+        "long": 100.53309,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53309, 13.74578, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any007",
+        "location": "สยามพารากอน Siam paragon",
+        "lat": 13.74598,
+        "long": 100.53443,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53443, 13.74598, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any008",
+        "location": "-",
+        "lat": 13.74541,
+        "long": 100.5349,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5349, 13.74541, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any009",
+        "location": "โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ",
+        "lat": 13.73957,
+        "long": 100.53503,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53503, 13.73957, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any010",
+        "location": "โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย",
+        "lat": 13.72991,
+        "long": 100.53582,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53582, 13.72991, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any011",
+        "location": "สีลมคอมเพล็กซ",
+        "lat": 13.72901,
+        "long": 100.53596,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53596, 13.72901, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any012",
+        "location": "สวนลุมพิน",
+        "lat": 13.7294,
+        "long": 100.53731,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53731, 13.7294, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any013",
+        "location": "สวนลุมพิน",
+        "lat": 13.7339,
+        "long": 100.53845,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53845, 13.7339, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any014",
+        "location": "BTS ราชดำริ",
+        "lat": 13.7384,
+        "long": 100.53945,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53945, 13.7384, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any015",
+        "location": "โรงพยาบาลตำรวจ",
+        "lat": 13.74418,
+        "long": 100.54003,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54003, 13.74418, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any016",
+        "location": "เซ็นทรัลเวิลด์",
+        "lat": 13.74508,
+        "long": 100.53924,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53924, 13.74508, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any017",
+        "location": "เซ็นทรัลเวิลด์",
+        "lat": 13.74531,
+        "long": 100.54029,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54029, 13.74531, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any018",
+        "location": "กรุงศรีฯ เพลินจิต",
+        "lat": 13.74347,
+        "long": 100.54687,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54687, 13.74347, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any019",
+        "location": "สถานีปาร์คเวนเชอร์ อีโคเพล็กซ์",
+        "lat": 13.74285,
+        "long": 100.54795,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54795, 13.74285, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any020",
+        "location": "ออลซีซันเพลส",
+        "lat": 13.73974,
+        "long": 100.54702,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54702, 13.73974, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any021",
+        "location": "ร่วมฤดี",
+        "lat": 13.73508,
+        "long": 100.54601,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54601, 13.73508, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any022",
+        "location": "สวนลุมพินี",
+        "lat": 13.72675,
+        "long": 100.54441,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54441, 13.72675, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any023",
+        "location": "MRT สวนลุมพิน",
+        "lat": 13.72625,
+        "long": 100.54505,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54505, 13.72625, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any024",
+        "location": "ICBC",
+        "lat": 13.72476,
+        "long": 100.54066,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.54066, 13.72476, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any025",
+        "location": "Department of architecture",
+        "lat": 13.72453,
+        "long": 100.53934,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53934, 13.72453, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any026",
+        "location": "คอนแวนต",
+        "lat": 13.72348,
+        "long": 100.53566,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53566, 13.72348, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any027",
+        "location": "Ascott Embassy Sathorn Bangkok",
+        "lat": 13.72325,
+        "long": 100.53541,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53541, 13.72325, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any028",
+        "location": "ตรงข้ามโรงแรมเอเวอร์กรีน ลอเรล กรุงเทพฯ",
+        "lat": 13.72286,
+        "long": 100.53396,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53396, 13.72286, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any029",
+        "location": "แสงทองธานี",
+        "lat": 13.72271,
+        "long": 100.5327,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5327, 13.72271, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any030",
+        "location": "อาคารสาธรซิตี้ทาวเวอร์",
+        "lat": 13.72215,
+        "long": 100.53151,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53151, 13.72215, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any031",
+        "location": "สาธรธานี",
+        "lat": 13.72235,
+        "long": 100.53055,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53055, 13.72235, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any032",
+        "location": "สาธร สแควร์",
+        "lat": 13.72234,
+        "long": 100.52969,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52969, 13.72234, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any033",
+        "location": "สาธร สแควร์",
+        "lat": 13.72158,
+        "long": 100.53001,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53001, 13.72158, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any034",
+        "location": "รัจนาการ",
+        "lat": 13.72151,
+        "long": 100.52922,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52922, 13.72151, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any035",
+        "location": "BTS เซนต์หลุยส์",
+        "lat": 13.72099,
+        "long": 100.52686,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52686, 13.72099, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any036",
+        "location": "วิทยาลัยเซนต์หลุยส",
+        "lat": 13.72017,
+        "long": 100.52464,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52464, 13.72017, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any037",
+        "location": "BTS สุรศักด",
+        "lat": 13.7191,
+        "long": 100.52168,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52168, 13.7191, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any038",
+        "location": "BTS สุรศักด",
+        "lat": 13.71914,
+        "long": 100.52079,
+        "num_bike": 10.0,
+        "district": "เขตสาทร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.52079, 13.71914, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any039",
+        "location": "ฮอลิเดย์ อินน์ สีลม",
+        "lat": 13.72305,
+        "long": 100.5195,
+        "num_bike": 10.0,
+        "district": "เขตบางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5195, 13.72305, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any040",
+        "location": "โรงแรมเอเชียกรุงเทพ",
+        "lat": 13.751,
+        "long": 100.53118,
+        "num_bike": 10.0,
+        "district": "เขตราชเทวี"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53118, 13.751, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any041",
+        "location": "MRT หัวลำโพง",
+        "lat": 13.73788,
+        "long": 100.51694,
+        "num_bike": 10.0,
+        "district": "เขตปทุมวัน"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.51694, 13.73788, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any042",
+        "location": "MRT วัดมังกร",
+        "lat": 13.74209,
+        "long": 100.51037,
+        "num_bike": 10.0,
+        "district": "เขตป้อมปราบศัตรูพ่าย"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.51037, 13.74209, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any043",
+        "location": "ตรงข้ามเสือป่าพลาซ่า",
+        "lat": 13.74401,
+        "long": 100.50779,
+        "num_bike": 5.0,
+        "district": "เขตป้อมปราบศัตรูพ่าย"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50779, 13.74401, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any044",
+        "location": "MRT สามยอด",
+        "lat": 13.74708,
+        "long": 100.50253,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50253, 13.74708, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any045",
+        "location": "สวนรมณีนาถ",
+        "lat": 13.74943,
+        "long": 100.5037,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5037, 13.74943, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any046",
+        "location": "สถานีตำรวจนครบาลสำราญราษฏร",
+        "lat": 13.75105,
+        "long": 100.50417,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50417, 13.75105, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any047",
+        "location": "สวนสาธารณะป้อมมหากาฬ",
+        "lat": 13.75447,
+        "long": 100.50519,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50519, 13.75447, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any048",
+        "location": "ศาลาว่าการกรุงเทพมหานครฯ",
+        "lat": 13.75358,
+        "long": 100.50179,
+        "num_bike": 10.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50179, 13.75358, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any049",
+        "location": "โรงเรียนเบญจมราชาลัย ในพระบรมราชูปถัมภ",
+        "lat": 13.75097,
+        "long": 100.50191,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50191, 13.75097, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any050",
+        "location": "สวนรมณีนาถ",
+        "lat": 13.74889,
+        "long": 100.50178,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50178, 13.74889, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any051",
+        "location": "ทิพย์สมัย ผัดไทยประตูผ",
+        "lat": 13.75291,
+        "long": 100.50437,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50437, 13.75291, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any052",
+        "location": "หลังศาลาว่าการกรุงเทพมหานครฯ",
+        "lat": 13.75458,
+        "long": 100.50125,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50125, 13.75458, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any053",
+        "location": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+        "lat": 13.75159,
+        "long": 100.50098,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50098, 13.75159, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any054",
+        "location": "ศาลาการเปรียญวัดสุทัศน์",
+        "lat": 13.74958,
+        "long": 100.50006,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.50006, 13.74958, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any055",
+        "location": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+        "lat": 13.74969,
+        "long": 100.49786,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.49786, 13.74969, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any056",
+        "location": "กระทรวงมหาดไทย",
+        "lat": 13.75157,
+        "long": 100.49828,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.49828, 13.75157, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any057",
+        "location": "โรงเรียนวัดมหรรณพาราม ในพระราชูปถัมภ์",
+        "lat": 13.75394,
+        "long": 100.4986,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.4986, 13.75394, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Any058",
+        "location": "กระทรวงมหาดไทย",
+        "lat": 13.75137,
+        "long": 100.49647,
+        "num_bike": 5.0,
+        "district": "เขตพระนคร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.49647, 13.75137, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs001",
+        "location": "ด้านหน้า MRT หัวลำโพง ใกล้จุดจอดจักรยาน MRT",
+        "lat": 13.737674,
+        "long": 100.517227,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.517227, 13.737674, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs002",
+        "location": "ด้านหน้าร้านแว่นท๊อปเจริญ ก่อนถึงโรงแรมเอเชีย",
+        "lat": 13.750934,
+        "long": 100.531312,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.531312, 13.750934, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs003",
+        "location": "ใต้ BTS ราชเทวี หน้า Coco Walk",
+        "lat": 13.751722,
+        "long": 100.531632,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.531632, 13.751722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs004",
+        "location": "ด้านหน้าศูนย์การค้า เอ็ม บี เค เซ็นเตอร์",
+        "lat": 13.743403,
+        "long": 100.530186,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.530186, 13.743403, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs005",
+        "location": "ด้านหน้าอาคารสำนักงานจัดการทรัพย์สินจุฬาฯ ถนนพญาไท",
+        "lat": 13.740266,
+        "long": 100.529746,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529746, 13.740266, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs006",
+        "location": "บริเวณหัวมุมสามย่านมิตรทาวน์",
+        "lat": 13.73328,
+        "long": 100.528415,
+        "num_bike": 8.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.528415, 13.73328, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs007",
+        "location": "หัวมุมอาคารจามจุรีสแควร์ ถนนพญาไท",
+        "lat": 13.733135,
+        "long": 100.529151,
+        "num_bike": 8.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529151, 13.733135, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs008",
+        "location": "บริเวณด้านหน้าคณะบัญชี ใกล้อุโมงค์ทางลอด ถนนพญาไท",
+        "lat": 13.73661,
+        "long": 100.529443,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529443, 13.73661, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs009",
+        "location": "ตรงข้ามโรงแรมปทุมวันปริ๊นเซส ถนนพญาไท",
+        "lat": 13.74296,
+        "long": 100.530415,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.530415, 13.74296, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs010",
+        "location": "หัวมุมแยกปทุมวัน ตรงข้ามเอ็ม บี เค เซ็นเตอร์ ถนนพญาไท",
+        "lat": 13.745581,
+        "long": 100.530788,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.530788, 13.745581, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs011",
+        "location": "ด้านหน้าอาคารสยามเซ็นเตอร์",
+        "lat": 13.745808,
+        "long": 100.533278,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533278, 13.745808, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs012",
+        "location": "ด้านหน้าธนาคารกรุงเทพ ตรงข้ามสยามพารากอน",
+        "lat": 13.74543,
+        "long": 100.534757,
+        "num_bike": 8.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534757, 13.74543, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs013",
+        "location": "ด้านหน้าราชกรีฑาสโมสร",
+        "lat": 13.739625,
+        "long": 100.535033,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535033, 13.739625, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs014",
+        "location": "ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนพระราม 1",
+        "lat": 13.744846,
+        "long": 100.539241,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.539241, 13.744846, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs015",
+        "location": "ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนราชดำริ",
+        "lat": 13.745441,
+        "long": 100.540312,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540312, 13.745441, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs016",
+        "location": "ด้านหน้าสวนปทุมวนานุรักษ์",
+        "lat": 13.748723,
+        "long": 100.540861,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540861, 13.748723, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs017",
+        "location": "ก่อนถึงสี่แยกราชประสงค์ มุ่งหน้าเพชรบุรี",
+        "lat": 13.744028,
+        "long": 100.54004,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.54004, 13.744028, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs018",
+        "location": "ด้านหน้าโรงเรียนมาแตเดอีย์",
+        "lat": 13.744037,
+        "long": 100.54274,
+        "num_bike": 3.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.54274, 13.744037, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs019",
+        "location": "ด้านข้างธนาคารกรุงศรีอยุธยา ถนนวิทยุ",
+        "lat": 13.742721,
+        "long": 100.547287,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.547287, 13.742721, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs020",
+        "location": "ด้านหน้าอาคารปาร์คเวนเจอร์",
+        "lat": 13.743137,
+        "long": 100.547969,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.547969, 13.743137, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs021",
+        "location": "ด้านหน้าอาคารเวฟเพลส ถนนเพลินจิต",
+        "lat": 13.743365,
+        "long": 100.547935,
+        "num_bike": 3.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.547935, 13.743365, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs022",
+        "location": "ด้านหน้าอาคารออลซีซั่นเพลส",
+        "lat": 13.739513,
+        "long": 100.546979,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.546979, 13.739513, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs023",
+        "location": "ด้านหน้าบ้านพักสถานทูต ใกล้ BTS ราชดำริ",
+        "lat": 13.738416,
+        "long": 100.539472,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.539472, 13.738416, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs024",
+        "location": "ก่อนทางเข้าจุดจอดรถชั่วคราวสวนลุมพินี ฝั่งถนนราชดำริ",
+        "lat": 13.734023,
+        "long": 100.538533,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.538533, 13.734023, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs025",
+        "location": "เลยอาคาร Med Park มา ข้างจุดจอดรถ MRT ศูนย์สิริกิติ์",
+        "lat": 13.72069,
+        "long": 100.558372,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.558372, 13.72069, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs026",
+        "location": "บริเวณข้างโรงพยาบาลจุฬา ฝั่งถนนพระราม 4",
+        "lat": 13.730013,
+        "long": 100.535985,
+        "num_bike": 3.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535985, 13.730013, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs027",
+        "location": "ด้านหน้าอาคารซิลลิคเฮ้าส์ ถนนสีลม",
+        "lat": 13.729052,
+        "long": 100.536065,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.536065, 13.729052, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs028",
+        "location": "ด้านหน้าศูนย์การค้าสีลมคอมเพล็กซ์",
+        "lat": 13.728492,
+        "long": 100.534426,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534426, 13.728492, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs029",
+        "location": "ด้านหน้าโรงแรมฮอลิเดย์ อินน์ ก่อนถึงแยกสุรศักดิ์",
+        "lat": 13.723147,
+        "long": 100.519543,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.519543, 13.723147, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs030",
+        "location": "ด้านหน้าอาคารวรวัฒน์",
+        "lat": 13.723877,
+        "long": 100.521592,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.521592, 13.723877, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs031",
+        "location": "ด้านหน้าอาคารนานมี ถนนสาทรเหนือ",
+        "lat": 13.71925,
+        "long": 100.520579,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.520579, 13.71925, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs032",
+        "location": "บริเวณก่อนถึงโรงแรมอีสิตน และทางขึ้น BTS สุรศักดิ์",
+        "lat": 13.71934,
+        "long": 100.522522,
+        "num_bike": 4.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.522522, 13.71934, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs033",
+        "location": "บริเวณด้านหน้าโรงพยาบาลเซ็นต์หลุยส์",
+        "lat": 13.720091,
+        "long": 100.524825,
+        "num_bike": 4.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.524825, 13.720091, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs034",
+        "location": "บริเวณเลย Health Land และปากซอยสาทร 12 มาเล็กน้อย",
+        "lat": 13.721079,
+        "long": 100.526803,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.526803, 13.721079, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs035",
+        "location": "ด้านหน้าอาคารสาทรสแควร์",
+        "lat": 13.72236,
+        "long": 100.529758,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529758, 13.72236, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs036",
+        "location": "ด้านข้างอาคารสารทรสแควร์ ก่อนถึงสี่แยกสาทร-นราธิวาสฯ",
+        "lat": 13.721888,
+        "long": 100.529617,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529617, 13.721888, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs037",
+        "location": "ด้านหน้าอาคารรัจนาการ",
+        "lat": 13.721364,
+        "long": 100.529324,
+        "num_bike": 5.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.529324, 13.721364, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs038",
+        "location": "ด้านหน้าอาคารสาทรธานี ก่อนถึงสี่แยกสาทร-นราธิวาส",
+        "lat": 13.722422,
+        "long": 100.5303,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5303, 13.722422, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs039",
+        "location": "ด้านหน้าอาคารสาทรซิตี้ ทาวเวอร์",
+        "lat": 13.722034,
+        "long": 100.53151,
+        "num_bike": 4.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.53151, 13.722034, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs040",
+        "location": "ด้านหน้าอาคารแสงทองธานี",
+        "lat": 13.722764,
+        "long": 100.532612,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.532612, 13.722764, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs041",
+        "location": "ด้านหน้าคอนโด The Met ถนนสาทรใต้",
+        "lat": 13.722786,
+        "long": 100.534108,
+        "num_bike": 4.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534108, 13.722786, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs042",
+        "location": "ด้านหน้าโรงเรียนเรนโบว์แลนด์ ถนนสาทรเหนือ",
+        "lat": 13.723606,
+        "long": 100.535561,
+        "num_bike": 4.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535561, 13.723606, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs043",
+        "location": "ตรงข้ามซอยคอนแวนต์ ก่อนถึงอาคารปัญจภูมิ",
+        "lat": 13.723205,
+        "long": 100.535443,
+        "num_bike": 3.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535443, 13.723205, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs044",
+        "location": "บริเวณด้านหน้าอาคารสาทรมาร์ท (เดิม) ข้าง Smooth E",
+        "lat": 13.724734,
+        "long": 100.539367,
+        "num_bike": 3.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.539367, 13.724734, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs045",
+        "location": "บริเวณด้านประตูทางเข้าสวนลุมพินี ฝั่งหัวมุมถนนวิทยุ",
+        "lat": 13.726814,
+        "long": 100.544304,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.544304, 13.726814, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs046",
+        "location": "ด้านหน้า MRT สวนลุม ด้านหน้า One Bangkok",
+        "lat": 13.726283,
+        "long": 100.545034,
+        "num_bike": 3.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.545034, 13.726283, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs047",
+        "location": "ด้านหน้าโครงการ One Bangkok ก่อนถึงซอยปลูกจิต",
+        "lat": 13.724726,
+        "long": 100.548602,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.548602, 13.724726, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs048",
+        "location": "ก่อนถึงอาคารลุมพินี ทาวเวอร์",
+        "lat": 13.723854,
+        "long": 100.549854,
+        "num_bike": 4.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.549854, 13.723854, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs049",
+        "location": "หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 1) ฝั่งใกล้ Center One",
+        "lat": 13.764465,
+        "long": 100.538832,
+        "num_bike": 8.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.538832, 13.764465, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs050",
+        "location": "หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 2) ฝั่งเลี้ยวเข้าถนนพญาไท",
+        "lat": 13.764047,
+        "long": 100.538055,
+        "num_bike": 8.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.538055, 13.764047, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs051",
+        "location": "ด้านหน้าคอนโด Ideo Q Victory",
+        "lat": 13.762363,
+        "long": 100.537,
+        "num_bike": 4.0,
+        "district": "พญาไท"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.537, 13.762363, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs052",
+        "location": "หัวมุมอาคารวรรณสรณ์",
+        "lat": 13.758195,
+        "long": 100.534702,
+        "num_bike": 4.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534702, 13.758195, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs053",
+        "location": "ใต้ BTS ราชวิถี หน้าร้าน Sleep lab ฝั่งมุ่งหน้าสามย่าน",
+        "lat": 13.756206,
+        "long": 100.533568,
+        "num_bike": 4.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533568, 13.756206, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs054",
+        "location": "หน้าอาคาร CP Tower 3",
+        "lat": 13.757044,
+        "long": 100.533685,
+        "num_bike": 4.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533685, 13.757044, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs055",
+        "location": "ริมรั้วสถาบันโรคหัวใจ โรงพยาบาลราชวิถี ฝั่งถนนพญาไท",
+        "lat": 13.763809,
+        "long": 100.537483,
+        "num_bike": 4.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.537483, 13.763809, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs056",
+        "location": "ด้านหน้าทางเข้า-ออก MRT สุขุมวิท ประตู 1",
+        "lat": 13.738571,
+        "long": 100.561517,
+        "num_bike": 10.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561517, 13.738571, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs057",
+        "location": "ด้านหน้าสภาวิชาชีพบัญชี",
+        "lat": 13.739567,
+        "long": 100.561773,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561773, 13.739567, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs058",
+        "location": "ด้านหน้าธนาคารเกียรตินาคิน",
+        "lat": 13.74499,
+        "long": 100.562454,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.562454, 13.74499, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs059",
+        "location": "ก่อนถึง MRT เพชรบุรี ตรงข้ามอาคาร ESSE",
+        "lat": 13.748491,
+        "long": 100.563223,
+        "num_bike": 6.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563223, 13.748491, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs060",
+        "location": "The ESSE",
+        "lat": 13.748707,
+        "long": 100.563535,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563535, 13.748707, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs061",
+        "location": "ด้านหน้าธนาคารอิสลามแห่งประเทศไทย",
+        "lat": 13.745448,
+        "long": 100.56266,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.56266, 13.745448, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs062",
+        "location": "หน้า Bangkok Smile Dental",
+        "lat": 13.740711,
+        "long": 100.561994,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561994, 13.740711, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs063",
+        "location": "ด้านหน้า Asok Montri Dental Clinic",
+        "lat": 13.741856,
+        "long": 100.562074,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.562074, 13.741856, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs064",
+        "location": "หน้า Pullman อโศก",
+        "lat": 13.73886,
+        "long": 100.5618,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5618, 13.73886, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs065",
+        "location": "ด้านหน้า Gateway Ekkamai",
+        "lat": 13.719297,
+        "long": 100.585172,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.585172, 13.719297, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs066",
+        "location": "ศูนย์วิทยาศาสตร์เพื่อการศึกษา",
+        "lat": 13.720949,
+        "long": 100.58287,
+        "num_bike": 4.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.58287, 13.720949, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs067",
+        "location": "หน้าจุดก่อสร้าง ก่อนถึงไปรษณีย์ไทย",
+        "lat": 13.72425,
+        "long": 100.578214,
+        "num_bike": 3.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.578214, 13.72425, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs068",
+        "location": "ด้านหน้าโครงการ The Crest",
+        "lat": 13.725358,
+        "long": 100.576709,
+        "num_bike": 4.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.576709, 13.725358, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs069",
+        "location": "ด้านหน้าโครงการ Beatniq ก่อนถึงซอยสุขุมวิท 32",
+        "lat": 13.726226,
+        "long": 100.575502,
+        "num_bike": 4.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.575502, 13.726226, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs070",
+        "location": "หน้าโครงการ The Address ก่อนถึงสุขุมวิท 28",
+        "lat": 13.728363,
+        "long": 100.572435,
+        "num_bike": 4.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.572435, 13.728363, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs071",
+        "location": "ก่อนทางขึ้น BTS พร้อมพงษ์ ช่วงปากซอยสุขุมวิท 24",
+        "lat": 13.730491,
+        "long": 100.569418,
+        "num_bike": 4.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.569418, 13.730491, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs072",
+        "location": "ด้านหน้าศูนย์การค้า Emporium",
+        "lat": 13.730813,
+        "long": 100.568974,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.568974, 13.730813, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs073",
+        "location": "หน้าสวนเบญจสิริ",
+        "lat": 13.731435,
+        "long": 100.56813,
+        "num_bike": 6.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.56813, 13.731435, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs074",
+        "location": "ด้านหน้าโรงแรมฮอลิเดย์ อินน์ สุขุมวิท",
+        "lat": 13.733219,
+        "long": 100.565611,
+        "num_bike": 3.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.565611, 13.733219, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs075",
+        "location": "หัวมุมอาคาร Exchange Tower",
+        "lat": 13.736012,
+        "long": 100.561555,
+        "num_bike": 6.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561555, 13.736012, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs076",
+        "location": "ด้านหน้า Solaria Nishitetsu Hotel ใต้ BTS สุขุมวิท",
+        "lat": 13.736905,
+        "long": 100.560377,
+        "num_bike": 3.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.560377, 13.736905, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs077",
+        "location": "บริเวณหน้าร้าน Dental Implant",
+        "lat": 13.738608,
+        "long": 100.558039,
+        "num_bike": 3.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.558039, 13.738608, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs078",
+        "location": "ด้านหน้าโครงการ O-NES Tower สุขุมวิท 6",
+        "lat": 13.740867,
+        "long": 100.55484,
+        "num_bike": 3.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.55484, 13.740867, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs079",
+        "location": "ด้านหน้าอาคาร BBCO ก่อนถึงอาคารเพลินจิตเซ็นเตอร์",
+        "lat": 13.742315,
+        "long": 100.552188,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.552188, 13.742315, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs080",
+        "location": "ปากซอยสุขุมวิท 7/1 บริเวณ BTS นานา",
+        "lat": 13.740601,
+        "long": 100.555532,
+        "num_bike": 3.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.555532, 13.740601, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs081",
+        "location": "ด้านหน้า Termianl21 อโศก",
+        "lat": 13.737374,
+        "long": 100.560134,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.560134, 13.737374, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs082",
+        "location": "ด้านหน้า MRT สุขุมวิท ด้านใต้ BTS อโศก",
+        "lat": 13.736846,
+        "long": 100.560871,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.560871, 13.736846, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs083",
+        "location": "ถัดจากอาคาร Interchangeก่อนถึงปั๊ม Shell",
+        "lat": 13.735903,
+        "long": 100.562255,
+        "num_bike": 3.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.562255, 13.735903, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs084",
+        "location": "ด้านหน้าโรงแรม Radisson",
+        "lat": 13.734691,
+        "long": 100.563915,
+        "num_bike": 3.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563915, 13.734691, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs085",
+        "location": "ด้านหน้าโรงแรม S31",
+        "lat": 13.733329,
+        "long": 100.565857,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.565857, 13.733329, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs086",
+        "location": "ใกล้ธนาคารกสิกรไทย สุขุมวิท 33",
+        "lat": 13.732168,
+        "long": 100.567473,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.567473, 13.732168, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs087",
+        "location": "ใต้ BTS พร้อมพงษ์ ก่อนถึงซอยสุขุมวิท 35",
+        "lat": 13.73143,
+        "long": 100.568496,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.568496, 13.73143, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs088",
+        "location": "ด้านหน้าโครงการ Marque Sukhumvit",
+        "lat": 13.729791,
+        "long": 100.570907,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.570907, 13.729791, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs089",
+        "location": "ด้านหน้า Miracle Mall สุขุมวิท 41",
+        "lat": 13.729133,
+        "long": 100.571839,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.571839, 13.729133, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs090",
+        "location": "ด้านหน้า SCB Julius Bar",
+        "lat": 13.72823,
+        "long": 100.573094,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.573094, 13.72823, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs091",
+        "location": "ด้านหน้าโครงการ Rain Hill",
+        "lat": 13.727689,
+        "long": 100.573892,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.573892, 13.727689, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs092",
+        "location": "ด้านหน้าร้านแว่นตา KP Optic ใกล้ศาลาที่พักรถประจำทาง",
+        "lat": 13.726355,
+        "long": 100.575759,
+        "num_bike": 3.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.575759, 13.726355, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs093",
+        "location": "ด้านหน้า 7-11 ก่อนถึงซอยสุขุมวิท 53/1",
+        "lat": 13.724482,
+        "long": 100.57841,
+        "num_bike": 6.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.57841, 13.724482, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs094",
+        "location": "ด้านหน้าโรงแรม Marriot ข้างศาลาที่พักรถประจำทาง",
+        "lat": 13.723083,
+        "long": 100.580404,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.580404, 13.723083, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs095",
+        "location": "ก่อนถึงโครงการ HYDE สุขุมวิท",
+        "lat": 13.72222,
+        "long": 100.581619,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.581619, 13.72222, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs096",
+        "location": "ก่อนทางเลี้ยวเข้าซอยสุขุมวิท 63 (เอกมัย)",
+        "lat": 13.720309,
+        "long": 100.584309,
+        "num_bike": 6.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.584309, 13.720309, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs097",
+        "location": "ก่อนทางขึ้น BTS เอกมัย หน้า Chill Inn Bangkok",
+        "lat": 13.719868,
+        "long": 100.584939,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.584939, 13.719868, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs098",
+        "location": "ใต้ BTS เอกมัย ใกล้ทางเข้าวัดธาตุทอง",
+        "lat": 13.719391,
+        "long": 100.585534,
+        "num_bike": 4.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.585534, 13.719391, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs099",
+        "location": "MRT สนามไชย ประตู 1 ตรงข้ามสน.พระราชวัง",
+        "lat": 13.743183,
+        "long": 100.494878,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.494878, 13.743183, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs100",
+        "location": "ท่าเตียน ปากซอยถนนเชตุพน",
+        "lat": 13.745143,
+        "long": 100.492009,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.492009, 13.745143, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs101",
+        "location": "ริมสวนสราญรมย์ ข้างหน่วยบัญชาการรักษาดินแดน",
+        "lat": 13.747622,
+        "long": 100.494343,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.494343, 13.747622, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs102",
+        "location": "ด้านหน้า The Gate Grand Palace (ราชนาวีสโมสร)",
+        "lat": 13.752168,
+        "long": 100.489318,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.489318, 13.752168, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs103",
+        "location": "ข้างป้ายรถเมล์ ด้านหน้าท่ามหาราช",
+        "lat": 13.754339,
+        "long": 100.48953,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.48953, 13.754339, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs104",
+        "location": "หน้าหอประชุมศรีบูรพา ธรรมศาสตร์ ท่าพระจันทร์",
+        "lat": 13.756512,
+        "long": 100.492342,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.492342, 13.756512, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs105",
+        "location": "หน้าพิพิธภัณฑ์สถานแห่งชาติ",
+        "lat": 13.75772,
+        "long": 100.492691,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.492691, 13.75772, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs106",
+        "location": "หน้าสำนักงาน ส.หงษ์สวัสดิ์",
+        "lat": 13.757579,
+        "long": 100.498401,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.498401, 13.757579, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs107",
+        "location": "หน้า Burker King",
+        "lat": 13.760339,
+        "long": 100.496321,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.496321, 13.760339, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs108",
+        "location": "หน้า New World บริเวณแยกบางลำภู",
+        "lat": 13.762044,
+        "long": 100.498187,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.498187, 13.762044, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs109",
+        "location": "หน้าโรงเรียนสตรี ใกล้วงเวียน",
+        "lat": 13.760154,
+        "long": 100.499269,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.499269, 13.760154, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs110",
+        "location": "สวนสันติชัยปราการ",
+        "lat": 13.76369,
+        "long": 100.495497,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.495497, 13.76369, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs111",
+        "location": "หน้า Mcdonald's ใกล้โรงเรียนสตรีวิทยา",
+        "lat": 13.75708,
+        "long": 100.501745,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.501745, 13.75708, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs112",
+        "location": "ศาลาว่าการกรุงเทพมหานคร",
+        "lat": 13.753106,
+        "long": 100.502087,
+        "num_bike": 5.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.502087, 13.753106, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "QADs113",
+        "location": "วัดราชบพิตร",
+        "lat": 13.749524,
+        "long": 100.497874,
+        "num_bike": 4.0,
+        "district": "พระนคร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.497874, 13.749524, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO001",
+        "location": "BTS เอกมัย ทิศตะวันตก (หน้าวัดธาตุทอง)",
+        "lat": 13.719194,
+        "long": 100.585722,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.585722, 13.719194, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO002",
+        "location": "BTS เอกมัย ทิศตะวันตกเฉียงใต้ (หน้าร้านกาแฟพันธ์ไทย)",
+        "lat": 13.718972,
+        "long": 100.58575,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.58575, 13.718972, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO003",
+        "location": "ใต้ BTS เอกมัย (หน้าร้าน Le Cafe Phenix)",
+        "lat": 13.719361,
+        "long": 100.585139,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.585139, 13.719361, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO004",
+        "location": "หน้าสถานีขนส่งเอกมัย",
+        "lat": 13.720083,
+        "long": 100.584194,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.584194, 13.720083, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO005",
+        "location": "หน้าสถานบันพัฒนาการศึกษานอกระบบ (ทิศตะวันตกเฉียงใต้ของสะพานลอย)",
+        "lat": 13.72125,
+        "long": 100.582528,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.582528, 13.72125, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO006",
+        "location": "หน้าอาคาร T-one",
+        "lat": 13.722861,
+        "long": 100.580361,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.580361, 13.722861, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO007",
+        "location": "ใต้ BTS ทองหล่อ (ทิศใต้)",
+        "lat": 13.724,
+        "long": 100.578667,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.578667, 13.724, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO008",
+        "location": "หน้าคอนโด Keyne",
+        "lat": 13.725139,
+        "long": 100.577083,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.577083, 13.725139, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO009",
+        "location": "หน้าโรงเรียน Bangkok Prep",
+        "lat": 13.725167,
+        "long": 100.577361,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.577361, 13.725167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO010",
+        "location": "ใต้ BTS ทองหล่อ (ทิศตะวันออก หน้าร้านแว่นท็อปเจริญ)",
+        "lat": 13.723944,
+        "long": 100.579083,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.579083, 13.723944, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO011",
+        "location": "BTS หมอชิต ทิศตะวันตกเฉียงใต้ (ทางลง MRT)",
+        "lat": 13.801972,
+        "long": 100.553194,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.553194, 13.801972, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO012",
+        "location": "BTS หมอชิต (บันไดทิศเหนือ)",
+        "lat": 13.803306,
+        "long": 100.553972,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.553972, 13.803306, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO013",
+        "location": "ป้ายรถเมย์ สวนจตุจักร",
+        "lat": 13.802667,
+        "long": 100.553556,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.553556, 13.802667, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO014",
+        "location": "หน้าอาคาร TTB (ป้ายรถเมย์)",
+        "lat": 13.808667,
+        "long": 100.5575,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5575, 13.808667, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO015",
+        "location": "ป้ายรถเมย์ (ตรงข้ามสวนจตุจักร)",
+        "lat": 13.804111,
+        "long": 100.554833,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.554833, 13.804111, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO016",
+        "location": "BTS หมอชิต (ทิศตะวันออกเฉียงเหนือ)",
+        "lat": 13.803361,
+        "long": 100.554389,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.554389, 13.803361, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO017",
+        "location": "หน้า สถาบันการบินพลเรือน",
+        "lat": 13.800889,
+        "long": 100.552944,
+        "num_bike": 5.0,
+        "district": "จตุจักร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.552944, 13.800889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO018",
+        "location": "BTS สะพานควาย (บันไดทิศใต้)",
+        "lat": 13.792889,
+        "long": 100.5495,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5495, 13.792889, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO019",
+        "location": "Big C สะพานควาย",
+        "lat": 13.791806,
+        "long": 100.549083,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.549083, 13.791806, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO020",
+        "location": "สถานีตำรวจนครบาลบางซื่อ",
+        "lat": 13.78675,
+        "long": 100.547278,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.547278, 13.78675, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO021",
+        "location": "อาคาร ARI Hills",
+        "lat": 13.784722,
+        "long": 100.546556,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.546556, 13.784722, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO022",
+        "location": "โชว์รูม เบนซ์ ราชครู",
+        "lat": 13.784278,
+        "long": 100.546389,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.546389, 13.784278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO023",
+        "location": "อาคารกสิกรไทย",
+        "lat": 13.782056,
+        "long": 100.545583,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.545583, 13.782056, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO024",
+        "location": "Villa Market (บันได BTS อารีย์)",
+        "lat": 13.780139,
+        "long": 100.544944,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.544944, 13.780139, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO025",
+        "location": "บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (บุญเติม)",
+        "lat": 13.77475,
+        "long": 100.542917,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.542917, 13.77475, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO026",
+        "location": "BTS สนามเป้า บันไดฝั่งทิศใต้ (หน้าร้านกรุงเทพวิศวกรรม)",
+        "lat": 13.77225,
+        "long": 100.542194,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.542194, 13.77225, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO027",
+        "location": "อนุสาวรีย์ชัยสมรภูมิ (เกาะดินแดง)",
+        "lat": 13.765111,
+        "long": 100.539028,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.539028, 13.765111, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO028",
+        "location": "อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท)",
+        "lat": 13.764444,
+        "long": 100.538667,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.538667, 13.764444, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO029",
+        "location": "คอนโด Ideo Q Victory",
+        "lat": 13.762306,
+        "long": 100.536917,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.536917, 13.762306, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO030",
+        "location": "โครงการ HAMPTON Resident พญาไท",
+        "lat": 13.759278,
+        "long": 100.535222,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535222, 13.759278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO031",
+        "location": "แยกพญาไท ทิศตะวันออกเฉียงเหนือ",
+        "lat": 13.758139,
+        "long": 100.534694,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534694, 13.758139, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO032",
+        "location": "ทางเข้า Airport Rail Link พญาไท",
+        "lat": 13.757417,
+        "long": 100.534194,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.534194, 13.757417, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO033",
+        "location": "CP Tower 3 (หน้า 7-11)",
+        "lat": 13.757056,
+        "long": 100.533667,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533667, 13.757056, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO034",
+        "location": "BTS อนุสาวรีย์ชัยสมรภูมิ (ปากซอยโยธี)",
+        "lat": 13.761944,
+        "long": 100.536444,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.536444, 13.761944, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO035",
+        "location": "BTS อนุสาวรีย์ชัยสมรภูมิ (ตรงข้ามคอนโด Ideo Q Victory)",
+        "lat": 13.7625,
+        "long": 100.53675,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.53675, 13.7625, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO036",
+        "location": "อนุสาวรีย์ชัยสมรภูมิ (เกาะราชวิถี)",
+        "lat": 13.764306,
+        "long": 100.537417,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.537417, 13.764306, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO037",
+        "location": "อนุสาวรีย์ชัยสมรภูมิ (เกาะพหลโยธิน)",
+        "lat": 13.765667,
+        "long": 100.537861,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.537861, 13.765667, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO038",
+        "location": "ใต้สะพานลอย คลองสามเสน (มุ่งหน้าสะพานควาย)",
+        "lat": 13.765944,
+        "long": 100.53875,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.53875, 13.765944, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO039",
+        "location": "ใต้สะพานลอยหน้าร้านวีนัสซาลอน (ข้าง บริษัท แคปปิตอล จำกัด)",
+        "lat": 13.767972,
+        "long": 100.539917,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.539917, 13.767972, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO040",
+        "location": "The Seasons Mall",
+        "lat": 13.768806,
+        "long": 100.540361,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540361, 13.768806, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO041",
+        "location": "โรงพยาบาลพญาไท 2",
+        "lat": 13.769639,
+        "long": 100.540806,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540806, 13.769639, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO042",
+        "location": "โชว์รูม วอง ฮอนด้าคาร์ส์ สาขาพญาไท",
+        "lat": 13.771167,
+        "long": 100.541472,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.541472, 13.771167, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO043",
+        "location": "ธนาคารกสิกรไทย (สาขาสนามเป้า)",
+        "lat": 13.772444,
+        "long": 100.541889,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.541889, 13.772444, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO044",
+        "location": "อาคารประภัสสร ศูนย์สีพหลโยธิน (ปากซอย 3)",
+        "lat": 13.774028,
+        "long": 100.5425,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5425, 13.774028, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO045",
+        "location": "ปั้มเชลล์ (ใต้ BTS อารีย์ ทิศตะวันตก)",
+        "lat": 13.779278,
+        "long": 100.544167,
+        "num_bike": 5.0,
+        "district": "พญาไท"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.544167, 13.779278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO046",
+        "location": "สยามเซ็นเตอร์ (ป้ายรถเมย์ฝั่งด้านหน้า)",
+        "lat": 13.745917,
+        "long": 100.533083,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533083, 13.745917, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO047",
+        "location": "Siam Paragon (ใต้บันได BTS สยาม)",
+        "lat": 13.745778,
+        "long": 100.53425,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.53425, 13.745778, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO048",
+        "location": "ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนเพลินจิต ตรงข้าม เกษตรวิลเลจ)",
+        "lat": 13.744417,
+        "long": 100.540528,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540528, 13.744417, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO049",
+        "location": "ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนราชดำริ)",
+        "lat": 13.744306,
+        "long": 100.540333,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540333, 13.744306, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO050",
+        "location": "ธนาคารกรุงเทพ ถนนสีลม (ต้นซอย)",
+        "lat": 13.729028,
+        "long": 100.536083,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.536083, 13.729028, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO051",
+        "location": "Central สีลม (บันไดทิศตะวันออก BTS ศาลาแดง)",
+        "lat": 13.72875,
+        "long": 100.535056,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.535056, 13.72875, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO052",
+        "location": "ธนาคาร UOB (ทิศใต้ BTS เซนต์หลุยส์)",
+        "lat": 13.720861,
+        "long": 100.52725,
+        "num_bike": 5.0,
+        "district": "สาทร"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.52725, 13.720861, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO053",
+        "location": "BTS เซนต์หลุยส์ (ใต้บันไดทิศตะวันตกเฉียงเหนือ)",
+        "lat": 13.720889,
+        "long": 100.526361,
+        "num_bike": 5.0,
+        "district": "บางรัก"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.526361, 13.720889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO054",
+        "location": "MRT เพชรบุรี BL21 (ประตู 1)",
+        "lat": 13.749472,
+        "long": 100.563583,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563583, 13.749472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO055",
+        "location": "อโศก สะพานข้ามคลองแสนแสบ (ตรงข้ามอาคาร 253 Asoke)",
+        "lat": 13.746972,
+        "long": 100.562972,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.562972, 13.746972, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO056",
+        "location": "Bangkok smile dental clinic (ถนนอโศกมนตรี)",
+        "lat": 13.740611,
+        "long": 100.561972,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561972, 13.740611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO057",
+        "location": "อาคาร Interchange (ฝั่งถนนอโศกมนตรี)",
+        "lat": 13.736333,
+        "long": 100.561528,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561528, 13.736333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO058",
+        "location": "อาคาร Jasmine (ถนนสุขุมวิท)",
+        "lat": 13.7355,
+        "long": 100.56275,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.56275, 13.7355, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO059",
+        "location": "อาคาร Radisson (ถนนสุขุมวิท)",
+        "lat": 13.734639,
+        "long": 100.563944,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563944, 13.734639, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO060",
+        "location": "อาคาร S31 (ถนนสุขุมวิท)",
+        "lat": 13.733333,
+        "long": 100.565778,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.565778, 13.733333, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO061",
+        "location": "ร้าน Kenshin Izakaya (ถนนสุขุมวิท)",
+        "lat": 13.7325,
+        "long": 100.566972,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.566972, 13.7325, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO062",
+        "location": "ธนาคารกสิกรไทย สาขาสุขุมวิท 33 (บางกะปิ)",
+        "lat": 13.732222,
+        "long": 100.567278,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.567278, 13.732222, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO063",
+        "location": "ร้าน ONE Man Club (สุขุมวิท 35)",
+        "lat": 13.731389,
+        "long": 100.568639,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.568639, 13.731389, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO064",
+        "location": "Emquartier ฝั่งด้านหน้า (ถนนสุขุมวิท)",
+        "lat": 13.731028,
+        "long": 100.569056,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.569056, 13.731028, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO065",
+        "location": "คอนโด Marque (ถนนสุขุมวิท)",
+        "lat": 13.729639,
+        "long": 100.571,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.571, 13.729639, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO066",
+        "location": "อาคาร Miracle Mall (สุขุมวิท41)",
+        "lat": 13.728889,
+        "long": 100.572139,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.572139, 13.728889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO067",
+        "location": "ร้าน PAGODA & CO (ปากซอยสุขุมวิท 45)",
+        "lat": 13.727944,
+        "long": 100.573417,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.573417, 13.727944, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO068",
+        "location": "อาคาร เต๊กฮวด บิซิเนส (ปากซอย สุขุมวิท 30/1)",
+        "lat": 13.727639,
+        "long": 100.573611,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.573611, 13.727639, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO069",
+        "location": "ธนาคาร UOB (BTS พร้อมพงษ์)",
+        "lat": 13.729778,
+        "long": 100.570556,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.570556, 13.729778, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO070",
+        "location": "Emporium (บันได BTS พร้อมพงษ์ทิศตะวันตกเฉียงเหนือ)",
+        "lat": 13.730861,
+        "long": 100.569028,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.569028, 13.730861, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO071",
+        "location": "สวนเบญจสิริ (ตรงข้าม ธนาคารกรุงศรี)",
+        "lat": 13.73175,
+        "long": 100.56775,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.56775, 13.73175, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO072",
+        "location": "ร้านขายยา เภสัช 22 (สุขุมวิท)",
+        "lat": 13.733917,
+        "long": 100.564694,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.564694, 13.733917, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO073",
+        "location": "โชว์รูม Lexus สุขุมวิท",
+        "lat": 13.735083,
+        "long": 100.563056,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.563056, 13.735083, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO074",
+        "location": "MRT สุขุมวิท BL22 (ประตู 3)",
+        "lat": 13.736806,
+        "long": 100.561167,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.561167, 13.736806, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO075",
+        "location": "ร้าน เออเบิน รีทรีท (บันได BTS อโศก ทิศตะวันออกเฉียงใต้)",
+        "lat": 13.736583,
+        "long": 100.560917,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.560917, 13.736583, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO076",
+        "location": "โรงแรม โซลาเรีย นิชิเทสซึ",
+        "lat": 13.736861,
+        "long": 100.560278,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.560278, 13.736861, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO077",
+        "location": "ร้าน สยาม นวดเพื่อสุขภาพ",
+        "lat": 13.737472,
+        "long": 100.559722,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.559722, 13.737472, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO078",
+        "location": "อาคาร Times Square (หน้า STARBUCKS COFFEE)",
+        "lat": 13.738139,
+        "long": 100.558778,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.558778, 13.738139, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO079",
+        "location": "Korea Town (หน้าร้าน BAR BQ.)",
+        "lat": 13.738611,
+        "long": 100.558056,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.558056, 13.738611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO080",
+        "location": "ธนาคารกรุงเทพ (สาขาบางกะปิ)",
+        "lat": 13.739389,
+        "long": 100.556778,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.556778, 13.739389, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO081",
+        "location": "คอนโด Q 1 สุขุมวิท",
+        "lat": 13.740278,
+        "long": 100.555389,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.555389, 13.740278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO082",
+        "location": "O-NES Tower (บันได BTS นานา ทิศตะวันตกเฉียงใต้)",
+        "lat": 13.740556,
+        "long": 100.555028,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.555028, 13.740556, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO083",
+        "location": "JW Mariott Hotel Bangkok",
+        "lat": 13.742389,
+        "long": 100.552167,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.552167, 13.742389, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO084",
+        "location": "สำนักงานใหญ่ ธนาคารกรุงไทย อาคาร 2",
+        "lat": 13.742611,
+        "long": 100.551167,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.551167, 13.742611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO085",
+        "location": "อาคาร Q House เพลินจิต",
+        "lat": 13.742806,
+        "long": 100.550028,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.550028, 13.742806, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO086",
+        "location": "MAHATUN Plaza",
+        "lat": 13.742889,
+        "long": 100.548944,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.548944, 13.742889, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO087",
+        "location": "ธนาคารกรุงศรีอยุธยา สำนักงานเพลินจิต",
+        "lat": 13.743306,
+        "long": 100.547083,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.547083, 13.743306, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO088",
+        "location": "อาคาร 898 Ploenchit Tower",
+        "lat": 13.743694,
+        "long": 100.544889,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.544889, 13.743694, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO089",
+        "location": "อาคาร Amarin",
+        "lat": 13.744194,
+        "long": 100.541444,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.541444, 13.744194, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO090",
+        "location": "เกษตร วิลเลจ (ประตูทิศใต้)",
+        "lat": 13.744694,
+        "long": 100.540694,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.540694, 13.744694, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO091",
+        "location": "ร้าน คิงส์ แอนติคส์",
+        "lat": 13.744278,
+        "long": 100.542861,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.542861, 13.744278, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO092",
+        "location": "การไฟฟ้านครหลวง สาขาย่อยเพลินจิต",
+        "lat": 13.744083,
+        "long": 100.543694,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.543694, 13.744083, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO093",
+        "location": "Central ชิดลม (ตรงข้าม เพลินจิต ทาวเวอร์)",
+        "lat": 13.743861,
+        "long": 100.544972,
+        "num_bike": 5.0,
+        "district": "ปทุมวัน"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.544972, 13.743861, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO094",
+        "location": "ธนาคารกรุงไทย สำนักงาน นานาเหนือ",
+        "lat": 13.742528,
+        "long": 100.552,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.552, 13.742528, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO095",
+        "location": "ร้าน Boss Sukhumvit",
+        "lat": 13.740528,
+        "long": 100.555611,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.555611, 13.740528, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO096",
+        "location": "อาคาร HYATT REGENCY Bangkok Sukhumvit",
+        "lat": 13.73975,
+        "long": 100.55675,
+        "num_bike": 5.0,
+        "district": "วัฒนา"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.55675, 13.73975, 0.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO097",
+        "location": "โรงแรมโซฟิเทลกรุงเทพสุขุมวิท",
+        "lat": 13.739056,
+        "long": 100.557694,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.557694, 13.739056, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO098",
+        "location": "The Westin Grande Sukhumvit Bangkok",
+        "lat": 13.738028,
+        "long": 100.559139,
+        "num_bike": 5.0,
+        "district": "คลองเตย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.559139, 13.738028, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO099",
+        "location": "ร้านชานชาลา (BTS พญาไท ทิศตะวันออก)",
+        "lat": 13.756611,
+        "long": 100.533861,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533861, 13.756611, 0.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LEO100",
+        "location": "ไปรษณีย์ ราชเทวี (BTS พญาไท ทิศใต้)",
+        "lat": 13.756028,
+        "long": 100.533528,
+        "num_bike": 5.0,
+        "district": "ราชเทวี"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.533528, 13.756028, 0.0]
+      }
+    }
+  ]
+}

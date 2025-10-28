@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Anywheel - 58</name>
+    <Style id="icon-1522-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Any001</name>
+      <description><![CDATA[คำอธิบาย: Location: จามจุรีสแควร์<br>Lat: 13.733050<br>Long: 100.529180<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: จามจุรีสแควร์<br>Lat: 13.733050<br>Long: 100.529180<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: จามจุรีสแควร์
+Lat: 13.733050
+Long: 100.529180
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>จามจุรีสแควร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733050</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529180</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52918,13.73305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any002</name>
+      <description><![CDATA[คำอธิบาย: Location: ตรงข้ามสามย่านมิตรทาวน์<br>Lat: 13.733790<br>Long: 100.528940<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: ตรงข้ามสามย่านมิตรทาวน์<br>Lat: 13.733790<br>Long: 100.528940<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ตรงข้ามสามย่านมิตรทาวน์
+Lat: 13.733790
+Long: 100.528940
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ตรงข้ามสามย่านมิตรทาวน์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733790</value>
+        </Data>
+        <Data name="Long">
+          <value>100.528940</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52894,13.73379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any003</name>
+      <description><![CDATA[คำอธิบาย: Location: พิพิธภัณฑ์เทคโนโลยีทางกายภาพ<br>Lat: 13.736620<br>Long: 100.529380<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: พิพิธภัณฑ์เทคโนโลยีทางกายภาพ<br>Lat: 13.736620<br>Long: 100.529380<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: พิพิธภัณฑ์เทคโนโลยีทางกายภาพ
+Lat: 13.736620
+Long: 100.529380
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>พิพิธภัณฑ์เทคโนโลยีทางกายภาพ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736620</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529380</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52938,13.73662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any004</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงเรียนเตรียมอุดมศึกษา<br>Lat: 13.740110<br>Long: 100.529820<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: โรงเรียนเตรียมอุดมศึกษา<br>Lat: 13.740110<br>Long: 100.529820<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงเรียนเตรียมอุดมศึกษา
+Lat: 13.740110
+Long: 100.529820
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงเรียนเตรียมอุดมศึกษา</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740110</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529820</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52982,13.74011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any005</name>
+      <description><![CDATA[คำอธิบาย: Location: มาบุญครอง MBK center<br>Lat: 13.743600<br>Long: 100.530240<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: มาบุญครอง MBK center<br>Lat: 13.743600<br>Long: 100.530240<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: มาบุญครอง MBK center
+Lat: 13.743600
+Long: 100.530240
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>มาบุญครอง MBK center</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743600</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530240</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53024,13.7436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any006</name>
+      <description><![CDATA[คำอธิบาย: Location: สยามเซ็นเตอร์ Siam Center<br>Lat: 13.745780<br>Long: 100.533090<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สยามเซ็นเตอร์ Siam Center<br>Lat: 13.745780<br>Long: 100.533090<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สยามเซ็นเตอร์ Siam Center
+Lat: 13.745780
+Long: 100.533090
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สยามเซ็นเตอร์ Siam Center</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745780</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533090</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53309,13.74578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any007</name>
+      <description><![CDATA[คำอธิบาย: Location: สยามพารากอน Siam paragon<br>Lat: 13.745980<br>Long: 100.534430<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สยามพารากอน Siam paragon<br>Lat: 13.745980<br>Long: 100.534430<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สยามพารากอน Siam paragon
+Lat: 13.745980
+Long: 100.534430
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สยามพารากอน Siam paragon</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745980</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534430</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53443,13.74598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any008</name>
+      <description><![CDATA[คำอธิบาย: Location: -<br>Lat: 13.745410<br>Long: 100.534900<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: -<br>Lat: 13.745410<br>Long: 100.534900<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: -
+Lat: 13.745410
+Long: 100.534900
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>-</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745410</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534900</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5349,13.74541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any009</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ<br>Lat: 13.739570<br>Long: 100.535030<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ<br>Lat: 13.739570<br>Long: 100.535030<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ
+Lat: 13.739570
+Long: 100.535030
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงเรียนสาธิตมหาวิทยาลัยศรีนครินทรวิโรฒ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739570</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535030</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53503,13.73957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any010</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย<br>Lat: 13.729910<br>Long: 100.535820<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย<br>Lat: 13.729910<br>Long: 100.535820<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย
+Lat: 13.729910
+Long: 100.535820
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงพยาบาลจุฬาลงกรณ์ สภากาชาดไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729910</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535820</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53582,13.72991,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any011</name>
+      <description><![CDATA[คำอธิบาย: Location: สีลมคอมเพล็กซ<br>Lat: 13.729010<br>Long: 100.535960<br>num_bike: 10<br>District: เขตบางรัก<br>Location: สีลมคอมเพล็กซ<br>Lat: 13.729010<br>Long: 100.535960<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สีลมคอมเพล็กซ
+Lat: 13.729010
+Long: 100.535960
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>สีลมคอมเพล็กซ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729010</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535960</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53596,13.72901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any012</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนลุมพิน<br>Lat: 13.729400<br>Long: 100.537310<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สวนลุมพิน<br>Lat: 13.729400<br>Long: 100.537310<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนลุมพิน
+Lat: 13.729400
+Long: 100.537310
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนลุมพิน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729400</value>
+        </Data>
+        <Data name="Long">
+          <value>100.537310</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53731,13.7294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any013</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนลุมพิน<br>Lat: 13.733900<br>Long: 100.538450<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สวนลุมพิน<br>Lat: 13.733900<br>Long: 100.538450<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนลุมพิน
+Lat: 13.733900
+Long: 100.538450
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนลุมพิน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733900</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538450</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53845,13.7339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any014</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS ราชดำริ<br>Lat: 13.738400<br>Long: 100.539450<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: BTS ราชดำริ<br>Lat: 13.738400<br>Long: 100.539450<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS ราชดำริ
+Lat: 13.738400
+Long: 100.539450
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS ราชดำริ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738400</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539450</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53945,13.7384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any015</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงพยาบาลตำรวจ<br>Lat: 13.744180<br>Long: 100.540030<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: โรงพยาบาลตำรวจ<br>Lat: 13.744180<br>Long: 100.540030<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงพยาบาลตำรวจ
+Lat: 13.744180
+Long: 100.540030
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงพยาบาลตำรวจ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744180</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540030</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54003,13.74418,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any016</name>
+      <description><![CDATA[คำอธิบาย: Location: เซ็นทรัลเวิลด์<br>Lat: 13.745080<br>Long: 100.539240<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: เซ็นทรัลเวิลด์<br>Lat: 13.745080<br>Long: 100.539240<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: เซ็นทรัลเวิลด์
+Lat: 13.745080
+Long: 100.539240
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>เซ็นทรัลเวิลด์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745080</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539240</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53924,13.74508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any017</name>
+      <description><![CDATA[คำอธิบาย: Location: เซ็นทรัลเวิลด์<br>Lat: 13.745310<br>Long: 100.540290<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: เซ็นทรัลเวิลด์<br>Lat: 13.745310<br>Long: 100.540290<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: เซ็นทรัลเวิลด์
+Lat: 13.745310
+Long: 100.540290
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>เซ็นทรัลเวิลด์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745310</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540290</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54029,13.74531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any018</name>
+      <description><![CDATA[คำอธิบาย: Location: กรุงศรีฯ เพลินจิต<br>Lat: 13.743470<br>Long: 100.546870<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: กรุงศรีฯ เพลินจิต<br>Lat: 13.743470<br>Long: 100.546870<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: กรุงศรีฯ เพลินจิต
+Lat: 13.743470
+Long: 100.546870
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>กรุงศรีฯ เพลินจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743470</value>
+        </Data>
+        <Data name="Long">
+          <value>100.546870</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54687,13.74347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any019</name>
+      <description><![CDATA[คำอธิบาย: Location: สถานีปาร์คเวนเชอร์ อีโคเพล็กซ์<br>Lat: 13.742850<br>Long: 100.547950<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สถานีปาร์คเวนเชอร์ อีโคเพล็กซ์<br>Lat: 13.742850<br>Long: 100.547950<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สถานีปาร์คเวนเชอร์ อีโคเพล็กซ์
+Lat: 13.742850
+Long: 100.547950
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สถานีปาร์คเวนเชอร์ อีโคเพล็กซ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742850</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547950</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54795,13.74285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any020</name>
+      <description><![CDATA[คำอธิบาย: Location: ออลซีซันเพลส<br>Lat: 13.739740<br>Long: 100.547020<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: ออลซีซันเพลส<br>Lat: 13.739740<br>Long: 100.547020<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ออลซีซันเพลส
+Lat: 13.739740
+Long: 100.547020
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ออลซีซันเพลส</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739740</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547020</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54702,13.73974,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any021</name>
+      <description><![CDATA[คำอธิบาย: Location: ร่วมฤดี<br>Lat: 13.735080<br>Long: 100.546010<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: ร่วมฤดี<br>Lat: 13.735080<br>Long: 100.546010<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร่วมฤดี
+Lat: 13.735080
+Long: 100.546010
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ร่วมฤดี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.735080</value>
+        </Data>
+        <Data name="Long">
+          <value>100.546010</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54601,13.73508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any022</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนลุมพินี<br>Lat: 13.726750<br>Long: 100.544410<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: สวนลุมพินี<br>Lat: 13.726750<br>Long: 100.544410<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนลุมพินี
+Lat: 13.726750
+Long: 100.544410
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนลุมพินี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544410</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54441,13.72675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any023</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT สวนลุมพิน<br>Lat: 13.726250<br>Long: 100.545050<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: MRT สวนลุมพิน<br>Lat: 13.726250<br>Long: 100.545050<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT สวนลุมพิน
+Lat: 13.726250
+Long: 100.545050
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT สวนลุมพิน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.545050</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54505,13.72625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any024</name>
+      <description><![CDATA[คำอธิบาย: Location: ICBC<br>Lat: 13.724760<br>Long: 100.540660<br>num_bike: 10<br>District: เขตสาทร<br>Location: ICBC<br>Lat: 13.724760<br>Long: 100.540660<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ICBC
+Lat: 13.724760
+Long: 100.540660
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ICBC</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724760</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540660</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54066,13.72476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any025</name>
+      <description><![CDATA[คำอธิบาย: Location: Department of architecture<br>Lat: 13.724530<br>Long: 100.539340<br>num_bike: 10<br>District: เขตสาทร<br>Location: Department of architecture<br>Lat: 13.724530<br>Long: 100.539340<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Department of architecture
+Lat: 13.724530
+Long: 100.539340
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>Department of architecture</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724530</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539340</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53934,13.72453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any026</name>
+      <description><![CDATA[คำอธิบาย: Location: คอนแวนต<br>Lat: 13.723480<br>Long: 100.535660<br>num_bike: 10<br>District: เขตบางรัก<br>Location: คอนแวนต<br>Lat: 13.723480<br>Long: 100.535660<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: คอนแวนต
+Lat: 13.723480
+Long: 100.535660
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>คอนแวนต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723480</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535660</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53566,13.72348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any027</name>
+      <description><![CDATA[คำอธิบาย: Location: Ascott Embassy Sathorn Bangkok<br>Lat: 13.723250<br>Long: 100.535410<br>num_bike: 10<br>District: เขตสาทร<br>Location: Ascott Embassy Sathorn Bangkok<br>Lat: 13.723250<br>Long: 100.535410<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Ascott Embassy Sathorn Bangkok
+Lat: 13.723250
+Long: 100.535410
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>Ascott Embassy Sathorn Bangkok</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535410</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53541,13.72325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any028</name>
+      <description><![CDATA[คำอธิบาย: Location: ตรงข้ามโรงแรมเอเวอร์กรีน ลอเรล กรุงเทพฯ<br>Lat: 13.722860<br>Long: 100.533960<br>num_bike: 10<br>District: เขตสาทร<br>Location: ตรงข้ามโรงแรมเอเวอร์กรีน ลอเรล กรุงเทพฯ<br>Lat: 13.722860<br>Long: 100.533960<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ตรงข้ามโรงแรมเอเวอร์กรีน ลอเรล กรุงเทพฯ
+Lat: 13.722860
+Long: 100.533960
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ตรงข้ามโรงแรมเอเวอร์กรีน ลอเรล กรุงเทพฯ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722860</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533960</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53396,13.72286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any029</name>
+      <description><![CDATA[คำอธิบาย: Location: แสงทองธานี<br>Lat: 13.722710<br>Long: 100.532700<br>num_bike: 10<br>District: เขตบางรัก<br>Location: แสงทองธานี<br>Lat: 13.722710<br>Long: 100.532700<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: แสงทองธานี
+Lat: 13.722710
+Long: 100.532700
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>แสงทองธานี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722710</value>
+        </Data>
+        <Data name="Long">
+          <value>100.532700</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5327,13.72271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any030</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคารสาธรซิตี้ทาวเวอร์<br>Lat: 13.722150<br>Long: 100.531510<br>num_bike: 10<br>District: เขตสาทร<br>Location: อาคารสาธรซิตี้ทาวเวอร์<br>Lat: 13.722150<br>Long: 100.531510<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคารสาธรซิตี้ทาวเวอร์
+Lat: 13.722150
+Long: 100.531510
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคารสาธรซิตี้ทาวเวอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722150</value>
+        </Data>
+        <Data name="Long">
+          <value>100.531510</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53151,13.72215,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any031</name>
+      <description><![CDATA[คำอธิบาย: Location: สาธรธานี<br>Lat: 13.722350<br>Long: 100.530550<br>num_bike: 10<br>District: เขตบางรัก<br>Location: สาธรธานี<br>Lat: 13.722350<br>Long: 100.530550<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สาธรธานี
+Lat: 13.722350
+Long: 100.530550
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>สาธรธานี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722350</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530550</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53055,13.72235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any032</name>
+      <description><![CDATA[คำอธิบาย: Location: สาธร สแควร์<br>Lat: 13.722340<br>Long: 100.529690<br>num_bike: 10<br>District: เขตบางรัก<br>Location: สาธร สแควร์<br>Lat: 13.722340<br>Long: 100.529690<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สาธร สแควร์
+Lat: 13.722340
+Long: 100.529690
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>สาธร สแควร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722340</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529690</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52969,13.72234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any033</name>
+      <description><![CDATA[คำอธิบาย: Location: สาธร สแควร์<br>Lat: 13.721580<br>Long: 100.530010<br>num_bike: 10<br>District: เขตสาทร<br>Location: สาธร สแควร์<br>Lat: 13.721580<br>Long: 100.530010<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สาธร สแควร์
+Lat: 13.721580
+Long: 100.530010
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>สาธร สแควร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721580</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530010</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53001,13.72158,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any034</name>
+      <description><![CDATA[คำอธิบาย: Location: รัจนาการ<br>Lat: 13.721510<br>Long: 100.529220<br>num_bike: 10<br>District: เขตสาทร<br>Location: รัจนาการ<br>Lat: 13.721510<br>Long: 100.529220<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: รัจนาการ
+Lat: 13.721510
+Long: 100.529220
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>รัจนาการ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721510</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529220</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52922,13.72151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any035</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS เซนต์หลุยส์<br>Lat: 13.720990<br>Long: 100.526860<br>num_bike: 10<br>District: เขตบางรัก<br>Location: BTS เซนต์หลุยส์<br>Lat: 13.720990<br>Long: 100.526860<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS เซนต์หลุยส์
+Lat: 13.720990
+Long: 100.526860
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS เซนต์หลุยส์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720990</value>
+        </Data>
+        <Data name="Long">
+          <value>100.526860</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52686,13.72099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any036</name>
+      <description><![CDATA[คำอธิบาย: Location: วิทยาลัยเซนต์หลุยส<br>Lat: 13.720170<br>Long: 100.524640<br>num_bike: 10<br>District: เขตสาทร<br>Location: วิทยาลัยเซนต์หลุยส<br>Lat: 13.720170<br>Long: 100.524640<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: วิทยาลัยเซนต์หลุยส
+Lat: 13.720170
+Long: 100.524640
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>วิทยาลัยเซนต์หลุยส</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720170</value>
+        </Data>
+        <Data name="Long">
+          <value>100.524640</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52464,13.72017,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any037</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS สุรศักด<br>Lat: 13.719100<br>Long: 100.521680<br>num_bike: 10<br>District: เขตสาทร<br>Location: BTS สุรศักด<br>Lat: 13.719100<br>Long: 100.521680<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS สุรศักด
+Lat: 13.719100
+Long: 100.521680
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS สุรศักด</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719100</value>
+        </Data>
+        <Data name="Long">
+          <value>100.521680</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52168,13.7191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any038</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS สุรศักด<br>Lat: 13.719140<br>Long: 100.520790<br>num_bike: 10<br>District: เขตสาทร<br>Location: BTS สุรศักด<br>Lat: 13.719140<br>Long: 100.520790<br>num_bike: 10.0<br>District: เขตสาทร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS สุรศักด
+Lat: 13.719140
+Long: 100.520790
+num_bike: 10
+District: เขตสาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS สุรศักด</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719140</value>
+        </Data>
+        <Data name="Long">
+          <value>100.520790</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตสาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52079,13.71914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any039</name>
+      <description><![CDATA[คำอธิบาย: Location: ฮอลิเดย์ อินน์ สีลม<br>Lat: 13.723050<br>Long: 100.519500<br>num_bike: 10<br>District: เขตบางรัก<br>Location: ฮอลิเดย์ อินน์ สีลม<br>Lat: 13.723050<br>Long: 100.519500<br>num_bike: 10.0<br>District: เขตบางรัก]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ฮอลิเดย์ อินน์ สีลม
+Lat: 13.723050
+Long: 100.519500
+num_bike: 10
+District: เขตบางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ฮอลิเดย์ อินน์ สีลม</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723050</value>
+        </Data>
+        <Data name="Long">
+          <value>100.519500</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตบางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5195,13.72305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any040</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงแรมเอเชียกรุงเทพ<br>Lat: 13.751000<br>Long: 100.531180<br>num_bike: 10<br>District: เขตราชเทวี<br>Location: โรงแรมเอเชียกรุงเทพ<br>Lat: 13.751000<br>Long: 100.531180<br>num_bike: 10.0<br>District: เขตราชเทวี]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงแรมเอเชียกรุงเทพ
+Lat: 13.751000
+Long: 100.531180
+num_bike: 10
+District: เขตราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงแรมเอเชียกรุงเทพ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751000</value>
+        </Data>
+        <Data name="Long">
+          <value>100.531180</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53118,13.751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any041</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT หัวลำโพง<br>Lat: 13.737880<br>Long: 100.516940<br>num_bike: 10<br>District: เขตปทุมวัน<br>Location: MRT หัวลำโพง<br>Lat: 13.737880<br>Long: 100.516940<br>num_bike: 10.0<br>District: เขตปทุมวัน]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT หัวลำโพง
+Lat: 13.737880
+Long: 100.516940
+num_bike: 10
+District: เขตปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT หัวลำโพง</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.737880</value>
+        </Data>
+        <Data name="Long">
+          <value>100.516940</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.51694,13.73788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any042</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT วัดมังกร<br>Lat: 13.742090<br>Long: 100.510370<br>num_bike: 10<br>District: เขตป้อมปราบศัตรูพ่าย<br>Location: MRT วัดมังกร<br>Lat: 13.742090<br>Long: 100.510370<br>num_bike: 10.0<br>District: เขตป้อมปราบศัตรูพ่าย]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT วัดมังกร
+Lat: 13.742090
+Long: 100.510370
+num_bike: 10
+District: เขตป้อมปราบศัตรูพ่าย</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT วัดมังกร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742090</value>
+        </Data>
+        <Data name="Long">
+          <value>100.510370</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตป้อมปราบศัตรูพ่าย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.51037,13.74209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any043</name>
+      <description><![CDATA[คำอธิบาย: Location: ตรงข้ามเสือป่าพลาซ่า<br>Lat: 13.744010<br>Long: 100.507790<br>num_bike: 5<br>District: เขตป้อมปราบศัตรูพ่าย<br>Location: ตรงข้ามเสือป่าพลาซ่า<br>Lat: 13.744010<br>Long: 100.507790<br>num_bike: 5.0<br>District: เขตป้อมปราบศัตรูพ่าย]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ตรงข้ามเสือป่าพลาซ่า
+Lat: 13.744010
+Long: 100.507790
+num_bike: 5
+District: เขตป้อมปราบศัตรูพ่าย</value>
+        </Data>
+        <Data name="Location">
+          <value>ตรงข้ามเสือป่าพลาซ่า</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744010</value>
+        </Data>
+        <Data name="Long">
+          <value>100.507790</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตป้อมปราบศัตรูพ่าย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50779,13.74401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any044</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT สามยอด<br>Lat: 13.747080<br>Long: 100.502530<br>num_bike: 5<br>District: เขตพระนคร<br>Location: MRT สามยอด<br>Lat: 13.747080<br>Long: 100.502530<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT สามยอด
+Lat: 13.747080
+Long: 100.502530
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT สามยอด</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.747080</value>
+        </Data>
+        <Data name="Long">
+          <value>100.502530</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50253,13.74708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any045</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนรมณีนาถ<br>Lat: 13.749430<br>Long: 100.503700<br>num_bike: 5<br>District: เขตพระนคร<br>Location: สวนรมณีนาถ<br>Lat: 13.749430<br>Long: 100.503700<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนรมณีนาถ
+Lat: 13.749430
+Long: 100.503700
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนรมณีนาถ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.749430</value>
+        </Data>
+        <Data name="Long">
+          <value>100.503700</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5037,13.74943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any046</name>
+      <description><![CDATA[คำอธิบาย: Location: สถานีตำรวจนครบาลสำราญราษฏร<br>Lat: 13.751050<br>Long: 100.504170<br>num_bike: 5<br>District: เขตพระนคร<br>Location: สถานีตำรวจนครบาลสำราญราษฏร<br>Lat: 13.751050<br>Long: 100.504170<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สถานีตำรวจนครบาลสำราญราษฏร
+Lat: 13.751050
+Long: 100.504170
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>สถานีตำรวจนครบาลสำราญราษฏร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751050</value>
+        </Data>
+        <Data name="Long">
+          <value>100.504170</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50417,13.75105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any047</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนสาธารณะป้อมมหากาฬ<br>Lat: 13.754470<br>Long: 100.505190<br>num_bike: 5<br>District: เขตพระนคร<br>Location: สวนสาธารณะป้อมมหากาฬ<br>Lat: 13.754470<br>Long: 100.505190<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนสาธารณะป้อมมหากาฬ
+Lat: 13.754470
+Long: 100.505190
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนสาธารณะป้อมมหากาฬ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.754470</value>
+        </Data>
+        <Data name="Long">
+          <value>100.505190</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50519,13.75447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any048</name>
+      <description><![CDATA[คำอธิบาย: Location: ศาลาว่าการกรุงเทพมหานครฯ<br>Lat: 13.753580<br>Long: 100.501790<br>num_bike: 10<br>District: เขตพระนคร<br>Location: ศาลาว่าการกรุงเทพมหานครฯ<br>Lat: 13.753580<br>Long: 100.501790<br>num_bike: 10.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศาลาว่าการกรุงเทพมหานครฯ
+Lat: 13.753580
+Long: 100.501790
+num_bike: 10
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ศาลาว่าการกรุงเทพมหานครฯ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.753580</value>
+        </Data>
+        <Data name="Long">
+          <value>100.501790</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50179,13.75358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any049</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงเรียนเบญจมราชาลัย ในพระบรมราชูปถัมภ<br>Lat: 13.750970<br>Long: 100.501910<br>num_bike: 5<br>District: เขตพระนคร<br>Location: โรงเรียนเบญจมราชาลัย ในพระบรมราชูปถัมภ<br>Lat: 13.750970<br>Long: 100.501910<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงเรียนเบญจมราชาลัย ในพระบรมราชูปถัมภ
+Lat: 13.750970
+Long: 100.501910
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงเรียนเบญจมราชาลัย ในพระบรมราชูปถัมภ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.750970</value>
+        </Data>
+        <Data name="Long">
+          <value>100.501910</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50191,13.75097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any050</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนรมณีนาถ<br>Lat: 13.748890<br>Long: 100.501780<br>num_bike: 5<br>District: เขตพระนคร<br>Location: สวนรมณีนาถ<br>Lat: 13.748890<br>Long: 100.501780<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนรมณีนาถ
+Lat: 13.748890
+Long: 100.501780
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนรมณีนาถ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.748890</value>
+        </Data>
+        <Data name="Long">
+          <value>100.501780</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50178,13.74889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any051</name>
+      <description><![CDATA[คำอธิบาย: Location: ทิพย์สมัย ผัดไทยประตูผ<br>Lat: 13.752910<br>Long: 100.504370<br>num_bike: 5<br>District: เขตพระนคร<br>Location: ทิพย์สมัย ผัดไทยประตูผ<br>Lat: 13.752910<br>Long: 100.504370<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ทิพย์สมัย ผัดไทยประตูผ
+Lat: 13.752910
+Long: 100.504370
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ทิพย์สมัย ผัดไทยประตูผ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.752910</value>
+        </Data>
+        <Data name="Long">
+          <value>100.504370</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50437,13.75291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any052</name>
+      <description><![CDATA[คำอธิบาย: Location: หลังศาลาว่าการกรุงเทพมหานครฯ<br>Lat: 13.754580<br>Long: 100.501250<br>num_bike: 5<br>District: เขตพระนคร<br>Location: หลังศาลาว่าการกรุงเทพมหานครฯ<br>Lat: 13.754580<br>Long: 100.501250<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หลังศาลาว่าการกรุงเทพมหานครฯ
+Lat: 13.754580
+Long: 100.501250
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หลังศาลาว่าการกรุงเทพมหานครฯ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.754580</value>
+        </Data>
+        <Data name="Long">
+          <value>100.501250</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50125,13.75458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any053</name>
+      <description><![CDATA[คำอธิบาย: Location: วัดสุทัศนเทพวรารามราชวรมหาวิหาร<br>Lat: 13.751590<br>Long: 100.500980<br>num_bike: 5<br>District: เขตพระนคร<br>Location: วัดสุทัศนเทพวรารามราชวรมหาวิหาร<br>Lat: 13.751590<br>Long: 100.500980<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: วัดสุทัศนเทพวรารามราชวรมหาวิหาร
+Lat: 13.751590
+Long: 100.500980
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>วัดสุทัศนเทพวรารามราชวรมหาวิหาร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751590</value>
+        </Data>
+        <Data name="Long">
+          <value>100.500980</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50098,13.75159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any054</name>
+      <description><![CDATA[คำอธิบาย: Location: ศาลาการเปรียญวัดสุทัศน์<br>Lat: 13.749580<br>Long: 100.500060<br>num_bike: 5<br>District: เขตพระนคร<br>Location: ศาลาการเปรียญวัดสุทัศน์<br>Lat: 13.749580<br>Long: 100.500060<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศาลาการเปรียญวัดสุทัศน์
+Lat: 13.749580
+Long: 100.500060
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ศาลาการเปรียญวัดสุทัศน์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.749580</value>
+        </Data>
+        <Data name="Long">
+          <value>100.500060</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.50006,13.74958,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any055</name>
+      <description><![CDATA[คำอธิบาย: Location: วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร<br>Lat: 13.749690<br>Long: 100.497860<br>num_bike: 5<br>District: เขตพระนคร<br>Location: วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร<br>Lat: 13.749690<br>Long: 100.497860<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร
+Lat: 13.749690
+Long: 100.497860
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.749690</value>
+        </Data>
+        <Data name="Long">
+          <value>100.497860</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.49786,13.74969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any056</name>
+      <description><![CDATA[คำอธิบาย: Location: กระทรวงมหาดไทย<br>Lat: 13.751570<br>Long: 100.498280<br>num_bike: 5<br>District: เขตพระนคร<br>Location: กระทรวงมหาดไทย<br>Lat: 13.751570<br>Long: 100.498280<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: กระทรวงมหาดไทย
+Lat: 13.751570
+Long: 100.498280
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>กระทรวงมหาดไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751570</value>
+        </Data>
+        <Data name="Long">
+          <value>100.498280</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.49828,13.75157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any057</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงเรียนวัดมหรรณพาราม ในพระราชูปถัมภ์<br>Lat: 13.753940<br>Long: 100.498600<br>num_bike: 5<br>District: เขตพระนคร<br>Location: โรงเรียนวัดมหรรณพาราม ในพระราชูปถัมภ์<br>Lat: 13.753940<br>Long: 100.498600<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงเรียนวัดมหรรณพาราม ในพระราชูปถัมภ์
+Lat: 13.753940
+Long: 100.498600
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงเรียนวัดมหรรณพาราม ในพระราชูปถัมภ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.753940</value>
+        </Data>
+        <Data name="Long">
+          <value>100.498600</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.4986,13.75394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Any058</name>
+      <description><![CDATA[คำอธิบาย: Location: กระทรวงมหาดไทย<br>Lat: 13.751370<br>Long: 100.496470<br>num_bike: 5<br>District: เขตพระนคร<br>Location: กระทรวงมหาดไทย<br>Lat: 13.751370<br>Long: 100.496470<br>num_bike: 5.0<br>District: เขตพระนคร]]></description>
+      <styleUrl>#icon-1522-097138</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: กระทรวงมหาดไทย
+Lat: 13.751370
+Long: 100.496470
+num_bike: 5
+District: เขตพระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>กระทรวงมหาดไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751370</value>
+        </Data>
+        <Data name="Long">
+          <value>100.496470</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>เขตพระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.49647,13.75137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

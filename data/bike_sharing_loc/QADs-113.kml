@@ -1,0 +1,3882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>QADs -113</name>
+    <Style id="icon-1522-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>QADs001</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า MRT หัวลำโพง ใกล้จุดจอดจักรยาน MRT<br>Lat: 13.737674<br>Long: 100.517227<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้า MRT หัวลำโพง ใกล้จุดจอดจักรยาน MRT<br>Lat: 13.737674<br>Long: 100.517227<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า MRT หัวลำโพง ใกล้จุดจอดจักรยาน MRT
+Lat: 13.737674
+Long: 100.517227
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า MRT หัวลำโพง ใกล้จุดจอดจักรยาน MRT</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.737674</value>
+        </Data>
+        <Data name="Long">
+          <value>100.517227</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.517227,13.737674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs002</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าร้านแว่นท๊อปเจริญ ก่อนถึงโรงแรมเอเชีย<br>Lat: 13.750934<br>Long: 100.531312<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าร้านแว่นท๊อปเจริญ ก่อนถึงโรงแรมเอเชีย<br>Lat: 13.750934<br>Long: 100.531312<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าร้านแว่นท๊อปเจริญ ก่อนถึงโรงแรมเอเชีย
+Lat: 13.750934
+Long: 100.531312
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าร้านแว่นท๊อปเจริญ ก่อนถึงโรงแรมเอเชีย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.750934</value>
+        </Data>
+        <Data name="Long">
+          <value>100.531312</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.531312,13.750934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs003</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS ราชเทวี หน้า Coco Walk<br>Lat: 13.751722<br>Long: 100.531632<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ใต้ BTS ราชเทวี หน้า Coco Walk<br>Lat: 13.751722<br>Long: 100.531632<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS ราชเทวี หน้า Coco Walk
+Lat: 13.751722
+Long: 100.531632
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS ราชเทวี หน้า Coco Walk</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.751722</value>
+        </Data>
+        <Data name="Long">
+          <value>100.531632</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.531632,13.751722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs004</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าศูนย์การค้า เอ็ม บี เค เซ็นเตอร์<br>Lat: 13.743403<br>Long: 100.530186<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าศูนย์การค้า เอ็ม บี เค เซ็นเตอร์<br>Lat: 13.743403<br>Long: 100.530186<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าศูนย์การค้า เอ็ม บี เค เซ็นเตอร์
+Lat: 13.743403
+Long: 100.530186
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าศูนย์การค้า เอ็ม บี เค เซ็นเตอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743403</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530186</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.530186,13.743403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs005</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารสำนักงานจัดการทรัพย์สินจุฬาฯ ถนนพญาไท<br>Lat: 13.740266<br>Long: 100.529746<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าอาคารสำนักงานจัดการทรัพย์สินจุฬาฯ ถนนพญาไท<br>Lat: 13.740266<br>Long: 100.529746<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารสำนักงานจัดการทรัพย์สินจุฬาฯ ถนนพญาไท
+Lat: 13.740266
+Long: 100.529746
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารสำนักงานจัดการทรัพย์สินจุฬาฯ ถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740266</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529746</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529746,13.740266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs006</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณหัวมุมสามย่านมิตรทาวน์<br>Lat: 13.733280<br>Long: 100.528415<br>num_bike: 8<br>District: ปทุมวัน<br>Location: บริเวณหัวมุมสามย่านมิตรทาวน์<br>Lat: 13.733280<br>Long: 100.528415<br>num_bike: 8.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณหัวมุมสามย่านมิตรทาวน์
+Lat: 13.733280
+Long: 100.528415
+num_bike: 8
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณหัวมุมสามย่านมิตรทาวน์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733280</value>
+        </Data>
+        <Data name="Long">
+          <value>100.528415</value>
+        </Data>
+        <Data name="num_bike">
+          <value>8.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.528415,13.73328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs007</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมอาคารจามจุรีสแควร์ ถนนพญาไท<br>Lat: 13.733135<br>Long: 100.529151<br>num_bike: 8<br>District: ปทุมวัน<br>Location: หัวมุมอาคารจามจุรีสแควร์ ถนนพญาไท<br>Lat: 13.733135<br>Long: 100.529151<br>num_bike: 8.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมอาคารจามจุรีสแควร์ ถนนพญาไท
+Lat: 13.733135
+Long: 100.529151
+num_bike: 8
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมอาคารจามจุรีสแควร์ ถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733135</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529151</value>
+        </Data>
+        <Data name="num_bike">
+          <value>8.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529151,13.733135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs008</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณด้านหน้าคณะบัญชี ใกล้อุโมงค์ทางลอด ถนนพญาไท<br>Lat: 13.736610<br>Long: 100.529443<br>num_bike: 5<br>District: ปทุมวัน<br>Location: บริเวณด้านหน้าคณะบัญชี ใกล้อุโมงค์ทางลอด ถนนพญาไท<br>Lat: 13.736610<br>Long: 100.529443<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณด้านหน้าคณะบัญชี ใกล้อุโมงค์ทางลอด ถนนพญาไท
+Lat: 13.736610
+Long: 100.529443
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณด้านหน้าคณะบัญชี ใกล้อุโมงค์ทางลอด ถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736610</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529443</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529443,13.73661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs009</name>
+      <description><![CDATA[คำอธิบาย: Location: ตรงข้ามโรงแรมปทุมวันปริ๊นเซส ถนนพญาไท<br>Lat: 13.742960<br>Long: 100.530415<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ตรงข้ามโรงแรมปทุมวันปริ๊นเซส ถนนพญาไท<br>Lat: 13.742960<br>Long: 100.530415<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ตรงข้ามโรงแรมปทุมวันปริ๊นเซส ถนนพญาไท
+Lat: 13.742960
+Long: 100.530415
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ตรงข้ามโรงแรมปทุมวันปริ๊นเซส ถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742960</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530415</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.530415,13.74296,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs010</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมแยกปทุมวัน ตรงข้ามเอ็ม บี เค เซ็นเตอร์ ถนนพญาไท<br>Lat: 13.745581<br>Long: 100.530788<br>num_bike: 4<br>District: ปทุมวัน<br>Location: หัวมุมแยกปทุมวัน ตรงข้ามเอ็ม บี เค เซ็นเตอร์ ถนนพญาไท<br>Lat: 13.745581<br>Long: 100.530788<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมแยกปทุมวัน ตรงข้ามเอ็ม บี เค เซ็นเตอร์ ถนนพญาไท
+Lat: 13.745581
+Long: 100.530788
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมแยกปทุมวัน ตรงข้ามเอ็ม บี เค เซ็นเตอร์ ถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745581</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530788</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.530788,13.745581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs011</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารสยามเซ็นเตอร์<br>Lat: 13.745808<br>Long: 100.533278<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าอาคารสยามเซ็นเตอร์<br>Lat: 13.745808<br>Long: 100.533278<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารสยามเซ็นเตอร์
+Lat: 13.745808
+Long: 100.533278
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารสยามเซ็นเตอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745808</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533278</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533278,13.745808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs012</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าธนาคารกรุงเทพ ตรงข้ามสยามพารากอน<br>Lat: 13.745430<br>Long: 100.534757<br>num_bike: 8<br>District: ปทุมวัน<br>Location: ด้านหน้าธนาคารกรุงเทพ ตรงข้ามสยามพารากอน<br>Lat: 13.745430<br>Long: 100.534757<br>num_bike: 8.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าธนาคารกรุงเทพ ตรงข้ามสยามพารากอน
+Lat: 13.745430
+Long: 100.534757
+num_bike: 8
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าธนาคารกรุงเทพ ตรงข้ามสยามพารากอน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745430</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534757</value>
+        </Data>
+        <Data name="num_bike">
+          <value>8.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534757,13.74543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs013</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าราชกรีฑาสโมสร<br>Lat: 13.739625<br>Long: 100.535033<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าราชกรีฑาสโมสร<br>Lat: 13.739625<br>Long: 100.535033<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าราชกรีฑาสโมสร
+Lat: 13.739625
+Long: 100.535033
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าราชกรีฑาสโมสร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739625</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535033</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535033,13.739625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs014</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนพระราม 1<br>Lat: 13.744846<br>Long: 100.539241<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนพระราม 1<br>Lat: 13.744846<br>Long: 100.539241<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนพระราม 1
+Lat: 13.744846
+Long: 100.539241
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนพระราม 1</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744846</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539241</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.539241,13.744846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs015</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนราชดำริ<br>Lat: 13.745441<br>Long: 100.540312<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนราชดำริ<br>Lat: 13.745441<br>Long: 100.540312<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนราชดำริ
+Lat: 13.745441
+Long: 100.540312
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าศูนย์การค้าเซ็นทรัลเวิล์ด ฝั่งถนนราชดำริ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745441</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540312</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540312,13.745441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs016</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าสวนปทุมวนานุรักษ์<br>Lat: 13.748723<br>Long: 100.540861<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าสวนปทุมวนานุรักษ์<br>Lat: 13.748723<br>Long: 100.540861<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าสวนปทุมวนานุรักษ์
+Lat: 13.748723
+Long: 100.540861
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าสวนปทุมวนานุรักษ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.748723</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540861</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540861,13.748723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs017</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนถึงสี่แยกราชประสงค์ มุ่งหน้าเพชรบุรี<br>Lat: 13.744028<br>Long: 100.540040<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ก่อนถึงสี่แยกราชประสงค์ มุ่งหน้าเพชรบุรี<br>Lat: 13.744028<br>Long: 100.540040<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนถึงสี่แยกราชประสงค์ มุ่งหน้าเพชรบุรี
+Lat: 13.744028
+Long: 100.540040
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนถึงสี่แยกราชประสงค์ มุ่งหน้าเพชรบุรี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540040</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54004,13.744028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs018</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงเรียนมาแตเดอีย์<br>Lat: 13.744037<br>Long: 100.542740<br>num_bike: 3<br>District: ปทุมวัน<br>Location: ด้านหน้าโรงเรียนมาแตเดอีย์<br>Lat: 13.744037<br>Long: 100.542740<br>num_bike: 3.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงเรียนมาแตเดอีย์
+Lat: 13.744037
+Long: 100.542740
+num_bike: 3
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงเรียนมาแตเดอีย์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744037</value>
+        </Data>
+        <Data name="Long">
+          <value>100.542740</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.54274,13.744037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs019</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านข้างธนาคารกรุงศรีอยุธยา ถนนวิทยุ<br>Lat: 13.742721<br>Long: 100.547287<br>num_bike: 4<br>District: ปทุมวัน<br>Location: ด้านข้างธนาคารกรุงศรีอยุธยา ถนนวิทยุ<br>Lat: 13.742721<br>Long: 100.547287<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านข้างธนาคารกรุงศรีอยุธยา ถนนวิทยุ
+Lat: 13.742721
+Long: 100.547287
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านข้างธนาคารกรุงศรีอยุธยา ถนนวิทยุ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742721</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547287</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.547287,13.742721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs020</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารปาร์คเวนเจอร์<br>Lat: 13.743137<br>Long: 100.547969<br>num_bike: 4<br>District: ปทุมวัน<br>Location: ด้านหน้าอาคารปาร์คเวนเจอร์<br>Lat: 13.743137<br>Long: 100.547969<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารปาร์คเวนเจอร์
+Lat: 13.743137
+Long: 100.547969
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารปาร์คเวนเจอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743137</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547969</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.547969,13.743137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs021</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารเวฟเพลส ถนนเพลินจิต<br>Lat: 13.743365<br>Long: 100.547935<br>num_bike: 3<br>District: ปทุมวัน<br>Location: ด้านหน้าอาคารเวฟเพลส ถนนเพลินจิต<br>Lat: 13.743365<br>Long: 100.547935<br>num_bike: 3.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารเวฟเพลส ถนนเพลินจิต
+Lat: 13.743365
+Long: 100.547935
+num_bike: 3
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารเวฟเพลส ถนนเพลินจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743365</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547935</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.547935,13.743365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs022</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารออลซีซั่นเพลส<br>Lat: 13.739513<br>Long: 100.546979<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าอาคารออลซีซั่นเพลส<br>Lat: 13.739513<br>Long: 100.546979<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารออลซีซั่นเพลส
+Lat: 13.739513
+Long: 100.546979
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารออลซีซั่นเพลส</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739513</value>
+        </Data>
+        <Data name="Long">
+          <value>100.546979</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.546979,13.739513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs023</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าบ้านพักสถานทูต ใกล้ BTS ราชดำริ<br>Lat: 13.738416<br>Long: 100.539472<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ด้านหน้าบ้านพักสถานทูต ใกล้ BTS ราชดำริ<br>Lat: 13.738416<br>Long: 100.539472<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าบ้านพักสถานทูต ใกล้ BTS ราชดำริ
+Lat: 13.738416
+Long: 100.539472
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าบ้านพักสถานทูต ใกล้ BTS ราชดำริ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738416</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539472</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.539472,13.738416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs024</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนทางเข้าจุดจอดรถชั่วคราวสวนลุมพินี ฝั่งถนนราชดำริ<br>Lat: 13.734023<br>Long: 100.538533<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ก่อนทางเข้าจุดจอดรถชั่วคราวสวนลุมพินี ฝั่งถนนราชดำริ<br>Lat: 13.734023<br>Long: 100.538533<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนทางเข้าจุดจอดรถชั่วคราวสวนลุมพินี ฝั่งถนนราชดำริ
+Lat: 13.734023
+Long: 100.538533
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนทางเข้าจุดจอดรถชั่วคราวสวนลุมพินี ฝั่งถนนราชดำริ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.734023</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538533</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.538533,13.734023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs025</name>
+      <description><![CDATA[คำอธิบาย: Location: เลยอาคาร Med Park มา ข้างจุดจอดรถ MRT ศูนย์สิริกิติ์<br>Lat: 13.720690<br>Long: 100.558372<br>num_bike: 4<br>District: ปทุมวัน<br>Location: เลยอาคาร Med Park มา ข้างจุดจอดรถ MRT ศูนย์สิริกิติ์<br>Lat: 13.720690<br>Long: 100.558372<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: เลยอาคาร Med Park มา ข้างจุดจอดรถ MRT ศูนย์สิริกิติ์
+Lat: 13.720690
+Long: 100.558372
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>เลยอาคาร Med Park มา ข้างจุดจอดรถ MRT ศูนย์สิริกิติ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720690</value>
+        </Data>
+        <Data name="Long">
+          <value>100.558372</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.558372,13.72069,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs026</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณข้างโรงพยาบาลจุฬา ฝั่งถนนพระราม 4<br>Lat: 13.730013<br>Long: 100.535985<br>num_bike: 3<br>District: ปทุมวัน<br>Location: บริเวณข้างโรงพยาบาลจุฬา ฝั่งถนนพระราม 4<br>Lat: 13.730013<br>Long: 100.535985<br>num_bike: 3.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณข้างโรงพยาบาลจุฬา ฝั่งถนนพระราม 4
+Lat: 13.730013
+Long: 100.535985
+num_bike: 3
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณข้างโรงพยาบาลจุฬา ฝั่งถนนพระราม 4</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.730013</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535985</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535985,13.730013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs027</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารซิลลิคเฮ้าส์ ถนนสีลม<br>Lat: 13.729052<br>Long: 100.536065<br>num_bike: 5<br>District: บางรัก<br>Location: ด้านหน้าอาคารซิลลิคเฮ้าส์ ถนนสีลม<br>Lat: 13.729052<br>Long: 100.536065<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารซิลลิคเฮ้าส์ ถนนสีลม
+Lat: 13.729052
+Long: 100.536065
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารซิลลิคเฮ้าส์ ถนนสีลม</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729052</value>
+        </Data>
+        <Data name="Long">
+          <value>100.536065</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.536065,13.729052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs028</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าศูนย์การค้าสีลมคอมเพล็กซ์<br>Lat: 13.728492<br>Long: 100.534426<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าศูนย์การค้าสีลมคอมเพล็กซ์<br>Lat: 13.728492<br>Long: 100.534426<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าศูนย์การค้าสีลมคอมเพล็กซ์
+Lat: 13.728492
+Long: 100.534426
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าศูนย์การค้าสีลมคอมเพล็กซ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.728492</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534426</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534426,13.728492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs029</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ ก่อนถึงแยกสุรศักดิ์<br>Lat: 13.723147<br>Long: 100.519543<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ ก่อนถึงแยกสุรศักดิ์<br>Lat: 13.723147<br>Long: 100.519543<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ ก่อนถึงแยกสุรศักดิ์
+Lat: 13.723147
+Long: 100.519543
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงแรมฮอลิเดย์ อินน์ ก่อนถึงแยกสุรศักดิ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723147</value>
+        </Data>
+        <Data name="Long">
+          <value>100.519543</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.519543,13.723147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs030</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารวรวัฒน์<br>Lat: 13.723877<br>Long: 100.521592<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าอาคารวรวัฒน์<br>Lat: 13.723877<br>Long: 100.521592<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารวรวัฒน์
+Lat: 13.723877
+Long: 100.521592
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารวรวัฒน์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723877</value>
+        </Data>
+        <Data name="Long">
+          <value>100.521592</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.521592,13.723877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs031</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารนานมี ถนนสาทรเหนือ<br>Lat: 13.719250<br>Long: 100.520579<br>num_bike: 5<br>District: บางรัก<br>Location: ด้านหน้าอาคารนานมี ถนนสาทรเหนือ<br>Lat: 13.719250<br>Long: 100.520579<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารนานมี ถนนสาทรเหนือ
+Lat: 13.719250
+Long: 100.520579
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารนานมี ถนนสาทรเหนือ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.520579</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.520579,13.71925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs032</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณก่อนถึงโรงแรมอีสิตน และทางขึ้น BTS สุรศักดิ์<br>Lat: 13.719340<br>Long: 100.522522<br>num_bike: 4<br>District: สาทร<br>Location: บริเวณก่อนถึงโรงแรมอีสิตน และทางขึ้น BTS สุรศักดิ์<br>Lat: 13.719340<br>Long: 100.522522<br>num_bike: 4.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณก่อนถึงโรงแรมอีสิตน และทางขึ้น BTS สุรศักดิ์
+Lat: 13.719340
+Long: 100.522522
+num_bike: 4
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณก่อนถึงโรงแรมอีสิตน และทางขึ้น BTS สุรศักดิ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719340</value>
+        </Data>
+        <Data name="Long">
+          <value>100.522522</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.522522,13.71934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs033</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณด้านหน้าโรงพยาบาลเซ็นต์หลุยส์<br>Lat: 13.720091<br>Long: 100.524825<br>num_bike: 4<br>District: สาทร<br>Location: บริเวณด้านหน้าโรงพยาบาลเซ็นต์หลุยส์<br>Lat: 13.720091<br>Long: 100.524825<br>num_bike: 4.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณด้านหน้าโรงพยาบาลเซ็นต์หลุยส์
+Lat: 13.720091
+Long: 100.524825
+num_bike: 4
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณด้านหน้าโรงพยาบาลเซ็นต์หลุยส์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720091</value>
+        </Data>
+        <Data name="Long">
+          <value>100.524825</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.524825,13.720091,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs034</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณเลย Health Land และปากซอยสาทร 12 มาเล็กน้อย<br>Lat: 13.721079<br>Long: 100.526803<br>num_bike: 4<br>District: บางรัก<br>Location: บริเวณเลย Health Land และปากซอยสาทร 12 มาเล็กน้อย<br>Lat: 13.721079<br>Long: 100.526803<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณเลย Health Land และปากซอยสาทร 12 มาเล็กน้อย
+Lat: 13.721079
+Long: 100.526803
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณเลย Health Land และปากซอยสาทร 12 มาเล็กน้อย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721079</value>
+        </Data>
+        <Data name="Long">
+          <value>100.526803</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.526803,13.721079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs035</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารสาทรสแควร์<br>Lat: 13.722360<br>Long: 100.529758<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าอาคารสาทรสแควร์<br>Lat: 13.722360<br>Long: 100.529758<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารสาทรสแควร์
+Lat: 13.722360
+Long: 100.529758
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารสาทรสแควร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722360</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529758</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529758,13.72236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs036</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านข้างอาคารสารทรสแควร์ ก่อนถึงสี่แยกสาทร-นราธิวาสฯ<br>Lat: 13.721888<br>Long: 100.529617<br>num_bike: 5<br>District: บางรัก<br>Location: ด้านข้างอาคารสารทรสแควร์ ก่อนถึงสี่แยกสาทร-นราธิวาสฯ<br>Lat: 13.721888<br>Long: 100.529617<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านข้างอาคารสารทรสแควร์ ก่อนถึงสี่แยกสาทร-นราธิวาสฯ
+Lat: 13.721888
+Long: 100.529617
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านข้างอาคารสารทรสแควร์ ก่อนถึงสี่แยกสาทร-นราธิวาสฯ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721888</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529617</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529617,13.721888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs037</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารรัจนาการ<br>Lat: 13.721364<br>Long: 100.529324<br>num_bike: 5<br>District: สาทร<br>Location: ด้านหน้าอาคารรัจนาการ<br>Lat: 13.721364<br>Long: 100.529324<br>num_bike: 5.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารรัจนาการ
+Lat: 13.721364
+Long: 100.529324
+num_bike: 5
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารรัจนาการ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721364</value>
+        </Data>
+        <Data name="Long">
+          <value>100.529324</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.529324,13.721364,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs038</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารสาทรธานี ก่อนถึงสี่แยกสาทร-นราธิวาส<br>Lat: 13.722422<br>Long: 100.530300<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าอาคารสาทรธานี ก่อนถึงสี่แยกสาทร-นราธิวาส<br>Lat: 13.722422<br>Long: 100.530300<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารสาทรธานี ก่อนถึงสี่แยกสาทร-นราธิวาส
+Lat: 13.722422
+Long: 100.530300
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารสาทรธานี ก่อนถึงสี่แยกสาทร-นราธิวาส</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722422</value>
+        </Data>
+        <Data name="Long">
+          <value>100.530300</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5303,13.722422,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs039</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารสาทรซิตี้ ทาวเวอร์<br>Lat: 13.722034<br>Long: 100.531510<br>num_bike: 4<br>District: สาทร<br>Location: ด้านหน้าอาคารสาทรซิตี้ ทาวเวอร์<br>Lat: 13.722034<br>Long: 100.531510<br>num_bike: 4.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารสาทรซิตี้ ทาวเวอร์
+Lat: 13.722034
+Long: 100.531510
+num_bike: 4
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารสาทรซิตี้ ทาวเวอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722034</value>
+        </Data>
+        <Data name="Long">
+          <value>100.531510</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53151,13.722034,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs040</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคารแสงทองธานี<br>Lat: 13.722764<br>Long: 100.532612<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าอาคารแสงทองธานี<br>Lat: 13.722764<br>Long: 100.532612<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคารแสงทองธานี
+Lat: 13.722764
+Long: 100.532612
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคารแสงทองธานี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722764</value>
+        </Data>
+        <Data name="Long">
+          <value>100.532612</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.532612,13.722764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs041</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าคอนโด The Met ถนนสาทรใต้<br>Lat: 13.722786<br>Long: 100.534108<br>num_bike: 4<br>District: สาทร<br>Location: ด้านหน้าคอนโด The Met ถนนสาทรใต้<br>Lat: 13.722786<br>Long: 100.534108<br>num_bike: 4.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าคอนโด The Met ถนนสาทรใต้
+Lat: 13.722786
+Long: 100.534108
+num_bike: 4
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าคอนโด The Met ถนนสาทรใต้</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722786</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534108</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534108,13.722786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs042</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงเรียนเรนโบว์แลนด์ ถนนสาทรเหนือ<br>Lat: 13.723606<br>Long: 100.535561<br>num_bike: 4<br>District: บางรัก<br>Location: ด้านหน้าโรงเรียนเรนโบว์แลนด์ ถนนสาทรเหนือ<br>Lat: 13.723606<br>Long: 100.535561<br>num_bike: 4.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงเรียนเรนโบว์แลนด์ ถนนสาทรเหนือ
+Lat: 13.723606
+Long: 100.535561
+num_bike: 4
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงเรียนเรนโบว์แลนด์ ถนนสาทรเหนือ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723606</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535561</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535561,13.723606,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs043</name>
+      <description><![CDATA[คำอธิบาย: Location: ตรงข้ามซอยคอนแวนต์ ก่อนถึงอาคารปัญจภูมิ<br>Lat: 13.723205<br>Long: 100.535443<br>num_bike: 3<br>District: สาทร<br>Location: ตรงข้ามซอยคอนแวนต์ ก่อนถึงอาคารปัญจภูมิ<br>Lat: 13.723205<br>Long: 100.535443<br>num_bike: 3.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ตรงข้ามซอยคอนแวนต์ ก่อนถึงอาคารปัญจภูมิ
+Lat: 13.723205
+Long: 100.535443
+num_bike: 3
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ตรงข้ามซอยคอนแวนต์ ก่อนถึงอาคารปัญจภูมิ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723205</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535443</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535443,13.723205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs044</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณด้านหน้าอาคารสาทรมาร์ท (เดิม) ข้าง Smooth E<br>Lat: 13.724734<br>Long: 100.539367<br>num_bike: 3<br>District: บางรัก<br>Location: บริเวณด้านหน้าอาคารสาทรมาร์ท (เดิม) ข้าง Smooth E<br>Lat: 13.724734<br>Long: 100.539367<br>num_bike: 3.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณด้านหน้าอาคารสาทรมาร์ท (เดิม) ข้าง Smooth E
+Lat: 13.724734
+Long: 100.539367
+num_bike: 3
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณด้านหน้าอาคารสาทรมาร์ท (เดิม) ข้าง Smooth E</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724734</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539367</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.539367,13.724734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs045</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณด้านประตูทางเข้าสวนลุมพินี ฝั่งหัวมุมถนนวิทยุ<br>Lat: 13.726814<br>Long: 100.544304<br>num_bike: 5<br>District: ปทุมวัน<br>Location: บริเวณด้านประตูทางเข้าสวนลุมพินี ฝั่งหัวมุมถนนวิทยุ<br>Lat: 13.726814<br>Long: 100.544304<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณด้านประตูทางเข้าสวนลุมพินี ฝั่งหัวมุมถนนวิทยุ
+Lat: 13.726814
+Long: 100.544304
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณด้านประตูทางเข้าสวนลุมพินี ฝั่งหัวมุมถนนวิทยุ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726814</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544304</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.544304,13.726814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs046</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า MRT สวนลุม ด้านหน้า One Bangkok<br>Lat: 13.726283<br>Long: 100.545034<br>num_bike: 3<br>District: ปทุมวัน<br>Location: ด้านหน้า MRT สวนลุม ด้านหน้า One Bangkok<br>Lat: 13.726283<br>Long: 100.545034<br>num_bike: 3.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า MRT สวนลุม ด้านหน้า One Bangkok
+Lat: 13.726283
+Long: 100.545034
+num_bike: 3
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า MRT สวนลุม ด้านหน้า One Bangkok</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726283</value>
+        </Data>
+        <Data name="Long">
+          <value>100.545034</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.545034,13.726283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs047</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ One Bangkok ก่อนถึงซอยปลูกจิต<br>Lat: 13.724726<br>Long: 100.548602<br>num_bike: 4<br>District: ปทุมวัน<br>Location: ด้านหน้าโครงการ One Bangkok ก่อนถึงซอยปลูกจิต<br>Lat: 13.724726<br>Long: 100.548602<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ One Bangkok ก่อนถึงซอยปลูกจิต
+Lat: 13.724726
+Long: 100.548602
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ One Bangkok ก่อนถึงซอยปลูกจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724726</value>
+        </Data>
+        <Data name="Long">
+          <value>100.548602</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.548602,13.724726,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs048</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนถึงอาคารลุมพินี ทาวเวอร์<br>Lat: 13.723854<br>Long: 100.549854<br>num_bike: 4<br>District: ปทุมวัน<br>Location: ก่อนถึงอาคารลุมพินี ทาวเวอร์<br>Lat: 13.723854<br>Long: 100.549854<br>num_bike: 4.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนถึงอาคารลุมพินี ทาวเวอร์
+Lat: 13.723854
+Long: 100.549854
+num_bike: 4
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนถึงอาคารลุมพินี ทาวเวอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723854</value>
+        </Data>
+        <Data name="Long">
+          <value>100.549854</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.549854,13.723854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs049</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 1) ฝั่งใกล้ Center One<br>Lat: 13.764465<br>Long: 100.538832<br>num_bike: 8<br>District: พญาไท<br>Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 1) ฝั่งใกล้ Center One<br>Lat: 13.764465<br>Long: 100.538832<br>num_bike: 8.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 1) ฝั่งใกล้ Center One
+Lat: 13.764465
+Long: 100.538832
+num_bike: 8
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 1) ฝั่งใกล้ Center One</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.764465</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538832</value>
+        </Data>
+        <Data name="num_bike">
+          <value>8.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.538832,13.764465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs050</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 2) ฝั่งเลี้ยวเข้าถนนพญาไท <br>Lat: 13.764047<br>Long: 100.538055<br>num_bike: 8<br>District: พญาไท<br>Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 2) ฝั่งเลี้ยวเข้าถนนพญาไท<br>Lat: 13.764047<br>Long: 100.538055<br>num_bike: 8.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 2) ฝั่งเลี้ยวเข้าถนนพญาไท 
+Lat: 13.764047
+Long: 100.538055
+num_bike: 8
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมอนุสาวรีย์ชัยสมรภูมิ (จุดที่ 2) ฝั่งเลี้ยวเข้าถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.764047</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538055</value>
+        </Data>
+        <Data name="num_bike">
+          <value>8.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.538055,13.764047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs051</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าคอนโด Ideo Q Victory<br>Lat: 13.762363<br>Long: 100.537000<br>num_bike: 4<br>District: พญาไท<br>Location: ด้านหน้าคอนโด Ideo Q Victory<br>Lat: 13.762363<br>Long: 100.537000<br>num_bike: 4.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าคอนโด Ideo Q Victory
+Lat: 13.762363
+Long: 100.537000
+num_bike: 4
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าคอนโด Ideo Q Victory</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.762363</value>
+        </Data>
+        <Data name="Long">
+          <value>100.537000</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.537,13.762363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs052</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมอาคารวรรณสรณ์<br>Lat: 13.758195<br>Long: 100.534702<br>num_bike: 4<br>District: พญาไท<br>Location: หัวมุมอาคารวรรณสรณ์<br>Lat: 13.758195<br>Long: 100.534702<br>num_bike: 4.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมอาคารวรรณสรณ์
+Lat: 13.758195
+Long: 100.534702
+num_bike: 4
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมอาคารวรรณสรณ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.758195</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534702</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534702,13.758195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs053</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS ราชวิถี หน้าร้าน Sleep lab ฝั่งมุ่งหน้าสามย่าน<br>Lat: 13.756206<br>Long: 100.533568<br>num_bike: 4<br>District: พญาไท<br>Location: ใต้ BTS ราชวิถี หน้าร้าน Sleep lab ฝั่งมุ่งหน้าสามย่าน<br>Lat: 13.756206<br>Long: 100.533568<br>num_bike: 4.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS ราชวิถี หน้าร้าน Sleep lab ฝั่งมุ่งหน้าสามย่าน
+Lat: 13.756206
+Long: 100.533568
+num_bike: 4
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS ราชวิถี หน้าร้าน Sleep lab ฝั่งมุ่งหน้าสามย่าน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.756206</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533568</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533568,13.756206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs054</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าอาคาร CP Tower 3<br>Lat: 13.757044<br>Long: 100.533685<br>num_bike: 4<br>District: ราชเทวี<br>Location: หน้าอาคาร CP Tower 3<br>Lat: 13.757044<br>Long: 100.533685<br>num_bike: 4.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าอาคาร CP Tower 3
+Lat: 13.757044
+Long: 100.533685
+num_bike: 4
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าอาคาร CP Tower 3</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757044</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533685</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533685,13.757044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs055</name>
+      <description><![CDATA[คำอธิบาย: Location: ริมรั้วสถาบันโรคหัวใจ โรงพยาบาลราชวิถี ฝั่งถนนพญาไท<br>Lat: 13.763809<br>Long: 100.537483<br>num_bike: 4<br>District: ราชเทวี<br>Location: ริมรั้วสถาบันโรคหัวใจ โรงพยาบาลราชวิถี ฝั่งถนนพญาไท<br>Lat: 13.763809<br>Long: 100.537483<br>num_bike: 4.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ริมรั้วสถาบันโรคหัวใจ โรงพยาบาลราชวิถี ฝั่งถนนพญาไท
+Lat: 13.763809
+Long: 100.537483
+num_bike: 4
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>ริมรั้วสถาบันโรคหัวใจ โรงพยาบาลราชวิถี ฝั่งถนนพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.763809</value>
+        </Data>
+        <Data name="Long">
+          <value>100.537483</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.537483,13.763809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs056</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าทางเข้า-ออก MRT สุขุมวิท ประตู 1<br>Lat: 13.738571<br>Long: 100.561517<br>num_bike: 10<br>District: วัฒนา<br>Location: ด้านหน้าทางเข้า-ออก MRT สุขุมวิท ประตู 1<br>Lat: 13.738571<br>Long: 100.561517<br>num_bike: 10.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าทางเข้า-ออก MRT สุขุมวิท ประตู 1
+Lat: 13.738571
+Long: 100.561517
+num_bike: 10
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าทางเข้า-ออก MRT สุขุมวิท ประตู 1</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738571</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561517</value>
+        </Data>
+        <Data name="num_bike">
+          <value>10.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561517,13.738571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs057</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าสภาวิชาชีพบัญชี<br>Lat: 13.739567<br>Long: 100.561773<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าสภาวิชาชีพบัญชี<br>Lat: 13.739567<br>Long: 100.561773<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าสภาวิชาชีพบัญชี
+Lat: 13.739567
+Long: 100.561773
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าสภาวิชาชีพบัญชี</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739567</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561773</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561773,13.739567,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs058</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าธนาคารเกียรตินาคิน<br>Lat: 13.744990<br>Long: 100.562454<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าธนาคารเกียรตินาคิน<br>Lat: 13.744990<br>Long: 100.562454<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าธนาคารเกียรตินาคิน
+Lat: 13.744990
+Long: 100.562454
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าธนาคารเกียรตินาคิน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744990</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562454</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.562454,13.74499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs059</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนถึง MRT เพชรบุรี ตรงข้ามอาคาร ESSE<br>Lat: 13.748491<br>Long: 100.563223<br>num_bike: 6<br>District: วัฒนา<br>Location: ก่อนถึง MRT เพชรบุรี ตรงข้ามอาคาร ESSE<br>Lat: 13.748491<br>Long: 100.563223<br>num_bike: 6.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนถึง MRT เพชรบุรี ตรงข้ามอาคาร ESSE
+Lat: 13.748491
+Long: 100.563223
+num_bike: 6
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนถึง MRT เพชรบุรี ตรงข้ามอาคาร ESSE</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.748491</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563223</value>
+        </Data>
+        <Data name="num_bike">
+          <value>6.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563223,13.748491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs060</name>
+      <description><![CDATA[คำอธิบาย: Location: The ESSE<br>Lat: 13.748707<br>Long: 100.563535<br>num_bike: 4<br>District: วัฒนา<br>Location: The ESSE<br>Lat: 13.748707<br>Long: 100.563535<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: The ESSE
+Lat: 13.748707
+Long: 100.563535
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>The ESSE</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.748707</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563535</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563535,13.748707,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs061</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าธนาคารอิสลามแห่งประเทศไทย<br>Lat: 13.745448<br>Long: 100.562660<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าธนาคารอิสลามแห่งประเทศไทย<br>Lat: 13.745448<br>Long: 100.562660<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าธนาคารอิสลามแห่งประเทศไทย
+Lat: 13.745448
+Long: 100.562660
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าธนาคารอิสลามแห่งประเทศไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745448</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562660</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.56266,13.745448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs062</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า Bangkok Smile Dental<br>Lat: 13.740711<br>Long: 100.561994<br>num_bike: 4<br>District: วัฒนา<br>Location: หน้า Bangkok Smile Dental<br>Lat: 13.740711<br>Long: 100.561994<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้า Bangkok Smile Dental
+Lat: 13.740711
+Long: 100.561994
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้า Bangkok Smile Dental</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740711</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561994</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561994,13.740711,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs063</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า Asok Montri Dental Clinic<br>Lat: 13.741856<br>Long: 100.562074<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้า Asok Montri Dental Clinic<br>Lat: 13.741856<br>Long: 100.562074<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า Asok Montri Dental Clinic
+Lat: 13.741856
+Long: 100.562074
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า Asok Montri Dental Clinic</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.741856</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562074</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.562074,13.741856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs064</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า Pullman อโศก<br>Lat: 13.738860<br>Long: 100.561800<br>num_bike: 4<br>District: วัฒนา<br>Location: หน้า Pullman อโศก<br>Lat: 13.738860<br>Long: 100.561800<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้า Pullman อโศก
+Lat: 13.738860
+Long: 100.561800
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้า Pullman อโศก</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738860</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561800</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5618,13.73886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs065</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า Gateway Ekkamai<br>Lat: 13.719297<br>Long: 100.585172<br>num_bike: 5<br>District: คลองเตย<br>Location: ด้านหน้า Gateway Ekkamai<br>Lat: 13.719297<br>Long: 100.585172<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า Gateway Ekkamai
+Lat: 13.719297
+Long: 100.585172
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า Gateway Ekkamai</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719297</value>
+        </Data>
+        <Data name="Long">
+          <value>100.585172</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.585172,13.719297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs066</name>
+      <description><![CDATA[คำอธิบาย: Location: ศูนย์วิทยาศาสตร์เพื่อการศึกษา<br>Lat: 13.720949<br>Long: 100.582870<br>num_bike: 4<br>District: คลองเตย<br>Location: ศูนย์วิทยาศาสตร์เพื่อการศึกษา<br>Lat: 13.720949<br>Long: 100.582870<br>num_bike: 4.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศูนย์วิทยาศาสตร์เพื่อการศึกษา
+Lat: 13.720949
+Long: 100.582870
+num_bike: 4
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ศูนย์วิทยาศาสตร์เพื่อการศึกษา</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720949</value>
+        </Data>
+        <Data name="Long">
+          <value>100.582870</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.58287,13.720949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs067</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าจุดก่อสร้าง ก่อนถึงไปรษณีย์ไทย<br>Lat: 13.724250<br>Long: 100.578214<br>num_bike: 3<br>District: คลองเตย<br>Location: หน้าจุดก่อสร้าง ก่อนถึงไปรษณีย์ไทย<br>Lat: 13.724250<br>Long: 100.578214<br>num_bike: 3.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าจุดก่อสร้าง ก่อนถึงไปรษณีย์ไทย
+Lat: 13.724250
+Long: 100.578214
+num_bike: 3
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าจุดก่อสร้าง ก่อนถึงไปรษณีย์ไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.578214</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.578214,13.72425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs068</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ The Crest<br>Lat: 13.725358<br>Long: 100.576709<br>num_bike: 4<br>District: คลองเตย<br>Location: ด้านหน้าโครงการ The Crest<br>Lat: 13.725358<br>Long: 100.576709<br>num_bike: 4.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ The Crest
+Lat: 13.725358
+Long: 100.576709
+num_bike: 4
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ The Crest</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.725358</value>
+        </Data>
+        <Data name="Long">
+          <value>100.576709</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.576709,13.725358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs069</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ Beatniq ก่อนถึงซอยสุขุมวิท 32<br>Lat: 13.726226<br>Long: 100.575502<br>num_bike: 4<br>District: คลองเตย<br>Location: ด้านหน้าโครงการ Beatniq ก่อนถึงซอยสุขุมวิท 32<br>Lat: 13.726226<br>Long: 100.575502<br>num_bike: 4.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ Beatniq ก่อนถึงซอยสุขุมวิท 32
+Lat: 13.726226
+Long: 100.575502
+num_bike: 4
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ Beatniq ก่อนถึงซอยสุขุมวิท 32</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726226</value>
+        </Data>
+        <Data name="Long">
+          <value>100.575502</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.575502,13.726226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs070</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าโครงการ The Address ก่อนถึงสุขุมวิท 28<br>Lat: 13.728363<br>Long: 100.572435<br>num_bike: 4<br>District: คลองเตย<br>Location: หน้าโครงการ The Address ก่อนถึงสุขุมวิท 28<br>Lat: 13.728363<br>Long: 100.572435<br>num_bike: 4.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าโครงการ The Address ก่อนถึงสุขุมวิท 28
+Lat: 13.728363
+Long: 100.572435
+num_bike: 4
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าโครงการ The Address ก่อนถึงสุขุมวิท 28</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.728363</value>
+        </Data>
+        <Data name="Long">
+          <value>100.572435</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.572435,13.728363,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs071</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนทางขึ้น BTS พร้อมพงษ์ ช่วงปากซอยสุขุมวิท 24<br>Lat: 13.730491<br>Long: 100.569418<br>num_bike: 4<br>District: คลองเตย<br>Location: ก่อนทางขึ้น BTS พร้อมพงษ์ ช่วงปากซอยสุขุมวิท 24<br>Lat: 13.730491<br>Long: 100.569418<br>num_bike: 4.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนทางขึ้น BTS พร้อมพงษ์ ช่วงปากซอยสุขุมวิท 24
+Lat: 13.730491
+Long: 100.569418
+num_bike: 4
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนทางขึ้น BTS พร้อมพงษ์ ช่วงปากซอยสุขุมวิท 24</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.730491</value>
+        </Data>
+        <Data name="Long">
+          <value>100.569418</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.569418,13.730491,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs072</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าศูนย์การค้า Emporium<br>Lat: 13.730813<br>Long: 100.568974<br>num_bike: 5<br>District: คลองเตย<br>Location: ด้านหน้าศูนย์การค้า Emporium<br>Lat: 13.730813<br>Long: 100.568974<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าศูนย์การค้า Emporium
+Lat: 13.730813
+Long: 100.568974
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าศูนย์การค้า Emporium</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.730813</value>
+        </Data>
+        <Data name="Long">
+          <value>100.568974</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.568974,13.730813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs073</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าสวนเบญจสิริ<br>Lat: 13.731435<br>Long: 100.568130<br>num_bike: 6<br>District: คลองเตย<br>Location: หน้าสวนเบญจสิริ<br>Lat: 13.731435<br>Long: 100.568130<br>num_bike: 6.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าสวนเบญจสิริ
+Lat: 13.731435
+Long: 100.568130
+num_bike: 6
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าสวนเบญจสิริ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.731435</value>
+        </Data>
+        <Data name="Long">
+          <value>100.568130</value>
+        </Data>
+        <Data name="num_bike">
+          <value>6.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.56813,13.731435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs074</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ สุขุมวิท<br>Lat: 13.733219<br>Long: 100.565611<br>num_bike: 3<br>District: คลองเตย<br>Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ สุขุมวิท<br>Lat: 13.733219<br>Long: 100.565611<br>num_bike: 3.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงแรมฮอลิเดย์ อินน์ สุขุมวิท
+Lat: 13.733219
+Long: 100.565611
+num_bike: 3
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงแรมฮอลิเดย์ อินน์ สุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733219</value>
+        </Data>
+        <Data name="Long">
+          <value>100.565611</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.565611,13.733219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs075</name>
+      <description><![CDATA[คำอธิบาย: Location: หัวมุมอาคาร Exchange Tower<br>Lat: 13.736012<br>Long: 100.561555<br>num_bike: 6<br>District: คลองเตย<br>Location: หัวมุมอาคาร Exchange Tower<br>Lat: 13.736012<br>Long: 100.561555<br>num_bike: 6.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หัวมุมอาคาร Exchange Tower
+Lat: 13.736012
+Long: 100.561555
+num_bike: 6
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หัวมุมอาคาร Exchange Tower</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736012</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561555</value>
+        </Data>
+        <Data name="num_bike">
+          <value>6.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561555,13.736012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs076</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า Solaria Nishitetsu Hotel ใต้ BTS สุขุมวิท<br>Lat: 13.736905<br>Long: 100.560377<br>num_bike: 3<br>District: คลองเตย<br>Location: ด้านหน้า Solaria Nishitetsu Hotel ใต้ BTS สุขุมวิท<br>Lat: 13.736905<br>Long: 100.560377<br>num_bike: 3.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า Solaria Nishitetsu Hotel ใต้ BTS สุขุมวิท
+Lat: 13.736905
+Long: 100.560377
+num_bike: 3
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า Solaria Nishitetsu Hotel ใต้ BTS สุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736905</value>
+        </Data>
+        <Data name="Long">
+          <value>100.560377</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.560377,13.736905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs077</name>
+      <description><![CDATA[คำอธิบาย: Location: บริเวณหน้าร้าน Dental Implant<br>Lat: 13.738608<br>Long: 100.558039<br>num_bike: 3<br>District: คลองเตย<br>Location: บริเวณหน้าร้าน Dental Implant<br>Lat: 13.738608<br>Long: 100.558039<br>num_bike: 3.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริเวณหน้าร้าน Dental Implant
+Lat: 13.738608
+Long: 100.558039
+num_bike: 3
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>บริเวณหน้าร้าน Dental Implant</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738608</value>
+        </Data>
+        <Data name="Long">
+          <value>100.558039</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.558039,13.738608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs078</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ O-NES Tower สุขุมวิท 6<br>Lat: 13.740867<br>Long: 100.554840<br>num_bike: 3<br>District: คลองเตย<br>Location: ด้านหน้าโครงการ O-NES Tower สุขุมวิท 6<br>Lat: 13.740867<br>Long: 100.554840<br>num_bike: 3.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ O-NES Tower สุขุมวิท 6
+Lat: 13.740867
+Long: 100.554840
+num_bike: 3
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ O-NES Tower สุขุมวิท 6</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740867</value>
+        </Data>
+        <Data name="Long">
+          <value>100.554840</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.55484,13.740867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs079</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าอาคาร BBCO ก่อนถึงอาคารเพลินจิตเซ็นเตอร์<br>Lat: 13.742315<br>Long: 100.552188<br>num_bike: 5<br>District: คลองเตย<br>Location: ด้านหน้าอาคาร BBCO ก่อนถึงอาคารเพลินจิตเซ็นเตอร์<br>Lat: 13.742315<br>Long: 100.552188<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าอาคาร BBCO ก่อนถึงอาคารเพลินจิตเซ็นเตอร์
+Lat: 13.742315
+Long: 100.552188
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าอาคาร BBCO ก่อนถึงอาคารเพลินจิตเซ็นเตอร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742315</value>
+        </Data>
+        <Data name="Long">
+          <value>100.552188</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.552188,13.742315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs080</name>
+      <description><![CDATA[คำอธิบาย: Location: ปากซอยสุขุมวิท 7/1 บริเวณ BTS นานา<br>Lat: 13.740601<br>Long: 100.555532<br>num_bike: 3<br>District: วัฒนา<br>Location: ปากซอยสุขุมวิท 7/1 บริเวณ BTS นานา<br>Lat: 13.740601<br>Long: 100.555532<br>num_bike: 3.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ปากซอยสุขุมวิท 7/1 บริเวณ BTS นานา
+Lat: 13.740601
+Long: 100.555532
+num_bike: 3
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ปากซอยสุขุมวิท 7/1 บริเวณ BTS นานา</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740601</value>
+        </Data>
+        <Data name="Long">
+          <value>100.555532</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.555532,13.740601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs081</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า Termianl21 อโศก <br>Lat: 13.737374<br>Long: 100.560134<br>num_bike: 5<br>District: วัฒนา<br>Location: ด้านหน้า Termianl21 อโศก<br>Lat: 13.737374<br>Long: 100.560134<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า Termianl21 อโศก 
+Lat: 13.737374
+Long: 100.560134
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า Termianl21 อโศก</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.737374</value>
+        </Data>
+        <Data name="Long">
+          <value>100.560134</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.560134,13.737374,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs082</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า MRT สุขุมวิท ด้านใต้ BTS อโศก<br>Lat: 13.736846<br>Long: 100.560871<br>num_bike: 5<br>District: วัฒนา<br>Location: ด้านหน้า MRT สุขุมวิท ด้านใต้ BTS อโศก<br>Lat: 13.736846<br>Long: 100.560871<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า MRT สุขุมวิท ด้านใต้ BTS อโศก
+Lat: 13.736846
+Long: 100.560871
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า MRT สุขุมวิท ด้านใต้ BTS อโศก</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736846</value>
+        </Data>
+        <Data name="Long">
+          <value>100.560871</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.560871,13.736846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs083</name>
+      <description><![CDATA[คำอธิบาย: Location: ถัดจากอาคาร Interchangeก่อนถึงปั๊ม Shell<br>Lat: 13.735903<br>Long: 100.562255<br>num_bike: 3<br>District: วัฒนา<br>Location: ถัดจากอาคาร Interchangeก่อนถึงปั๊ม Shell<br>Lat: 13.735903<br>Long: 100.562255<br>num_bike: 3.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ถัดจากอาคาร Interchangeก่อนถึงปั๊ม Shell
+Lat: 13.735903
+Long: 100.562255
+num_bike: 3
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ถัดจากอาคาร Interchangeก่อนถึงปั๊ม Shell</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.735903</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562255</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.562255,13.735903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs084</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงแรม Radisson<br>Lat: 13.734691<br>Long: 100.563915<br>num_bike: 3<br>District: วัฒนา<br>Location: ด้านหน้าโรงแรม Radisson<br>Lat: 13.734691<br>Long: 100.563915<br>num_bike: 3.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงแรม Radisson
+Lat: 13.734691
+Long: 100.563915
+num_bike: 3
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงแรม Radisson</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.734691</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563915</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563915,13.734691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs085</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงแรม S31<br>Lat: 13.733329<br>Long: 100.565857<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าโรงแรม S31<br>Lat: 13.733329<br>Long: 100.565857<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงแรม S31
+Lat: 13.733329
+Long: 100.565857
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงแรม S31</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733329</value>
+        </Data>
+        <Data name="Long">
+          <value>100.565857</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.565857,13.733329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs086</name>
+      <description><![CDATA[คำอธิบาย: Location: ใกล้ธนาคารกสิกรไทย สุขุมวิท 33<br>Lat: 13.732168<br>Long: 100.567473<br>num_bike: 4<br>District: วัฒนา<br>Location: ใกล้ธนาคารกสิกรไทย สุขุมวิท 33<br>Lat: 13.732168<br>Long: 100.567473<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใกล้ธนาคารกสิกรไทย สุขุมวิท 33
+Lat: 13.732168
+Long: 100.567473
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ใกล้ธนาคารกสิกรไทย สุขุมวิท 33</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.732168</value>
+        </Data>
+        <Data name="Long">
+          <value>100.567473</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.567473,13.732168,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs087</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS พร้อมพงษ์ ก่อนถึงซอยสุขุมวิท 35<br>Lat: 13.731430<br>Long: 100.568496<br>num_bike: 4<br>District: วัฒนา<br>Location: ใต้ BTS พร้อมพงษ์ ก่อนถึงซอยสุขุมวิท 35<br>Lat: 13.731430<br>Long: 100.568496<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS พร้อมพงษ์ ก่อนถึงซอยสุขุมวิท 35
+Lat: 13.731430
+Long: 100.568496
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS พร้อมพงษ์ ก่อนถึงซอยสุขุมวิท 35</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.731430</value>
+        </Data>
+        <Data name="Long">
+          <value>100.568496</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.568496,13.73143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs088</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ Marque Sukhumvit<br>Lat: 13.729791<br>Long: 100.570907<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าโครงการ Marque Sukhumvit<br>Lat: 13.729791<br>Long: 100.570907<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ Marque Sukhumvit
+Lat: 13.729791
+Long: 100.570907
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ Marque Sukhumvit</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729791</value>
+        </Data>
+        <Data name="Long">
+          <value>100.570907</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.570907,13.729791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs089</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า Miracle Mall สุขุมวิท 41<br>Lat: 13.729133<br>Long: 100.571839<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้า Miracle Mall สุขุมวิท 41<br>Lat: 13.729133<br>Long: 100.571839<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า Miracle Mall สุขุมวิท 41
+Lat: 13.729133
+Long: 100.571839
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า Miracle Mall สุขุมวิท 41</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729133</value>
+        </Data>
+        <Data name="Long">
+          <value>100.571839</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.571839,13.729133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs090</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า SCB Julius Bar<br>Lat: 13.728230<br>Long: 100.573094<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้า SCB Julius Bar<br>Lat: 13.728230<br>Long: 100.573094<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า SCB Julius Bar
+Lat: 13.728230
+Long: 100.573094
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า SCB Julius Bar</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.728230</value>
+        </Data>
+        <Data name="Long">
+          <value>100.573094</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.573094,13.72823,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs091</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโครงการ Rain Hill<br>Lat: 13.727689<br>Long: 100.573892<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าโครงการ Rain Hill<br>Lat: 13.727689<br>Long: 100.573892<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโครงการ Rain Hill
+Lat: 13.727689
+Long: 100.573892
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโครงการ Rain Hill</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.727689</value>
+        </Data>
+        <Data name="Long">
+          <value>100.573892</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.573892,13.727689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs092</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าร้านแว่นตา KP Optic ใกล้ศาลาที่พักรถประจำทาง<br>Lat: 13.726355<br>Long: 100.575759<br>num_bike: 3<br>District: วัฒนา<br>Location: ด้านหน้าร้านแว่นตา KP Optic ใกล้ศาลาที่พักรถประจำทาง<br>Lat: 13.726355<br>Long: 100.575759<br>num_bike: 3.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าร้านแว่นตา KP Optic ใกล้ศาลาที่พักรถประจำทาง
+Lat: 13.726355
+Long: 100.575759
+num_bike: 3
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าร้านแว่นตา KP Optic ใกล้ศาลาที่พักรถประจำทาง</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.726355</value>
+        </Data>
+        <Data name="Long">
+          <value>100.575759</value>
+        </Data>
+        <Data name="num_bike">
+          <value>3.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.575759,13.726355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs093</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า 7-11 ก่อนถึงซอยสุขุมวิท 53/1<br>Lat: 13.724482<br>Long: 100.578410<br>num_bike: 6<br>District: วัฒนา<br>Location: ด้านหน้า 7-11 ก่อนถึงซอยสุขุมวิท 53/1<br>Lat: 13.724482<br>Long: 100.578410<br>num_bike: 6.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า 7-11 ก่อนถึงซอยสุขุมวิท 53/1
+Lat: 13.724482
+Long: 100.578410
+num_bike: 6
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า 7-11 ก่อนถึงซอยสุขุมวิท 53/1</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724482</value>
+        </Data>
+        <Data name="Long">
+          <value>100.578410</value>
+        </Data>
+        <Data name="num_bike">
+          <value>6.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.57841,13.724482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs094</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้าโรงแรม Marriot ข้างศาลาที่พักรถประจำทาง<br>Lat: 13.723083<br>Long: 100.580404<br>num_bike: 4<br>District: วัฒนา<br>Location: ด้านหน้าโรงแรม Marriot ข้างศาลาที่พักรถประจำทาง<br>Lat: 13.723083<br>Long: 100.580404<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้าโรงแรม Marriot ข้างศาลาที่พักรถประจำทาง
+Lat: 13.723083
+Long: 100.580404
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้าโรงแรม Marriot ข้างศาลาที่พักรถประจำทาง</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723083</value>
+        </Data>
+        <Data name="Long">
+          <value>100.580404</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.580404,13.723083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs095</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนถึงโครงการ HYDE สุขุมวิท<br>Lat: 13.722220<br>Long: 100.581619<br>num_bike: 4<br>District: วัฒนา<br>Location: ก่อนถึงโครงการ HYDE สุขุมวิท<br>Lat: 13.722220<br>Long: 100.581619<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนถึงโครงการ HYDE สุขุมวิท
+Lat: 13.722220
+Long: 100.581619
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนถึงโครงการ HYDE สุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722220</value>
+        </Data>
+        <Data name="Long">
+          <value>100.581619</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.581619,13.72222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs096</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนทางเลี้ยวเข้าซอยสุขุมวิท 63 (เอกมัย)<br>Lat: 13.720309<br>Long: 100.584309<br>num_bike: 6<br>District: วัฒนา<br>Location: ก่อนทางเลี้ยวเข้าซอยสุขุมวิท 63 (เอกมัย)<br>Lat: 13.720309<br>Long: 100.584309<br>num_bike: 6.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนทางเลี้ยวเข้าซอยสุขุมวิท 63 (เอกมัย)
+Lat: 13.720309
+Long: 100.584309
+num_bike: 6
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนทางเลี้ยวเข้าซอยสุขุมวิท 63 (เอกมัย)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720309</value>
+        </Data>
+        <Data name="Long">
+          <value>100.584309</value>
+        </Data>
+        <Data name="num_bike">
+          <value>6.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.584309,13.720309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs097</name>
+      <description><![CDATA[คำอธิบาย: Location: ก่อนทางขึ้น BTS เอกมัย หน้า Chill Inn Bangkok<br>Lat: 13.719868<br>Long: 100.584939<br>num_bike: 4<br>District: วัฒนา<br>Location: ก่อนทางขึ้น BTS เอกมัย หน้า Chill Inn Bangkok<br>Lat: 13.719868<br>Long: 100.584939<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ก่อนทางขึ้น BTS เอกมัย หน้า Chill Inn Bangkok
+Lat: 13.719868
+Long: 100.584939
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ก่อนทางขึ้น BTS เอกมัย หน้า Chill Inn Bangkok</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719868</value>
+        </Data>
+        <Data name="Long">
+          <value>100.584939</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.584939,13.719868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs098</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS เอกมัย ใกล้ทางเข้าวัดธาตุทอง<br>Lat: 13.719391<br>Long: 100.585534<br>num_bike: 4<br>District: วัฒนา<br>Location: ใต้ BTS เอกมัย ใกล้ทางเข้าวัดธาตุทอง<br>Lat: 13.719391<br>Long: 100.585534<br>num_bike: 4.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS เอกมัย ใกล้ทางเข้าวัดธาตุทอง
+Lat: 13.719391
+Long: 100.585534
+num_bike: 4
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS เอกมัย ใกล้ทางเข้าวัดธาตุทอง</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719391</value>
+        </Data>
+        <Data name="Long">
+          <value>100.585534</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.585534,13.719391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs099</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT สนามไชย ประตู 1 ตรงข้ามสน.พระราชวัง<br>Lat: 13.743183<br>Long: 100.494878<br>num_bike: 4<br>District: พระนคร<br>Location: MRT สนามไชย ประตู 1 ตรงข้ามสน.พระราชวัง<br>Lat: 13.743183<br>Long: 100.494878<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT สนามไชย ประตู 1 ตรงข้ามสน.พระราชวัง
+Lat: 13.743183
+Long: 100.494878
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT สนามไชย ประตู 1 ตรงข้ามสน.พระราชวัง</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743183</value>
+        </Data>
+        <Data name="Long">
+          <value>100.494878</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.494878,13.743183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs100</name>
+      <description><![CDATA[คำอธิบาย: Location: ท่าเตียน ปากซอยถนนเชตุพน<br>Lat: 13.745143<br>Long: 100.492009<br>num_bike: 4<br>District: พระนคร<br>Location: ท่าเตียน ปากซอยถนนเชตุพน<br>Lat: 13.745143<br>Long: 100.492009<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ท่าเตียน ปากซอยถนนเชตุพน
+Lat: 13.745143
+Long: 100.492009
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ท่าเตียน ปากซอยถนนเชตุพน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745143</value>
+        </Data>
+        <Data name="Long">
+          <value>100.492009</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.492009,13.745143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs101</name>
+      <description><![CDATA[คำอธิบาย: Location: ริมสวนสราญรมย์ ข้างหน่วยบัญชาการรักษาดินแดน<br>Lat: 13.747622<br>Long: 100.494343<br>num_bike: 4<br>District: พระนคร<br>Location: ริมสวนสราญรมย์ ข้างหน่วยบัญชาการรักษาดินแดน<br>Lat: 13.747622<br>Long: 100.494343<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ริมสวนสราญรมย์ ข้างหน่วยบัญชาการรักษาดินแดน
+Lat: 13.747622
+Long: 100.494343
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ริมสวนสราญรมย์ ข้างหน่วยบัญชาการรักษาดินแดน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.747622</value>
+        </Data>
+        <Data name="Long">
+          <value>100.494343</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.494343,13.747622,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs102</name>
+      <description><![CDATA[คำอธิบาย: Location: ด้านหน้า The Gate Grand Palace (ราชนาวีสโมสร)<br>Lat: 13.752168<br>Long: 100.489318<br>num_bike: 4<br>District: พระนคร<br>Location: ด้านหน้า The Gate Grand Palace (ราชนาวีสโมสร)<br>Lat: 13.752168<br>Long: 100.489318<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ด้านหน้า The Gate Grand Palace (ราชนาวีสโมสร)
+Lat: 13.752168
+Long: 100.489318
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ด้านหน้า The Gate Grand Palace (ราชนาวีสโมสร)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.752168</value>
+        </Data>
+        <Data name="Long">
+          <value>100.489318</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.489318,13.752168,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs103</name>
+      <description><![CDATA[คำอธิบาย: Location: ข้างป้ายรถเมล์ ด้านหน้าท่ามหาราช<br>Lat: 13.754339<br>Long: 100.489530<br>num_bike: 4<br>District: พระนคร<br>Location: ข้างป้ายรถเมล์ ด้านหน้าท่ามหาราช<br>Lat: 13.754339<br>Long: 100.489530<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ข้างป้ายรถเมล์ ด้านหน้าท่ามหาราช
+Lat: 13.754339
+Long: 100.489530
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ข้างป้ายรถเมล์ ด้านหน้าท่ามหาราช</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.754339</value>
+        </Data>
+        <Data name="Long">
+          <value>100.489530</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.48953,13.754339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs104</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าหอประชุมศรีบูรพา ธรรมศาสตร์ ท่าพระจันทร์<br>Lat: 13.756512<br>Long: 100.492342<br>num_bike: 4<br>District: พระนคร<br>Location: หน้าหอประชุมศรีบูรพา ธรรมศาสตร์ ท่าพระจันทร์<br>Lat: 13.756512<br>Long: 100.492342<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าหอประชุมศรีบูรพา ธรรมศาสตร์ ท่าพระจันทร์
+Lat: 13.756512
+Long: 100.492342
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าหอประชุมศรีบูรพา ธรรมศาสตร์ ท่าพระจันทร์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.756512</value>
+        </Data>
+        <Data name="Long">
+          <value>100.492342</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.492342,13.756512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs105</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าพิพิธภัณฑ์สถานแห่งชาติ<br>Lat: 13.757720<br>Long: 100.492691<br>num_bike: 4<br>District: พระนคร<br>Location: หน้าพิพิธภัณฑ์สถานแห่งชาติ<br>Lat: 13.757720<br>Long: 100.492691<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าพิพิธภัณฑ์สถานแห่งชาติ
+Lat: 13.757720
+Long: 100.492691
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าพิพิธภัณฑ์สถานแห่งชาติ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757720</value>
+        </Data>
+        <Data name="Long">
+          <value>100.492691</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.492691,13.75772,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs106</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าสำนักงาน ส.หงษ์สวัสดิ์<br>Lat: 13.757579<br>Long: 100.498401<br>num_bike: 4<br>District: พระนคร<br>Location: หน้าสำนักงาน ส.หงษ์สวัสดิ์<br>Lat: 13.757579<br>Long: 100.498401<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าสำนักงาน ส.หงษ์สวัสดิ์
+Lat: 13.757579
+Long: 100.498401
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าสำนักงาน ส.หงษ์สวัสดิ์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757579</value>
+        </Data>
+        <Data name="Long">
+          <value>100.498401</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.498401,13.757579,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs107</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า Burker King<br>Lat: 13.760339<br>Long: 100.496321<br>num_bike: 4<br>District: พระนคร<br>Location: หน้า Burker King<br>Lat: 13.760339<br>Long: 100.496321<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้า Burker King
+Lat: 13.760339
+Long: 100.496321
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้า Burker King</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.760339</value>
+        </Data>
+        <Data name="Long">
+          <value>100.496321</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.496321,13.760339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs108</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า New World บริเวณแยกบางลำภู<br>Lat: 13.762044<br>Long: 100.498187<br>num_bike: 4<br>District: พระนคร<br>Location: หน้า New World บริเวณแยกบางลำภู<br>Lat: 13.762044<br>Long: 100.498187<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้า New World บริเวณแยกบางลำภู
+Lat: 13.762044
+Long: 100.498187
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้า New World บริเวณแยกบางลำภู</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.762044</value>
+        </Data>
+        <Data name="Long">
+          <value>100.498187</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.498187,13.762044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs109</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าโรงเรียนสตรี ใกล้วงเวียน<br>Lat: 13.760154<br>Long: 100.499269<br>num_bike: 4<br>District: พระนคร<br>Location: หน้าโรงเรียนสตรี ใกล้วงเวียน<br>Lat: 13.760154<br>Long: 100.499269<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าโรงเรียนสตรี ใกล้วงเวียน
+Lat: 13.760154
+Long: 100.499269
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าโรงเรียนสตรี ใกล้วงเวียน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.760154</value>
+        </Data>
+        <Data name="Long">
+          <value>100.499269</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.499269,13.760154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs110</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนสันติชัยปราการ<br>Lat: 13.763690<br>Long: 100.495497<br>num_bike: 4<br>District: พระนคร<br>Location: สวนสันติชัยปราการ<br>Lat: 13.763690<br>Long: 100.495497<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนสันติชัยปราการ
+Lat: 13.763690
+Long: 100.495497
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนสันติชัยปราการ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.763690</value>
+        </Data>
+        <Data name="Long">
+          <value>100.495497</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.495497,13.76369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs111</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า Mcdonald's ใกล้โรงเรียนสตรีวิทยา<br>Lat: 13.757080<br>Long: 100.501745<br>num_bike: 4<br>District: พระนคร<br>Location: หน้า Mcdonald's ใกล้โรงเรียนสตรีวิทยา<br>Lat: 13.757080<br>Long: 100.501745<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value><![CDATA[Location: หน้า Mcdonald's ใกล้โรงเรียนสตรีวิทยา
+Lat: 13.757080
+Long: 100.501745
+num_bike: 4
+District: พระนคร]]></value>
+        </Data>
+        <Data name="Location">
+          <value><![CDATA[หน้า Mcdonald's ใกล้โรงเรียนสตรีวิทยา]]></value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757080</value>
+        </Data>
+        <Data name="Long">
+          <value>100.501745</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.501745,13.75708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs112</name>
+      <description><![CDATA[คำอธิบาย: Location: ศาลาว่าการกรุงเทพมหานคร<br>Lat: 13.753106<br>Long: 100.502087<br>num_bike: 5<br>District: พระนคร<br>Location: ศาลาว่าการกรุงเทพมหานคร<br>Lat: 13.753106<br>Long: 100.502087<br>num_bike: 5.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศาลาว่าการกรุงเทพมหานคร
+Lat: 13.753106
+Long: 100.502087
+num_bike: 5
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>ศาลาว่าการกรุงเทพมหานคร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.753106</value>
+        </Data>
+        <Data name="Long">
+          <value>100.502087</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.502087,13.753106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QADs113</name>
+      <description><![CDATA[คำอธิบาย: Location: วัดราชบพิตร<br>Lat: 13.749524<br>Long: 100.497874<br>num_bike: 4<br>District: พระนคร<br>Location: วัดราชบพิตร<br>Lat: 13.749524<br>Long: 100.497874<br>num_bike: 4.0<br>District: พระนคร]]></description>
+      <styleUrl>#icon-1522-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: วัดราชบพิตร
+Lat: 13.749524
+Long: 100.497874
+num_bike: 4
+District: พระนคร</value>
+        </Data>
+        <Data name="Location">
+          <value>วัดราชบพิตร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.749524</value>
+        </Data>
+        <Data name="Long">
+          <value>100.497874</value>
+        </Data>
+        <Data name="num_bike">
+          <value>4.0</value>
+        </Data>
+        <Data name="District">
+          <value>พระนคร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.497874,13.749524,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,3440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LEO - 100</name>
+    <Style id="icon-1522-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>LEO001</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS เอกมัย ทิศตะวันตก (หน้าวัดธาตุทอง)<br>Lat: 13.719194<br>Long: 100.585722<br>num_bike: 5<br>District: คลองเตย<br>Location: BTS เอกมัย ทิศตะวันตก (หน้าวัดธาตุทอง)<br>Lat: 13.719194<br>Long: 100.585722<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS เอกมัย ทิศตะวันตก (หน้าวัดธาตุทอง)
+Lat: 13.719194
+Long: 100.585722
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS เอกมัย ทิศตะวันตก (หน้าวัดธาตุทอง)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719194</value>
+        </Data>
+        <Data name="Long">
+          <value>100.585722</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.585722,13.719194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO002</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS เอกมัย ทิศตะวันตกเฉียงใต้ (หน้าร้านกาแฟพันธ์ไทย)<br>Lat: 13.718972<br>Long: 100.585750<br>num_bike: 5<br>District: คลองเตย<br>Location: BTS เอกมัย ทิศตะวันตกเฉียงใต้ (หน้าร้านกาแฟพันธ์ไทย)<br>Lat: 13.718972<br>Long: 100.585750<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS เอกมัย ทิศตะวันตกเฉียงใต้ (หน้าร้านกาแฟพันธ์ไทย)
+Lat: 13.718972
+Long: 100.585750
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS เอกมัย ทิศตะวันตกเฉียงใต้ (หน้าร้านกาแฟพันธ์ไทย)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.718972</value>
+        </Data>
+        <Data name="Long">
+          <value>100.585750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.58575,13.718972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO003</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS เอกมัย (หน้าร้าน Le Cafe Phenix)<br>Lat: 13.719361<br>Long: 100.585139<br>num_bike: 5<br>District: คลองเตย<br>Location: ใต้ BTS เอกมัย (หน้าร้าน Le Cafe Phenix)<br>Lat: 13.719361<br>Long: 100.585139<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS เอกมัย (หน้าร้าน Le Cafe Phenix)
+Lat: 13.719361
+Long: 100.585139
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS เอกมัย (หน้าร้าน Le Cafe Phenix)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.719361</value>
+        </Data>
+        <Data name="Long">
+          <value>100.585139</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.585139,13.719361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO004</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าสถานีขนส่งเอกมัย<br>Lat: 13.720083<br>Long: 100.584194<br>num_bike: 5<br>District: คลองเตย<br>Location: หน้าสถานีขนส่งเอกมัย<br>Lat: 13.720083<br>Long: 100.584194<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าสถานีขนส่งเอกมัย
+Lat: 13.720083
+Long: 100.584194
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าสถานีขนส่งเอกมัย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720083</value>
+        </Data>
+        <Data name="Long">
+          <value>100.584194</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.584194,13.720083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO005</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าสถานบันพัฒนาการศึกษานอกระบบ (ทิศตะวันตกเฉียงใต้ของสะพานลอย)<br>Lat: 13.721250<br>Long: 100.582528<br>num_bike: 5<br>District: คลองเตย<br>Location: หน้าสถานบันพัฒนาการศึกษานอกระบบ (ทิศตะวันตกเฉียงใต้ของสะพานลอย)<br>Lat: 13.721250<br>Long: 100.582528<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าสถานบันพัฒนาการศึกษานอกระบบ (ทิศตะวันตกเฉียงใต้ของสะพานลอย)
+Lat: 13.721250
+Long: 100.582528
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าสถานบันพัฒนาการศึกษานอกระบบ (ทิศตะวันตกเฉียงใต้ของสะพานลอย)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.721250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.582528</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.582528,13.72125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO006</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าอาคาร T-one<br>Lat: 13.722861<br>Long: 100.580361<br>num_bike: 5<br>District: คลองเตย<br>Location: หน้าอาคาร T-one<br>Lat: 13.722861<br>Long: 100.580361<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าอาคาร T-one
+Lat: 13.722861
+Long: 100.580361
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าอาคาร T-one</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.722861</value>
+        </Data>
+        <Data name="Long">
+          <value>100.580361</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.580361,13.722861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO007</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS ทองหล่อ (ทิศใต้)<br>Lat: 13.724000<br>Long: 100.578667<br>num_bike: 5<br>District: คลองเตย<br>Location: ใต้ BTS ทองหล่อ (ทิศใต้)<br>Lat: 13.724000<br>Long: 100.578667<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS ทองหล่อ (ทิศใต้)
+Lat: 13.724000
+Long: 100.578667
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS ทองหล่อ (ทิศใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.724000</value>
+        </Data>
+        <Data name="Long">
+          <value>100.578667</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.578667,13.724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO008</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าคอนโด Keyne<br>Lat: 13.725139<br>Long: 100.577083<br>num_bike: 5<br>District: คลองเตย<br>Location: หน้าคอนโด Keyne<br>Lat: 13.725139<br>Long: 100.577083<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าคอนโด Keyne
+Lat: 13.725139
+Long: 100.577083
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าคอนโด Keyne</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.725139</value>
+        </Data>
+        <Data name="Long">
+          <value>100.577083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.577083,13.725139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO009</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าโรงเรียน Bangkok Prep<br>Lat: 13.725167<br>Long: 100.577361<br>num_bike: 5<br>District: คลองเตย<br>Location: หน้าโรงเรียน Bangkok Prep<br>Lat: 13.725167<br>Long: 100.577361<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าโรงเรียน Bangkok Prep
+Lat: 13.725167
+Long: 100.577361
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าโรงเรียน Bangkok Prep</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.725167</value>
+        </Data>
+        <Data name="Long">
+          <value>100.577361</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.577361,13.725167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO010</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้ BTS ทองหล่อ (ทิศตะวันออก หน้าร้านแว่นท็อปเจริญ)<br>Lat: 13.723944<br>Long: 100.579083<br>num_bike: 5<br>District: คลองเตย<br>Location: ใต้ BTS ทองหล่อ (ทิศตะวันออก หน้าร้านแว่นท็อปเจริญ)<br>Lat: 13.723944<br>Long: 100.579083<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้ BTS ทองหล่อ (ทิศตะวันออก หน้าร้านแว่นท็อปเจริญ)
+Lat: 13.723944
+Long: 100.579083
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้ BTS ทองหล่อ (ทิศตะวันออก หน้าร้านแว่นท็อปเจริญ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.723944</value>
+        </Data>
+        <Data name="Long">
+          <value>100.579083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.579083,13.723944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO011</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS หมอชิต ทิศตะวันตกเฉียงใต้ (ทางลง MRT)<br>Lat: 13.801972<br>Long: 100.553194<br>num_bike: 5<br>District: จตุจักร<br>Location: BTS หมอชิต ทิศตะวันตกเฉียงใต้ (ทางลง MRT)<br>Lat: 13.801972<br>Long: 100.553194<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS หมอชิต ทิศตะวันตกเฉียงใต้ (ทางลง MRT)
+Lat: 13.801972
+Long: 100.553194
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS หมอชิต ทิศตะวันตกเฉียงใต้ (ทางลง MRT)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.801972</value>
+        </Data>
+        <Data name="Long">
+          <value>100.553194</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.553194,13.801972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO012</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS หมอชิต (บันไดทิศเหนือ)<br>Lat: 13.803306<br>Long: 100.553972<br>num_bike: 5<br>District: จตุจักร<br>Location: BTS หมอชิต (บันไดทิศเหนือ)<br>Lat: 13.803306<br>Long: 100.553972<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS หมอชิต (บันไดทิศเหนือ)
+Lat: 13.803306
+Long: 100.553972
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS หมอชิต (บันไดทิศเหนือ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.803306</value>
+        </Data>
+        <Data name="Long">
+          <value>100.553972</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.553972,13.803306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO013</name>
+      <description><![CDATA[คำอธิบาย: Location: ป้ายรถเมย์ สวนจตุจักร<br>Lat: 13.802667<br>Long: 100.553556<br>num_bike: 5<br>District: จตุจักร<br>Location: ป้ายรถเมย์ สวนจตุจักร<br>Lat: 13.802667<br>Long: 100.553556<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ป้ายรถเมย์ สวนจตุจักร
+Lat: 13.802667
+Long: 100.553556
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>ป้ายรถเมย์ สวนจตุจักร</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.802667</value>
+        </Data>
+        <Data name="Long">
+          <value>100.553556</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.553556,13.802667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO014</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้าอาคาร TTB (ป้ายรถเมย์)<br>Lat: 13.808667<br>Long: 100.557500<br>num_bike: 5<br>District: จตุจักร<br>Location: หน้าอาคาร TTB (ป้ายรถเมย์)<br>Lat: 13.808667<br>Long: 100.557500<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้าอาคาร TTB (ป้ายรถเมย์)
+Lat: 13.808667
+Long: 100.557500
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้าอาคาร TTB (ป้ายรถเมย์)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.808667</value>
+        </Data>
+        <Data name="Long">
+          <value>100.557500</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5575,13.808667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO015</name>
+      <description><![CDATA[คำอธิบาย: Location: ป้ายรถเมย์ (ตรงข้ามสวนจตุจักร)<br>Lat: 13.804111<br>Long: 100.554833<br>num_bike: 5<br>District: จตุจักร<br>Location: ป้ายรถเมย์ (ตรงข้ามสวนจตุจักร)<br>Lat: 13.804111<br>Long: 100.554833<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ป้ายรถเมย์ (ตรงข้ามสวนจตุจักร)
+Lat: 13.804111
+Long: 100.554833
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>ป้ายรถเมย์ (ตรงข้ามสวนจตุจักร)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.804111</value>
+        </Data>
+        <Data name="Long">
+          <value>100.554833</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.554833,13.804111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO016</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS หมอชิต (ทิศตะวันออกเฉียงเหนือ)<br>Lat: 13.803361<br>Long: 100.554389<br>num_bike: 5<br>District: จตุจักร<br>Location: BTS หมอชิต (ทิศตะวันออกเฉียงเหนือ)<br>Lat: 13.803361<br>Long: 100.554389<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS หมอชิต (ทิศตะวันออกเฉียงเหนือ)
+Lat: 13.803361
+Long: 100.554389
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS หมอชิต (ทิศตะวันออกเฉียงเหนือ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.803361</value>
+        </Data>
+        <Data name="Long">
+          <value>100.554389</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.554389,13.803361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO017</name>
+      <description><![CDATA[คำอธิบาย: Location: หน้า สถาบันการบินพลเรือน<br>Lat: 13.800889<br>Long: 100.552944<br>num_bike: 5<br>District: จตุจักร<br>Location: หน้า สถาบันการบินพลเรือน<br>Lat: 13.800889<br>Long: 100.552944<br>num_bike: 5.0<br>District: จตุจักร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: หน้า สถาบันการบินพลเรือน
+Lat: 13.800889
+Long: 100.552944
+num_bike: 5
+District: จตุจักร</value>
+        </Data>
+        <Data name="Location">
+          <value>หน้า สถาบันการบินพลเรือน</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.800889</value>
+        </Data>
+        <Data name="Long">
+          <value>100.552944</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>จตุจักร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.552944,13.800889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO018</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS สะพานควาย (บันไดทิศใต้)<br>Lat: 13.792889<br>Long: 100.549500<br>num_bike: 5<br>District: พญาไท<br>Location: BTS สะพานควาย (บันไดทิศใต้)<br>Lat: 13.792889<br>Long: 100.549500<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS สะพานควาย (บันไดทิศใต้)
+Lat: 13.792889
+Long: 100.549500
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS สะพานควาย (บันไดทิศใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.792889</value>
+        </Data>
+        <Data name="Long">
+          <value>100.549500</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5495,13.792889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO019</name>
+      <description><![CDATA[คำอธิบาย: Location: Big C สะพานควาย<br>Lat: 13.791806<br>Long: 100.549083<br>num_bike: 5<br>District: พญาไท<br>Location: Big C สะพานควาย<br>Lat: 13.791806<br>Long: 100.549083<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Big C สะพานควาย
+Lat: 13.791806
+Long: 100.549083
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>Big C สะพานควาย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.791806</value>
+        </Data>
+        <Data name="Long">
+          <value>100.549083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.549083,13.791806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO020</name>
+      <description><![CDATA[คำอธิบาย: Location: สถานีตำรวจนครบาลบางซื่อ<br>Lat: 13.786750<br>Long: 100.547278<br>num_bike: 5<br>District: พญาไท<br>Location: สถานีตำรวจนครบาลบางซื่อ<br>Lat: 13.786750<br>Long: 100.547278<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สถานีตำรวจนครบาลบางซื่อ
+Lat: 13.786750
+Long: 100.547278
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>สถานีตำรวจนครบาลบางซื่อ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.786750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547278</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.547278,13.78675,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO021</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร ARI Hills<br>Lat: 13.784722<br>Long: 100.546556<br>num_bike: 5<br>District: พญาไท<br>Location: อาคาร ARI Hills<br>Lat: 13.784722<br>Long: 100.546556<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร ARI Hills
+Lat: 13.784722
+Long: 100.546556
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร ARI Hills</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.784722</value>
+        </Data>
+        <Data name="Long">
+          <value>100.546556</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.546556,13.784722,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO022</name>
+      <description><![CDATA[คำอธิบาย: Location: โชว์รูม เบนซ์ ราชครู<br>Lat: 13.784278<br>Long: 100.546389<br>num_bike: 5<br>District: พญาไท<br>Location: โชว์รูม เบนซ์ ราชครู<br>Lat: 13.784278<br>Long: 100.546389<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โชว์รูม เบนซ์ ราชครู
+Lat: 13.784278
+Long: 100.546389
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>โชว์รูม เบนซ์ ราชครู</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.784278</value>
+        </Data>
+        <Data name="Long">
+          <value>100.546389</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.546389,13.784278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO023</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคารกสิกรไทย<br>Lat: 13.782056<br>Long: 100.545583<br>num_bike: 5<br>District: พญาไท<br>Location: อาคารกสิกรไทย<br>Lat: 13.782056<br>Long: 100.545583<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคารกสิกรไทย
+Lat: 13.782056
+Long: 100.545583
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคารกสิกรไทย</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.782056</value>
+        </Data>
+        <Data name="Long">
+          <value>100.545583</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.545583,13.782056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO024</name>
+      <description><![CDATA[คำอธิบาย: Location: Villa Market (บันได BTS อารีย์)<br>Lat: 13.780139<br>Long: 100.544944<br>num_bike: 5<br>District: พญาไท<br>Location: Villa Market (บันได BTS อารีย์)<br>Lat: 13.780139<br>Long: 100.544944<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Villa Market (บันได BTS อารีย์)
+Lat: 13.780139
+Long: 100.544944
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>Villa Market (บันได BTS อารีย์)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.780139</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544944</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.544944,13.780139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO025</name>
+      <description><![CDATA[คำอธิบาย: Location: บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (บุญเติม)<br>Lat: 13.774750<br>Long: 100.542917<br>num_bike: 5<br>District: พญาไท<br>Location: บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (บุญเติม)<br>Lat: 13.774750<br>Long: 100.542917<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (บุญเติม)
+Lat: 13.774750
+Long: 100.542917
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>บริษัท ฟอร์ท สมาร์ท เซอร์วิส จำกัด (บุญเติม)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.774750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.542917</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.542917,13.77475,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO026</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS สนามเป้า บันไดฝั่งทิศใต้ (หน้าร้านกรุงเทพวิศวกรรม)<br>Lat: 13.772250<br>Long: 100.542194<br>num_bike: 5<br>District: พญาไท<br>Location: BTS สนามเป้า บันไดฝั่งทิศใต้ (หน้าร้านกรุงเทพวิศวกรรม)<br>Lat: 13.772250<br>Long: 100.542194<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS สนามเป้า บันไดฝั่งทิศใต้ (หน้าร้านกรุงเทพวิศวกรรม)
+Lat: 13.772250
+Long: 100.542194
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS สนามเป้า บันไดฝั่งทิศใต้ (หน้าร้านกรุงเทพวิศวกรรม)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.772250</value>
+        </Data>
+        <Data name="Long">
+          <value>100.542194</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.542194,13.77225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO027</name>
+      <description><![CDATA[คำอธิบาย: Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะดินแดง)<br>Lat: 13.765111<br>Long: 100.539028<br>num_bike: 5<br>District: พญาไท<br>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะดินแดง)<br>Lat: 13.765111<br>Long: 100.539028<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะดินแดง)
+Lat: 13.765111
+Long: 100.539028
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>อนุสาวรีย์ชัยสมรภูมิ (เกาะดินแดง)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.765111</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539028</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.539028,13.765111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO028</name>
+      <description><![CDATA[คำอธิบาย: Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท)<br>Lat: 13.764444<br>Long: 100.538667<br>num_bike: 5<br>District: ราชเทวี<br>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท)<br>Lat: 13.764444<br>Long: 100.538667<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท)
+Lat: 13.764444
+Long: 100.538667
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.764444</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538667</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.538667,13.764444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO029</name>
+      <description><![CDATA[คำอธิบาย: Location: คอนโด Ideo Q Victory<br>Lat: 13.762306<br>Long: 100.536917<br>num_bike: 5<br>District: ราชเทวี<br>Location: คอนโด Ideo Q Victory<br>Lat: 13.762306<br>Long: 100.536917<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: คอนโด Ideo Q Victory
+Lat: 13.762306
+Long: 100.536917
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>คอนโด Ideo Q Victory</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.762306</value>
+        </Data>
+        <Data name="Long">
+          <value>100.536917</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.536917,13.762306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO030</name>
+      <description><![CDATA[คำอธิบาย: Location: โครงการ HAMPTON Resident พญาไท<br>Lat: 13.759278<br>Long: 100.535222<br>num_bike: 5<br>District: ราชเทวี<br>Location: โครงการ HAMPTON Resident พญาไท<br>Lat: 13.759278<br>Long: 100.535222<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โครงการ HAMPTON Resident พญาไท
+Lat: 13.759278
+Long: 100.535222
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>โครงการ HAMPTON Resident พญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.759278</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535222</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535222,13.759278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO031</name>
+      <description><![CDATA[คำอธิบาย: Location: แยกพญาไท ทิศตะวันออกเฉียงเหนือ<br>Lat: 13.758139<br>Long: 100.534694<br>num_bike: 5<br>District: ราชเทวี<br>Location: แยกพญาไท ทิศตะวันออกเฉียงเหนือ<br>Lat: 13.758139<br>Long: 100.534694<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: แยกพญาไท ทิศตะวันออกเฉียงเหนือ
+Lat: 13.758139
+Long: 100.534694
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>แยกพญาไท ทิศตะวันออกเฉียงเหนือ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.758139</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534694</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534694,13.758139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO032</name>
+      <description><![CDATA[คำอธิบาย: Location: ทางเข้า Airport Rail Link พญาไท<br>Lat: 13.757417<br>Long: 100.534194<br>num_bike: 5<br>District: ราชเทวี<br>Location: ทางเข้า Airport Rail Link พญาไท<br>Lat: 13.757417<br>Long: 100.534194<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ทางเข้า Airport Rail Link พญาไท
+Lat: 13.757417
+Long: 100.534194
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>ทางเข้า Airport Rail Link พญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757417</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534194</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.534194,13.757417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO033</name>
+      <description><![CDATA[คำอธิบาย: Location: CP Tower 3 (หน้า 7-11)<br>Lat: 13.757056<br>Long: 100.533667<br>num_bike: 5<br>District: ราชเทวี<br>Location: CP Tower 3 (หน้า 7-11)<br>Lat: 13.757056<br>Long: 100.533667<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: CP Tower 3 (หน้า 7-11)
+Lat: 13.757056
+Long: 100.533667
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>CP Tower 3 (หน้า 7-11)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.757056</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533667</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533667,13.757056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO034</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ปากซอยโยธี)<br>Lat: 13.761944<br>Long: 100.536444<br>num_bike: 5<br>District: ราชเทวี<br>Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ปากซอยโยธี)<br>Lat: 13.761944<br>Long: 100.536444<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ปากซอยโยธี)
+Lat: 13.761944
+Long: 100.536444
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS อนุสาวรีย์ชัยสมรภูมิ (ปากซอยโยธี)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.761944</value>
+        </Data>
+        <Data name="Long">
+          <value>100.536444</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.536444,13.761944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO035</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ตรงข้ามคอนโด Ideo Q Victory)<br>Lat: 13.762500<br>Long: 100.536750<br>num_bike: 5<br>District: ราชเทวี<br>Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ตรงข้ามคอนโด Ideo Q Victory)<br>Lat: 13.762500<br>Long: 100.536750<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS อนุสาวรีย์ชัยสมรภูมิ (ตรงข้ามคอนโด Ideo Q Victory)
+Lat: 13.762500
+Long: 100.536750
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS อนุสาวรีย์ชัยสมรภูมิ (ตรงข้ามคอนโด Ideo Q Victory)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.762500</value>
+        </Data>
+        <Data name="Long">
+          <value>100.536750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53675,13.7625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO036</name>
+      <description><![CDATA[คำอธิบาย: Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะราชวิถี)<br>Lat: 13.764306<br>Long: 100.537417<br>num_bike: 5<br>District: ราชเทวี<br>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะราชวิถี)<br>Lat: 13.764306<br>Long: 100.537417<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะราชวิถี)
+Lat: 13.764306
+Long: 100.537417
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>อนุสาวรีย์ชัยสมรภูมิ (เกาะราชวิถี)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.764306</value>
+        </Data>
+        <Data name="Long">
+          <value>100.537417</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.537417,13.764306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO037</name>
+      <description><![CDATA[คำอธิบาย: Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพหลโยธิน)<br>Lat: 13.765667<br>Long: 100.537861<br>num_bike: 5<br>District: ราชเทวี<br>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพหลโยธิน)<br>Lat: 13.765667<br>Long: 100.537861<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อนุสาวรีย์ชัยสมรภูมิ (เกาะพหลโยธิน)
+Lat: 13.765667
+Long: 100.537861
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>อนุสาวรีย์ชัยสมรภูมิ (เกาะพหลโยธิน)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.765667</value>
+        </Data>
+        <Data name="Long">
+          <value>100.537861</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.537861,13.765667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO038</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้สะพานลอย คลองสามเสน (มุ่งหน้าสะพานควาย)<br>Lat: 13.765944<br>Long: 100.538750<br>num_bike: 5<br>District: พญาไท<br>Location: ใต้สะพานลอย คลองสามเสน (มุ่งหน้าสะพานควาย)<br>Lat: 13.765944<br>Long: 100.538750<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้สะพานลอย คลองสามเสน (มุ่งหน้าสะพานควาย)
+Lat: 13.765944
+Long: 100.538750
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้สะพานลอย คลองสามเสน (มุ่งหน้าสะพานควาย)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.765944</value>
+        </Data>
+        <Data name="Long">
+          <value>100.538750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53875,13.765944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO039</name>
+      <description><![CDATA[คำอธิบาย: Location: ใต้สะพานลอยหน้าร้านวีนัสซาลอน (ข้าง บริษัท แคปปิตอล จำกัด)<br>Lat: 13.767972<br>Long: 100.539917<br>num_bike: 5<br>District: พญาไท<br>Location: ใต้สะพานลอยหน้าร้านวีนัสซาลอน (ข้าง บริษัท แคปปิตอล จำกัด)<br>Lat: 13.767972<br>Long: 100.539917<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ใต้สะพานลอยหน้าร้านวีนัสซาลอน (ข้าง บริษัท แคปปิตอล จำกัด)
+Lat: 13.767972
+Long: 100.539917
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ใต้สะพานลอยหน้าร้านวีนัสซาลอน (ข้าง บริษัท แคปปิตอล จำกัด)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.767972</value>
+        </Data>
+        <Data name="Long">
+          <value>100.539917</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.539917,13.767972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO040</name>
+      <description><![CDATA[คำอธิบาย: Location: The Seasons Mall<br>Lat: 13.768806<br>Long: 100.540361<br>num_bike: 5<br>District: พญาไท<br>Location: The Seasons Mall<br>Lat: 13.768806<br>Long: 100.540361<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: The Seasons Mall
+Lat: 13.768806
+Long: 100.540361
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>The Seasons Mall</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.768806</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540361</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540361,13.768806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO041</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงพยาบาลพญาไท 2<br>Lat: 13.769639<br>Long: 100.540806<br>num_bike: 5<br>District: พญาไท<br>Location: โรงพยาบาลพญาไท 2<br>Lat: 13.769639<br>Long: 100.540806<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงพยาบาลพญาไท 2
+Lat: 13.769639
+Long: 100.540806
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงพยาบาลพญาไท 2</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.769639</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540806</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540806,13.769639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO042</name>
+      <description><![CDATA[คำอธิบาย: Location: โชว์รูม วอง ฮอนด้าคาร์ส์ สาขาพญาไท<br>Lat: 13.771167<br>Long: 100.541472<br>num_bike: 5<br>District: พญาไท<br>Location: โชว์รูม วอง ฮอนด้าคาร์ส์ สาขาพญาไท<br>Lat: 13.771167<br>Long: 100.541472<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โชว์รูม วอง ฮอนด้าคาร์ส์ สาขาพญาไท
+Lat: 13.771167
+Long: 100.541472
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>โชว์รูม วอง ฮอนด้าคาร์ส์ สาขาพญาไท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.771167</value>
+        </Data>
+        <Data name="Long">
+          <value>100.541472</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.541472,13.771167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO043</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกสิกรไทย (สาขาสนามเป้า)<br>Lat: 13.772444<br>Long: 100.541889<br>num_bike: 5<br>District: พญาไท<br>Location: ธนาคารกสิกรไทย (สาขาสนามเป้า)<br>Lat: 13.772444<br>Long: 100.541889<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกสิกรไทย (สาขาสนามเป้า)
+Lat: 13.772444
+Long: 100.541889
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกสิกรไทย (สาขาสนามเป้า)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.772444</value>
+        </Data>
+        <Data name="Long">
+          <value>100.541889</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.541889,13.772444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO044</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคารประภัสสร ศูนย์สีพหลโยธิน (ปากซอย 3)<br>Lat: 13.774028<br>Long: 100.542500<br>num_bike: 5<br>District: พญาไท<br>Location: อาคารประภัสสร ศูนย์สีพหลโยธิน (ปากซอย 3)<br>Lat: 13.774028<br>Long: 100.542500<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคารประภัสสร ศูนย์สีพหลโยธิน (ปากซอย 3)
+Lat: 13.774028
+Long: 100.542500
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคารประภัสสร ศูนย์สีพหลโยธิน (ปากซอย 3)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.774028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.542500</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.5425,13.774028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO045</name>
+      <description><![CDATA[คำอธิบาย: Location: ปั้มเชลล์ (ใต้ BTS อารีย์ ทิศตะวันตก)<br>Lat: 13.779278<br>Long: 100.544167<br>num_bike: 5<br>District: พญาไท<br>Location: ปั้มเชลล์ (ใต้ BTS อารีย์ ทิศตะวันตก)<br>Lat: 13.779278<br>Long: 100.544167<br>num_bike: 5.0<br>District: พญาไท]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ปั้มเชลล์ (ใต้ BTS อารีย์ ทิศตะวันตก)
+Lat: 13.779278
+Long: 100.544167
+num_bike: 5
+District: พญาไท</value>
+        </Data>
+        <Data name="Location">
+          <value>ปั้มเชลล์ (ใต้ BTS อารีย์ ทิศตะวันตก)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.779278</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544167</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>พญาไท</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.544167,13.779278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO046</name>
+      <description><![CDATA[คำอธิบาย: Location: สยามเซ็นเตอร์ (ป้ายรถเมย์ฝั่งด้านหน้า)<br>Lat: 13.745917<br>Long: 100.533083<br>num_bike: 5<br>District: ปทุมวัน<br>Location: สยามเซ็นเตอร์ (ป้ายรถเมย์ฝั่งด้านหน้า)<br>Lat: 13.745917<br>Long: 100.533083<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สยามเซ็นเตอร์ (ป้ายรถเมย์ฝั่งด้านหน้า)
+Lat: 13.745917
+Long: 100.533083
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>สยามเซ็นเตอร์ (ป้ายรถเมย์ฝั่งด้านหน้า)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745917</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533083,13.745917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO047</name>
+      <description><![CDATA[คำอธิบาย: Location: Siam Paragon (ใต้บันได BTS สยาม)<br>Lat: 13.745778<br>Long: 100.534250<br>num_bike: 5<br>District: ปทุมวัน<br>Location: Siam Paragon (ใต้บันได BTS สยาม)<br>Lat: 13.745778<br>Long: 100.534250<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Siam Paragon (ใต้บันได BTS สยาม)
+Lat: 13.745778
+Long: 100.534250
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>Siam Paragon (ใต้บันได BTS สยาม)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.745778</value>
+        </Data>
+        <Data name="Long">
+          <value>100.534250</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.53425,13.745778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO048</name>
+      <description><![CDATA[คำอธิบาย: Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนเพลินจิต ตรงข้าม เกษตรวิลเลจ)<br>Lat: 13.744417<br>Long: 100.540528<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนเพลินจิต ตรงข้าม เกษตรวิลเลจ)<br>Lat: 13.744417<br>Long: 100.540528<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนเพลินจิต ตรงข้าม เกษตรวิลเลจ)
+Lat: 13.744417
+Long: 100.540528
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนเพลินจิต ตรงข้าม เกษตรวิลเลจ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744417</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540528</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540528,13.744417,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO049</name>
+      <description><![CDATA[คำอธิบาย: Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนราชดำริ)<br>Lat: 13.744306<br>Long: 100.540333<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนราชดำริ)<br>Lat: 13.744306<br>Long: 100.540333<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนราชดำริ)
+Lat: 13.744306
+Long: 100.540333
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ศาลท้าวมหาพรหมเอราวัณ (ฝั่งถนนราชดำริ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744306</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540333</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540333,13.744306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO050</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกรุงเทพ ถนนสีลม (ต้นซอย)<br>Lat: 13.729028<br>Long: 100.536083<br>num_bike: 5<br>District: บางรัก<br>Location: ธนาคารกรุงเทพ ถนนสีลม (ต้นซอย)<br>Lat: 13.729028<br>Long: 100.536083<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกรุงเทพ ถนนสีลม (ต้นซอย)
+Lat: 13.729028
+Long: 100.536083
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกรุงเทพ ถนนสีลม (ต้นซอย)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.536083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.536083,13.729028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO051</name>
+      <description><![CDATA[คำอธิบาย: Location: Central สีลม (บันไดทิศตะวันออก BTS ศาลาแดง)<br>Lat: 13.728750<br>Long: 100.535056<br>num_bike: 5<br>District: บางรัก<br>Location: Central สีลม (บันไดทิศตะวันออก BTS ศาลาแดง)<br>Lat: 13.728750<br>Long: 100.535056<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Central สีลม (บันไดทิศตะวันออก BTS ศาลาแดง)
+Lat: 13.728750
+Long: 100.535056
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>Central สีลม (บันไดทิศตะวันออก BTS ศาลาแดง)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.728750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.535056</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.535056,13.72875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO052</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคาร UOB (ทิศใต้ BTS เซนต์หลุยส์)<br>Lat: 13.720861<br>Long: 100.527250<br>num_bike: 5<br>District: สาทร<br>Location: ธนาคาร UOB (ทิศใต้ BTS เซนต์หลุยส์)<br>Lat: 13.720861<br>Long: 100.527250<br>num_bike: 5.0<br>District: สาทร]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคาร UOB (ทิศใต้ BTS เซนต์หลุยส์)
+Lat: 13.720861
+Long: 100.527250
+num_bike: 5
+District: สาทร</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคาร UOB (ทิศใต้ BTS เซนต์หลุยส์)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720861</value>
+        </Data>
+        <Data name="Long">
+          <value>100.527250</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>สาทร</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.52725,13.720861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO053</name>
+      <description><![CDATA[คำอธิบาย: Location: BTS เซนต์หลุยส์ (ใต้บันไดทิศตะวันตกเฉียงเหนือ)<br>Lat: 13.720889<br>Long: 100.526361<br>num_bike: 5<br>District: บางรัก<br>Location: BTS เซนต์หลุยส์ (ใต้บันไดทิศตะวันตกเฉียงเหนือ)<br>Lat: 13.720889<br>Long: 100.526361<br>num_bike: 5.0<br>District: บางรัก]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: BTS เซนต์หลุยส์ (ใต้บันไดทิศตะวันตกเฉียงเหนือ)
+Lat: 13.720889
+Long: 100.526361
+num_bike: 5
+District: บางรัก</value>
+        </Data>
+        <Data name="Location">
+          <value>BTS เซนต์หลุยส์ (ใต้บันไดทิศตะวันตกเฉียงเหนือ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.720889</value>
+        </Data>
+        <Data name="Long">
+          <value>100.526361</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>บางรัก</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.526361,13.720889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO054</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT เพชรบุรี BL21 (ประตู 1)<br>Lat: 13.749472<br>Long: 100.563583<br>num_bike: 5<br>District: ราชเทวี<br>Location: MRT เพชรบุรี BL21 (ประตู 1)<br>Lat: 13.749472<br>Long: 100.563583<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT เพชรบุรี BL21 (ประตู 1)
+Lat: 13.749472
+Long: 100.563583
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT เพชรบุรี BL21 (ประตู 1)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.749472</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563583</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563583,13.749472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO055</name>
+      <description><![CDATA[คำอธิบาย: Location: อโศก สะพานข้ามคลองแสนแสบ (ตรงข้ามอาคาร 253 Asoke)<br>Lat: 13.746972<br>Long: 100.562972<br>num_bike: 5<br>District: วัฒนา<br>Location: อโศก สะพานข้ามคลองแสนแสบ (ตรงข้ามอาคาร 253 Asoke)<br>Lat: 13.746972<br>Long: 100.562972<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อโศก สะพานข้ามคลองแสนแสบ (ตรงข้ามอาคาร 253 Asoke)
+Lat: 13.746972
+Long: 100.562972
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>อโศก สะพานข้ามคลองแสนแสบ (ตรงข้ามอาคาร 253 Asoke)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.746972</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562972</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.562972,13.746972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO056</name>
+      <description><![CDATA[คำอธิบาย: Location: Bangkok smile dental clinic (ถนนอโศกมนตรี)<br>Lat: 13.740611<br>Long: 100.561972<br>num_bike: 5<br>District: วัฒนา<br>Location: Bangkok smile dental clinic (ถนนอโศกมนตรี)<br>Lat: 13.740611<br>Long: 100.561972<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Bangkok smile dental clinic (ถนนอโศกมนตรี)
+Lat: 13.740611
+Long: 100.561972
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>Bangkok smile dental clinic (ถนนอโศกมนตรี)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740611</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561972</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561972,13.740611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO057</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Interchange (ฝั่งถนนอโศกมนตรี)<br>Lat: 13.736333<br>Long: 100.561528<br>num_bike: 5<br>District: วัฒนา<br>Location: อาคาร Interchange (ฝั่งถนนอโศกมนตรี)<br>Lat: 13.736333<br>Long: 100.561528<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Interchange (ฝั่งถนนอโศกมนตรี)
+Lat: 13.736333
+Long: 100.561528
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Interchange (ฝั่งถนนอโศกมนตรี)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736333</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561528</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561528,13.736333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO058</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Jasmine (ถนนสุขุมวิท)<br>Lat: 13.735500<br>Long: 100.562750<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร Jasmine (ถนนสุขุมวิท)<br>Lat: 13.735500<br>Long: 100.562750<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Jasmine (ถนนสุขุมวิท)
+Lat: 13.735500
+Long: 100.562750
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Jasmine (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.735500</value>
+        </Data>
+        <Data name="Long">
+          <value>100.562750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.56275,13.7355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO059</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Radisson (ถนนสุขุมวิท)<br>Lat: 13.734639<br>Long: 100.563944<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร Radisson (ถนนสุขุมวิท)<br>Lat: 13.734639<br>Long: 100.563944<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Radisson (ถนนสุขุมวิท)
+Lat: 13.734639
+Long: 100.563944
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Radisson (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.734639</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563944</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563944,13.734639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO060</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร S31 (ถนนสุขุมวิท)<br>Lat: 13.733333<br>Long: 100.565778<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร S31 (ถนนสุขุมวิท)<br>Lat: 13.733333<br>Long: 100.565778<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร S31 (ถนนสุขุมวิท)
+Lat: 13.733333
+Long: 100.565778
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร S31 (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733333</value>
+        </Data>
+        <Data name="Long">
+          <value>100.565778</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.565778,13.733333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO061</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน Kenshin Izakaya (ถนนสุขุมวิท)<br>Lat: 13.732500<br>Long: 100.566972<br>num_bike: 5<br>District: วัฒนา<br>Location: ร้าน Kenshin Izakaya (ถนนสุขุมวิท)<br>Lat: 13.732500<br>Long: 100.566972<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน Kenshin Izakaya (ถนนสุขุมวิท)
+Lat: 13.732500
+Long: 100.566972
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน Kenshin Izakaya (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.732500</value>
+        </Data>
+        <Data name="Long">
+          <value>100.566972</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.566972,13.7325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO062</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกสิกรไทย สาขาสุขุมวิท 33 (บางกะปิ)<br>Lat: 13.732222<br>Long: 100.567278<br>num_bike: 5<br>District: คลองเตย<br>Location: ธนาคารกสิกรไทย สาขาสุขุมวิท 33 (บางกะปิ)<br>Lat: 13.732222<br>Long: 100.567278<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกสิกรไทย สาขาสุขุมวิท 33 (บางกะปิ)
+Lat: 13.732222
+Long: 100.567278
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกสิกรไทย สาขาสุขุมวิท 33 (บางกะปิ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.732222</value>
+        </Data>
+        <Data name="Long">
+          <value>100.567278</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.567278,13.732222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO063</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน ONE Man Club (สุขุมวิท 35)<br>Lat: 13.731389<br>Long: 100.568639<br>num_bike: 5<br>District: คลองเตย<br>Location: ร้าน ONE Man Club (สุขุมวิท 35)<br>Lat: 13.731389<br>Long: 100.568639<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน ONE Man Club (สุขุมวิท 35)
+Lat: 13.731389
+Long: 100.568639
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน ONE Man Club (สุขุมวิท 35)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.731389</value>
+        </Data>
+        <Data name="Long">
+          <value>100.568639</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.568639,13.731389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO064</name>
+      <description><![CDATA[คำอธิบาย: Location: Emquartier ฝั่งด้านหน้า (ถนนสุขุมวิท)<br>Lat: 13.731028<br>Long: 100.569056<br>num_bike: 5<br>District: คลองเตย<br>Location: Emquartier ฝั่งด้านหน้า (ถนนสุขุมวิท)<br>Lat: 13.731028<br>Long: 100.569056<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Emquartier ฝั่งด้านหน้า (ถนนสุขุมวิท)
+Lat: 13.731028
+Long: 100.569056
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>Emquartier ฝั่งด้านหน้า (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.731028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.569056</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.569056,13.731028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO065</name>
+      <description><![CDATA[คำอธิบาย: Location: คอนโด Marque (ถนนสุขุมวิท)<br>Lat: 13.729639<br>Long: 100.571000<br>num_bike: 5<br>District: วัฒนา<br>Location: คอนโด Marque (ถนนสุขุมวิท)<br>Lat: 13.729639<br>Long: 100.571000<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: คอนโด Marque (ถนนสุขุมวิท)
+Lat: 13.729639
+Long: 100.571000
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>คอนโด Marque (ถนนสุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729639</value>
+        </Data>
+        <Data name="Long">
+          <value>100.571000</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.571,13.729639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO066</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Miracle Mall (สุขุมวิท41)<br>Lat: 13.728889<br>Long: 100.572139<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร Miracle Mall (สุขุมวิท41)<br>Lat: 13.728889<br>Long: 100.572139<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Miracle Mall (สุขุมวิท41)
+Lat: 13.728889
+Long: 100.572139
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Miracle Mall (สุขุมวิท41)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.728889</value>
+        </Data>
+        <Data name="Long">
+          <value>100.572139</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.572139,13.728889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO067</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน PAGODA & CO (ปากซอยสุขุมวิท 45)<br>Lat: 13.727944<br>Long: 100.573417<br>num_bike: 5<br>District: คลองเตย<br>Location: ร้าน PAGODA &amp; CO (ปากซอยสุขุมวิท 45)<br>Lat: 13.727944<br>Long: 100.573417<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value><![CDATA[Location: ร้าน PAGODA & CO (ปากซอยสุขุมวิท 45)
+Lat: 13.727944
+Long: 100.573417
+num_bike: 5
+District: คลองเตย]]></value>
+        </Data>
+        <Data name="Location">
+          <value><![CDATA[ร้าน PAGODA &amp; CO (ปากซอยสุขุมวิท 45)]]></value>
+        </Data>
+        <Data name="Lat">
+          <value>13.727944</value>
+        </Data>
+        <Data name="Long">
+          <value>100.573417</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.573417,13.727944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO068</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร เต๊กฮวด บิซิเนส (ปากซอย สุขุมวิท 30/1)<br>Lat: 13.727639<br>Long: 100.573611<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร เต๊กฮวด บิซิเนส (ปากซอย สุขุมวิท 30/1)<br>Lat: 13.727639<br>Long: 100.573611<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร เต๊กฮวด บิซิเนส (ปากซอย สุขุมวิท 30/1)
+Lat: 13.727639
+Long: 100.573611
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร เต๊กฮวด บิซิเนส (ปากซอย สุขุมวิท 30/1)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.727639</value>
+        </Data>
+        <Data name="Long">
+          <value>100.573611</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.573611,13.727639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO069</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคาร UOB (BTS พร้อมพงษ์)<br>Lat: 13.729778<br>Long: 100.570556<br>num_bike: 5<br>District: คลองเตย<br>Location: ธนาคาร UOB (BTS พร้อมพงษ์)<br>Lat: 13.729778<br>Long: 100.570556<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคาร UOB (BTS พร้อมพงษ์)
+Lat: 13.729778
+Long: 100.570556
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคาร UOB (BTS พร้อมพงษ์)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.729778</value>
+        </Data>
+        <Data name="Long">
+          <value>100.570556</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.570556,13.729778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO070</name>
+      <description><![CDATA[คำอธิบาย: Location: Emporium (บันได BTS พร้อมพงษ์ทิศตะวันตกเฉียงเหนือ)<br>Lat: 13.730861<br>Long: 100.569028<br>num_bike: 5<br>District: คลองเตย<br>Location: Emporium (บันได BTS พร้อมพงษ์ทิศตะวันตกเฉียงเหนือ)<br>Lat: 13.730861<br>Long: 100.569028<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Emporium (บันได BTS พร้อมพงษ์ทิศตะวันตกเฉียงเหนือ)
+Lat: 13.730861
+Long: 100.569028
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>Emporium (บันได BTS พร้อมพงษ์ทิศตะวันตกเฉียงเหนือ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.730861</value>
+        </Data>
+        <Data name="Long">
+          <value>100.569028</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.569028,13.730861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO071</name>
+      <description><![CDATA[คำอธิบาย: Location: สวนเบญจสิริ (ตรงข้าม ธนาคารกรุงศรี)<br>Lat: 13.731750<br>Long: 100.567750<br>num_bike: 5<br>District: คลองเตย<br>Location: สวนเบญจสิริ (ตรงข้าม ธนาคารกรุงศรี)<br>Lat: 13.731750<br>Long: 100.567750<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สวนเบญจสิริ (ตรงข้าม ธนาคารกรุงศรี)
+Lat: 13.731750
+Long: 100.567750
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>สวนเบญจสิริ (ตรงข้าม ธนาคารกรุงศรี)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.731750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.567750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.56775,13.73175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO072</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้านขายยา เภสัช 22 (สุขุมวิท)<br>Lat: 13.733917<br>Long: 100.564694<br>num_bike: 5<br>District: คลองเตย<br>Location: ร้านขายยา เภสัช 22 (สุขุมวิท)<br>Lat: 13.733917<br>Long: 100.564694<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้านขายยา เภสัช 22 (สุขุมวิท)
+Lat: 13.733917
+Long: 100.564694
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้านขายยา เภสัช 22 (สุขุมวิท)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.733917</value>
+        </Data>
+        <Data name="Long">
+          <value>100.564694</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.564694,13.733917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO073</name>
+      <description><![CDATA[คำอธิบาย: Location: โชว์รูม Lexus สุขุมวิท<br>Lat: 13.735083<br>Long: 100.563056<br>num_bike: 5<br>District: คลองเตย<br>Location: โชว์รูม Lexus สุขุมวิท<br>Lat: 13.735083<br>Long: 100.563056<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โชว์รูม Lexus สุขุมวิท
+Lat: 13.735083
+Long: 100.563056
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>โชว์รูม Lexus สุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.735083</value>
+        </Data>
+        <Data name="Long">
+          <value>100.563056</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.563056,13.735083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO074</name>
+      <description><![CDATA[คำอธิบาย: Location: MRT สุขุมวิท BL22 (ประตู 3)<br>Lat: 13.736806<br>Long: 100.561167<br>num_bike: 5<br>District: วัฒนา<br>Location: MRT สุขุมวิท BL22 (ประตู 3)<br>Lat: 13.736806<br>Long: 100.561167<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MRT สุขุมวิท BL22 (ประตู 3)
+Lat: 13.736806
+Long: 100.561167
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>MRT สุขุมวิท BL22 (ประตู 3)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736806</value>
+        </Data>
+        <Data name="Long">
+          <value>100.561167</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.561167,13.736806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO075</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน เออเบิน รีทรีท (บันได BTS อโศก ทิศตะวันออกเฉียงใต้)<br>Lat: 13.736583<br>Long: 100.560917<br>num_bike: 5<br>District: คลองเตย<br>Location: ร้าน เออเบิน รีทรีท (บันได BTS อโศก ทิศตะวันออกเฉียงใต้)<br>Lat: 13.736583<br>Long: 100.560917<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน เออเบิน รีทรีท (บันได BTS อโศก ทิศตะวันออกเฉียงใต้)
+Lat: 13.736583
+Long: 100.560917
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน เออเบิน รีทรีท (บันได BTS อโศก ทิศตะวันออกเฉียงใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736583</value>
+        </Data>
+        <Data name="Long">
+          <value>100.560917</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.560917,13.736583,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO076</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงแรม โซลาเรีย นิชิเทสซึ<br>Lat: 13.736861<br>Long: 100.560278<br>num_bike: 5<br>District: คลองเตย<br>Location: โรงแรม โซลาเรีย นิชิเทสซึ<br>Lat: 13.736861<br>Long: 100.560278<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงแรม โซลาเรีย นิชิเทสซึ
+Lat: 13.736861
+Long: 100.560278
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงแรม โซลาเรีย นิชิเทสซึ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.736861</value>
+        </Data>
+        <Data name="Long">
+          <value>100.560278</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.560278,13.736861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO077</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน สยาม นวดเพื่อสุขภาพ<br>Lat: 13.737472<br>Long: 100.559722<br>num_bike: 5<br>District: วัฒนา<br>Location: ร้าน สยาม นวดเพื่อสุขภาพ<br>Lat: 13.737472<br>Long: 100.559722<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน สยาม นวดเพื่อสุขภาพ
+Lat: 13.737472
+Long: 100.559722
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน สยาม นวดเพื่อสุขภาพ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.737472</value>
+        </Data>
+        <Data name="Long">
+          <value>100.559722</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.559722,13.737472,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO078</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Times Square (หน้า STARBUCKS COFFEE)<br>Lat: 13.738139<br>Long: 100.558778<br>num_bike: 5<br>District: คลองเตย<br>Location: อาคาร Times Square (หน้า STARBUCKS COFFEE)<br>Lat: 13.738139<br>Long: 100.558778<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Times Square (หน้า STARBUCKS COFFEE)
+Lat: 13.738139
+Long: 100.558778
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Times Square (หน้า STARBUCKS COFFEE)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738139</value>
+        </Data>
+        <Data name="Long">
+          <value>100.558778</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.558778,13.738139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO079</name>
+      <description><![CDATA[คำอธิบาย: Location: Korea Town (หน้าร้าน BAR BQ.)<br>Lat: 13.738611<br>Long: 100.558056<br>num_bike: 5<br>District: คลองเตย<br>Location: Korea Town (หน้าร้าน BAR BQ.)<br>Lat: 13.738611<br>Long: 100.558056<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Korea Town (หน้าร้าน BAR BQ.)
+Lat: 13.738611
+Long: 100.558056
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>Korea Town (หน้าร้าน BAR BQ.)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738611</value>
+        </Data>
+        <Data name="Long">
+          <value>100.558056</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.558056,13.738611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO080</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกรุงเทพ (สาขาบางกะปิ)<br>Lat: 13.739389<br>Long: 100.556778<br>num_bike: 5<br>District: คลองเตย<br>Location: ธนาคารกรุงเทพ (สาขาบางกะปิ)<br>Lat: 13.739389<br>Long: 100.556778<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกรุงเทพ (สาขาบางกะปิ)
+Lat: 13.739389
+Long: 100.556778
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกรุงเทพ (สาขาบางกะปิ)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739389</value>
+        </Data>
+        <Data name="Long">
+          <value>100.556778</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.556778,13.739389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO081</name>
+      <description><![CDATA[คำอธิบาย: Location: คอนโด Q 1 สุขุมวิท<br>Lat: 13.740278<br>Long: 100.555389<br>num_bike: 5<br>District: คลองเตย<br>Location: คอนโด Q 1 สุขุมวิท<br>Lat: 13.740278<br>Long: 100.555389<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: คอนโด Q 1 สุขุมวิท
+Lat: 13.740278
+Long: 100.555389
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>คอนโด Q 1 สุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740278</value>
+        </Data>
+        <Data name="Long">
+          <value>100.555389</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.555389,13.740278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO082</name>
+      <description><![CDATA[คำอธิบาย: Location: O-NES Tower (บันได BTS นานา ทิศตะวันตกเฉียงใต้)<br>Lat: 13.740556<br>Long: 100.555028<br>num_bike: 5<br>District: คลองเตย<br>Location: O-NES Tower (บันได BTS นานา ทิศตะวันตกเฉียงใต้)<br>Lat: 13.740556<br>Long: 100.555028<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: O-NES Tower (บันได BTS นานา ทิศตะวันตกเฉียงใต้)
+Lat: 13.740556
+Long: 100.555028
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>O-NES Tower (บันได BTS นานา ทิศตะวันตกเฉียงใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740556</value>
+        </Data>
+        <Data name="Long">
+          <value>100.555028</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.555028,13.740556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO083</name>
+      <description><![CDATA[คำอธิบาย: Location: JW Mariott Hotel Bangkok<br>Lat: 13.742389<br>Long: 100.552167<br>num_bike: 5<br>District: คลองเตย<br>Location: JW Mariott Hotel Bangkok<br>Lat: 13.742389<br>Long: 100.552167<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: JW Mariott Hotel Bangkok
+Lat: 13.742389
+Long: 100.552167
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>JW Mariott Hotel Bangkok</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742389</value>
+        </Data>
+        <Data name="Long">
+          <value>100.552167</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.552167,13.742389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO084</name>
+      <description><![CDATA[คำอธิบาย: Location: สำนักงานใหญ่ ธนาคารกรุงไทย อาคาร 2<br>Lat: 13.742611<br>Long: 100.551167<br>num_bike: 5<br>District: คลองเตย<br>Location: สำนักงานใหญ่ ธนาคารกรุงไทย อาคาร 2<br>Lat: 13.742611<br>Long: 100.551167<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: สำนักงานใหญ่ ธนาคารกรุงไทย อาคาร 2
+Lat: 13.742611
+Long: 100.551167
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>สำนักงานใหญ่ ธนาคารกรุงไทย อาคาร 2</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742611</value>
+        </Data>
+        <Data name="Long">
+          <value>100.551167</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.551167,13.742611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO085</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Q House เพลินจิต<br>Lat: 13.742806<br>Long: 100.550028<br>num_bike: 5<br>District: ปทุมวัน<br>Location: อาคาร Q House เพลินจิต<br>Lat: 13.742806<br>Long: 100.550028<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Q House เพลินจิต
+Lat: 13.742806
+Long: 100.550028
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Q House เพลินจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742806</value>
+        </Data>
+        <Data name="Long">
+          <value>100.550028</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.550028,13.742806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO086</name>
+      <description><![CDATA[คำอธิบาย: Location: MAHATUN Plaza<br>Lat: 13.742889<br>Long: 100.548944<br>num_bike: 5<br>District: ปทุมวัน<br>Location: MAHATUN Plaza<br>Lat: 13.742889<br>Long: 100.548944<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: MAHATUN Plaza
+Lat: 13.742889
+Long: 100.548944
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>MAHATUN Plaza</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742889</value>
+        </Data>
+        <Data name="Long">
+          <value>100.548944</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.548944,13.742889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO087</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกรุงศรีอยุธยา สำนักงานเพลินจิต<br>Lat: 13.743306<br>Long: 100.547083<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ธนาคารกรุงศรีอยุธยา สำนักงานเพลินจิต<br>Lat: 13.743306<br>Long: 100.547083<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกรุงศรีอยุธยา สำนักงานเพลินจิต
+Lat: 13.743306
+Long: 100.547083
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกรุงศรีอยุธยา สำนักงานเพลินจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743306</value>
+        </Data>
+        <Data name="Long">
+          <value>100.547083</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.547083,13.743306,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO088</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร 898 Ploenchit Tower<br>Lat: 13.743694<br>Long: 100.544889<br>num_bike: 5<br>District: ปทุมวัน<br>Location: อาคาร 898 Ploenchit Tower<br>Lat: 13.743694<br>Long: 100.544889<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร 898 Ploenchit Tower
+Lat: 13.743694
+Long: 100.544889
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร 898 Ploenchit Tower</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743694</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544889</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.544889,13.743694,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO089</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร Amarin<br>Lat: 13.744194<br>Long: 100.541444<br>num_bike: 5<br>District: ปทุมวัน<br>Location: อาคาร Amarin<br>Lat: 13.744194<br>Long: 100.541444<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร Amarin
+Lat: 13.744194
+Long: 100.541444
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร Amarin</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744194</value>
+        </Data>
+        <Data name="Long">
+          <value>100.541444</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.541444,13.744194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO090</name>
+      <description><![CDATA[คำอธิบาย: Location: เกษตร วิลเลจ (ประตูทิศใต้)<br>Lat: 13.744694<br>Long: 100.540694<br>num_bike: 5<br>District: ปทุมวัน<br>Location: เกษตร วิลเลจ (ประตูทิศใต้)<br>Lat: 13.744694<br>Long: 100.540694<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: เกษตร วิลเลจ (ประตูทิศใต้)
+Lat: 13.744694
+Long: 100.540694
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>เกษตร วิลเลจ (ประตูทิศใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744694</value>
+        </Data>
+        <Data name="Long">
+          <value>100.540694</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.540694,13.744694,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO091</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน คิงส์ แอนติคส์<br>Lat: 13.744278<br>Long: 100.542861<br>num_bike: 5<br>District: ปทุมวัน<br>Location: ร้าน คิงส์ แอนติคส์<br>Lat: 13.744278<br>Long: 100.542861<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน คิงส์ แอนติคส์
+Lat: 13.744278
+Long: 100.542861
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน คิงส์ แอนติคส์</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744278</value>
+        </Data>
+        <Data name="Long">
+          <value>100.542861</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.542861,13.744278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO092</name>
+      <description><![CDATA[คำอธิบาย: Location: การไฟฟ้านครหลวง สาขาย่อยเพลินจิต<br>Lat: 13.744083<br>Long: 100.543694<br>num_bike: 5<br>District: ปทุมวัน<br>Location: การไฟฟ้านครหลวง สาขาย่อยเพลินจิต<br>Lat: 13.744083<br>Long: 100.543694<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: การไฟฟ้านครหลวง สาขาย่อยเพลินจิต
+Lat: 13.744083
+Long: 100.543694
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>การไฟฟ้านครหลวง สาขาย่อยเพลินจิต</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.744083</value>
+        </Data>
+        <Data name="Long">
+          <value>100.543694</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.543694,13.744083,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO093</name>
+      <description><![CDATA[คำอธิบาย: Location: Central ชิดลม (ตรงข้าม เพลินจิต ทาวเวอร์)<br>Lat: 13.743861<br>Long: 100.544972<br>num_bike: 5<br>District: ปทุมวัน<br>Location: Central ชิดลม (ตรงข้าม เพลินจิต ทาวเวอร์)<br>Lat: 13.743861<br>Long: 100.544972<br>num_bike: 5.0<br>District: ปทุมวัน]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: Central ชิดลม (ตรงข้าม เพลินจิต ทาวเวอร์)
+Lat: 13.743861
+Long: 100.544972
+num_bike: 5
+District: ปทุมวัน</value>
+        </Data>
+        <Data name="Location">
+          <value>Central ชิดลม (ตรงข้าม เพลินจิต ทาวเวอร์)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.743861</value>
+        </Data>
+        <Data name="Long">
+          <value>100.544972</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ปทุมวัน</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.544972,13.743861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO094</name>
+      <description><![CDATA[คำอธิบาย: Location: ธนาคารกรุงไทย สำนักงาน นานาเหนือ<br>Lat: 13.742528<br>Long: 100.552000<br>num_bike: 5<br>District: วัฒนา<br>Location: ธนาคารกรุงไทย สำนักงาน นานาเหนือ<br>Lat: 13.742528<br>Long: 100.552000<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ธนาคารกรุงไทย สำนักงาน นานาเหนือ
+Lat: 13.742528
+Long: 100.552000
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>ธนาคารกรุงไทย สำนักงาน นานาเหนือ</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.742528</value>
+        </Data>
+        <Data name="Long">
+          <value>100.552000</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.552,13.742528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO095</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้าน Boss Sukhumvit<br>Lat: 13.740528<br>Long: 100.555611<br>num_bike: 5<br>District: คลองเตย<br>Location: ร้าน Boss Sukhumvit<br>Lat: 13.740528<br>Long: 100.555611<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้าน Boss Sukhumvit
+Lat: 13.740528
+Long: 100.555611
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้าน Boss Sukhumvit</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.740528</value>
+        </Data>
+        <Data name="Long">
+          <value>100.555611</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.555611,13.740528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO096</name>
+      <description><![CDATA[คำอธิบาย: Location: อาคาร HYATT REGENCY Bangkok Sukhumvit<br>Lat: 13.739750<br>Long: 100.556750<br>num_bike: 5<br>District: วัฒนา<br>Location: อาคาร HYATT REGENCY Bangkok Sukhumvit<br>Lat: 13.739750<br>Long: 100.556750<br>num_bike: 5.0<br>District: วัฒนา]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: อาคาร HYATT REGENCY Bangkok Sukhumvit
+Lat: 13.739750
+Long: 100.556750
+num_bike: 5
+District: วัฒนา</value>
+        </Data>
+        <Data name="Location">
+          <value>อาคาร HYATT REGENCY Bangkok Sukhumvit</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739750</value>
+        </Data>
+        <Data name="Long">
+          <value>100.556750</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>วัฒนา</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.55675,13.73975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO097</name>
+      <description><![CDATA[คำอธิบาย: Location: โรงแรมโซฟิเทลกรุงเทพสุขุมวิท<br>Lat: 13.739056<br>Long: 100.557694<br>num_bike: 5<br>District: คลองเตย<br>Location: โรงแรมโซฟิเทลกรุงเทพสุขุมวิท<br>Lat: 13.739056<br>Long: 100.557694<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: โรงแรมโซฟิเทลกรุงเทพสุขุมวิท
+Lat: 13.739056
+Long: 100.557694
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>โรงแรมโซฟิเทลกรุงเทพสุขุมวิท</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.739056</value>
+        </Data>
+        <Data name="Long">
+          <value>100.557694</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.557694,13.739056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO098</name>
+      <description><![CDATA[คำอธิบาย: Location: The Westin Grande Sukhumvit Bangkok<br>Lat: 13.738028<br>Long: 100.559139<br>num_bike: 5<br>District: คลองเตย<br>Location: The Westin Grande Sukhumvit Bangkok<br>Lat: 13.738028<br>Long: 100.559139<br>num_bike: 5.0<br>District: คลองเตย]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: The Westin Grande Sukhumvit Bangkok
+Lat: 13.738028
+Long: 100.559139
+num_bike: 5
+District: คลองเตย</value>
+        </Data>
+        <Data name="Location">
+          <value>The Westin Grande Sukhumvit Bangkok</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.738028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.559139</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>คลองเตย</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.559139,13.738028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO099</name>
+      <description><![CDATA[คำอธิบาย: Location: ร้านชานชาลา (BTS พญาไท ทิศตะวันออก)<br>Lat: 13.756611<br>Long: 100.533861<br>num_bike: 5<br>District: ราชเทวี<br>Location: ร้านชานชาลา (BTS พญาไท ทิศตะวันออก)<br>Lat: 13.756611<br>Long: 100.533861<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ร้านชานชาลา (BTS พญาไท ทิศตะวันออก)
+Lat: 13.756611
+Long: 100.533861
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>ร้านชานชาลา (BTS พญาไท ทิศตะวันออก)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.756611</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533861</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533861,13.756611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEO100</name>
+      <description><![CDATA[คำอธิบาย: Location: ไปรษณีย์ ราชเทวี (BTS พญาไท ทิศใต้)<br>Lat: 13.756028<br>Long: 100.533528<br>num_bike: 5<br>District: ราชเทวี<br>Location: ไปรษณีย์ ราชเทวี (BTS พญาไท ทิศใต้)<br>Lat: 13.756028<br>Long: 100.533528<br>num_bike: 5.0<br>District: ราชเทวี]]></description>
+      <styleUrl>#icon-1522-880E4F</styleUrl>
+      <ExtendedData>
+        <Data name="คำอธิบาย">
+          <value>Location: ไปรษณีย์ ราชเทวี (BTS พญาไท ทิศใต้)
+Lat: 13.756028
+Long: 100.533528
+num_bike: 5
+District: ราชเทวี</value>
+        </Data>
+        <Data name="Location">
+          <value>ไปรษณีย์ ราชเทวี (BTS พญาไท ทิศใต้)</value>
+        </Data>
+        <Data name="Lat">
+          <value>13.756028</value>
+        </Data>
+        <Data name="Long">
+          <value>100.533528</value>
+        </Data>
+        <Data name="num_bike">
+          <value>5.0</value>
+        </Data>
+        <Data name="District">
+          <value>ราชเทวี</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          100.533528,13.756028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

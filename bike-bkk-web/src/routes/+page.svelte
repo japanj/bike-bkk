@@ -1,8 +1,6 @@
 <script lang="ts">
   import {
     MapLibre,
-    Marker,
-    Popup,
     NavigationControl,
     ScaleControl,
     GlobeControl,
@@ -17,7 +15,7 @@
 
   let lnglat: [number, number] = [100.503412, 13.7497695];
 
-  // import bike route data
+  // import data
   const { data } = $props();
 
   let bike_route = data.bike_route as GeoJSON.FeatureCollection;
@@ -66,11 +64,10 @@
       console.log("Station clicked:", stationFeatures[0]);
       highlightedStation = stationFeatures[0];
       isMarkerHighlighted = true;
-    }
-    else {
-        // Clear highlighted station if clicking elsewhere
-        highlightedStation = null;
-        isMarkerHighlighted = false;
+    } else {
+      // Clear highlight when clicking elsewhere
+      // highlightedStation = null;
+      isMarkerHighlighted = false;
     }
 
     // Bike route click handling
@@ -81,20 +78,20 @@
 
     if (features && features.length > 0) {
       selectedRoute = features[0];
-      highlightedRoute = features[0]; // Add this line to highlight the route
+      highlightedRoute = features[0];
       routePopupLngLat = [event.lngLat.lng, event.lngLat.lat];
       routePopupVisible = true;
     } else {
       // Clear highlight when clicking elsewhere
       highlightedRoute = null;
       routePopupVisible = false;
-      selectedRoute = null;
+      // selectedRoute = null;
       routePopupLngLat = null;
     }
   }
 
-  // Overpass API function
-  async function searchNearbyPlaces(lat: number, lon: number) {
+  // searchNearbyPlaces function (calling Overpass API)
+  async function searchNearbyPlaces() {
     if (!selectedRoute || !bike_route_buffer) {
       console.error("No route selected or buffer data not available");
       return;
@@ -116,7 +113,7 @@
         return;
       }
 
-      // Get buffer bounds to create search area
+      // Get buffer bounds to create search area (buffer is set to 500 meters)
       const coordinates = bufferFeature.geometry.coordinates[0];
       console.log("Buffer coordinates:", coordinates);
 
@@ -175,14 +172,14 @@
     }
   }
 
-  // Handle search button click
+  // Search button click
   function handleSearchNearby() {
     if (routePopupLngLat) {
-      searchNearbyPlaces(routePopupLngLat[1], routePopupLngLat[0]);
+      searchNearbyPlaces();
     }
   }
 
-  // Handle nearby card click
+  // Handle nearby place card click
   function handleNearbyPlaceClick(place: any) {
     selectedPlace = place;
     placeLngLat = [place.lon, place.lat];
@@ -216,6 +213,7 @@
   <ScaleControl />
   <GlobeControl />
 
+  <!-- Bike route layer -->
   <GeoJSONSource data={bike_route} id="bike-route-source">
     <LineLayer
       id="bike-route-layer"
@@ -241,21 +239,22 @@
       <LineLayer
         id="highlighted-route-layer"
         paint={{
-          "line-color": "#00ff00", // Bright green for highlight
-          "line-width": 6, // Thicker line
+          "line-color": "#00ff00",
+          "line-width": 6,
           "line-opacity": 0.8,
         }}
       />
     </GeoJSONSource>
   {/if}
 
+  <!-- Bike sharing locations layer -->
   <GeoJSONSource data={bike_sharing_loc} id="bike-stations-source">
     <!-- Regular bike stations -->
     <CircleLayer
       id="bike-stations-layer"
       paint={{
         "circle-radius": 8,
-        "circle-color": "#3b82f6", // Blue
+        "circle-color": "#3b82f6",
         "circle-stroke-width": 2,
         "circle-stroke-color": "#ffffff",
       }}
@@ -265,26 +264,27 @@
     />
 
     <!-- Highlighted station (orange) -->
-    {#if highlightedStation}
+    {#if isMarkerHighlighted && markerVisible}
       <CircleLayer
         id="bike-stations-highlighted-layer"
         paint={{
           "circle-radius": 12,
-          "circle-color": "#f97316", // Orange
+          "circle-color": "#f97316",
           "circle-stroke-width": 3,
           "circle-stroke-color": "#ffffff",
           "circle-opacity": 0.8,
         }}
         filter={[
           "==",
-          ["get", "sta_name"],
-          highlightedStation.properties?.sta_name || "",
+          ["get", "Name"],
+          highlightedStation.properties?.Name || "",
         ]}
       />
     {/if}
   </GeoJSONSource>
 
-  {#if highlightedStation}
+  <!-- Bike sharing popup -->
+  {#if isMarkerHighlighted && markerVisible}
     <BikeSharingPopup
       {highlightedStation}
       index={bike_sharing_loc.features.indexOf(highlightedStation)}
@@ -300,7 +300,7 @@
       {isLoading}
       onClose={() => {
         routePopupVisible = false;
-        selectedRoute = null;
+        // selectedRoute = null;
         routePopupLngLat = null;
       }}
       onSearch={handleSearchNearby}
@@ -317,7 +317,7 @@
 {#if nearbyPlaces.length > 0}
   <div class="mt-4 p-4 bg-gray-50 rounded-lg">
     <h3 class="font-bold text-lg mb-3">
-      📍 Nearby Places of {selectedPlace?.name} ({nearbyPlaces.length})
+      📍 Nearby Places of {selectedRoute.properties?.name} ({nearbyPlaces.length})
     </h3>
     <div
       class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 max-h-60 overflow-y-auto"
