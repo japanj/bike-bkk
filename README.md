@@ -45,7 +45,7 @@ In this web application, users can perform the following actions:
 
 # Demo application
 
-<video width="800" controls src="https://github.com/japanj/bike-bkk/blob/main/demo/bike-bkk-demo.mp4">
+<video width="800" controls src="https://github.com/japanj/bike-bkk/raw/refs/heads/main/demo/bike-bkk-demo.mp4">
 </video>
 
 # How to run the project
