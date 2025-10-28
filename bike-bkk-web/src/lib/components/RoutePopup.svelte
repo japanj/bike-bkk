@@ -41,6 +41,13 @@
       </p>
     {/if}
 
+    {#if selectedRoute.properties?.distance}
+      <p class="text-sm mb-1">
+        <strong>Distance:</strong>
+        {selectedRoute.properties.distance} km
+      </p>
+    {/if}
+
     <p class="text-xs text-gray-500 mt-2">
       Click location: {routePopupLngLat[1].toFixed(4)}, {routePopupLngLat[0].toFixed(
         4

@@ -194,10 +194,10 @@
 <div class="flex items-center gap-x-4 text-sm">
   <b>Layer:</b>
   <label>
-    <input type="checkbox" bind:checked={markerVisible} /> Bike sharing location
+    <input type="checkbox" bind:checked={markerVisible} /> Bike Sharing Location (จุดจอดจักรยานสาธารณะ)
   </label>
   <label>
-    <input type="checkbox" bind:checked={lineVisible} /> Bike route
+    <input type="checkbox" bind:checked={lineVisible} /> Bike Route (เส้นทางจักรยาน)
   </label>
 </div>
 
@@ -287,7 +287,6 @@
   {#if isMarkerHighlighted && markerVisible}
     <BikeSharingPopup
       {highlightedStation}
-      index={bike_sharing_loc.features.indexOf(highlightedStation)}
       {isMarkerHighlighted}
     />
   {/if}

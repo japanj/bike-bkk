@@ -2,7 +2,6 @@
   import { Popup } from "svelte-maplibre-gl";
   let {
     highlightedStation = $bindable(),
-    index,
     isMarkerHighlighted = $bindable(),
   } = $props();
 </script>
